@@ -1,0 +1,15 @@
+Microsoft Office 2008 for Mac:
+
+I previously reviewed the Home & Student Edition on my old G4 Mac Mini. I recently bought a new Intel based Mac Mini (2.0 GHz) with 4 GB of RAM, from Amazon. I also got the "full" copy of MS Office Mac. I had thought it would be a more fully featured version. But, it is NOT. For about three times the money you get MS Exchange compatibility and two LESS licenses. I really didn't fully understand this at first. Now I do. Unless you absolutely need Exchange in Entourage, there is no need to buy this version. Save the money and get the Home version.  I also need to correct some of my earlier review, which I will quote and amend below.
+
+To start the installation process, even on the new Mini took forever. I am estimating an hour to no more updates needed. That was quite an ordeal! It really should have been one big update and reboot and done, it was not. It was over and over and over rebooting and updating. Phew!
+
+"Entourage is the answer to Outlook. It's pretty good as a mail client and contact and appointment organizer. It also successfully synced to my Mobile Me account. It's much slicker than the Mac Mail client but you'd hope it was for a for sale product.  It is nice to have mail contacts and calendar in one program as it belongs. This is the best reason for Entourage, consolidation of the obvious. Apple insists they be separate."  Well that was earlier. Now I can't get Mobile Me (which Office continues to call .Mac, really Microsoft?) to properly sync the calendar. This is a major pain! It worked earlier and now it doesn't. I was working earlier on Tiger now I'm on Leopard, is that why? I don't know. I really wanted to use Entourage but now it's useless to me.
+
+"Excel and Power Point are the more business oriented, apps included in Office. They function well and as expected but on a G4 a little slowly.  Excel provides spreadsheet capabilities and Powerpoint, does presentations. "  No real changes here these two operate juts fine and as they should.
+
+"A bonus app is Microsoft Messenger. Readily available on the web, but included in this app for easy installation."  Still there and still works, but I wonder how many true Mac people will actually use this client.
+
+Overall a very comprehensive package, but for around $300 it really is overpriced and not worth the extra cost unless you absolutely need Exchange and absolute Office compatibility.  It competes with the free open source office apps like "Open Office" and FREE is a compelling price!  It also is the standard by which other office apps are measured and keeps that lead in check. My only reservation is if you have an older Mac, PowerPC based, you will find it too slow.
+
+Day to day operations are quite quick on the new Mini and assume even better on more powerful Macs.  I have to wonder if this version is even needed with Apple building Exchange right into the next OS??

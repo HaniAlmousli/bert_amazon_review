@@ -1,0 +1,19 @@
+About twenty years ago, there was a really popular photo manipulation tool called Kai's Power Tools. If you were a teenager, it was an easy and awesome way to screw around with pictures. Anyone who saw said pictures would know you used KPT, and whether or not that was "cool" depended on the audience.
+
+Why is this relevant? Well, that's kind of what PhotoDirector is. When you first launch it (and for reference, I'm talking about the Mac version) it looks kind of like an early version of&nbsp;<a data-hook="product-link-linked" class="a-link-normal" href="/Adobe-Lightroom/dp/B00CH6ATMO/ref=cm_cr_arp_d_rvw_txt?ie=UTF8">Adobe Lightroom</a>, but the functionality isn't anything more than what you've already got in iPhoto -- except that PhotoDirector isn't aware of anything in your iPhoto library.
+
+The Adjustment tab gives you a very basic color and tone adjustments in manual mode, and really heavy presets that would make any photo look obviously manipulated... poorly.
+
+The Edit tab gives you functions like "People Beautifier" and "Object Removal", which claim to be image-aware. In practice, they're all badly-automated knockoffs of Adobe's Heal Tool. (It basically guesses at a portion of a picture to duplicate, and uses it to cover what you don't want in the picture.) Even in pictures with low complexity, the tools do an awful job of hiding themselves.
+
+If you have visions of doing anything at all with layers, you can forget about it. Despite giving the impression of Photoshop / GIMP / PaintShop Pro types of editing, PhotoDirector is intent on holding your hand through awful presets.
+
+Slideshow is... a slideshow.
+
+Print is the only tab that seems at least marginally useful, but even that locks you in to weird presets.
+
+So, if you want to take your cell phone pictures and go nuts with the "Eye Blinger" and "Tooth Brush" tools to make people look like Barbie dolls with strange patchy skin tones, or think that people won't notice how the "Body Shaper" tool has caused the background to mysteriously warp around your curves, this is all you need.
+
+Or, if you want to take pictures of that tree in your back yard, make it sepia, and then add a gigantic watermark and copyright to thwart would-be "art" pirates in just a couple of clicks, I suppose you could do worse.
+
+If you care even slightly about photography or realism in photos, stay far away from this product. Considering how closely priced this is (at the time of this review) to&nbsp;<a data-hook="product-link-linked" class="a-link-normal" href="/Photoshop-Elements/dp/B00EOQZB0A/ref=cm_cr_arp_d_rvw_txt?ie=UTF8">Photoshop Elements</a>, you'd have to be crazy not to choose that over PhotoDirector. Or if you don't want to learn Photoshop, consider&nbsp;<a data-hook="product-link-linked" class="a-link-normal" href="/PaintShop-Pro/dp/B00EOI2SR2/ref=cm_cr_arp_d_rvw_txt?ie=UTF8">PaintShop Pro</a>, which is a similar program that costs less, and works much better.

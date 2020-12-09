@@ -1,0 +1,11 @@
+For software where you can pick up free versions, like 7-zip, I'm surprised Corel has this retailing for $60. Even winrar comes with a trial that never expires, but it will nag you every time you run it. On top of this, you can purchase it online for half the cost of this.
+
+Otherwise, it installed easily enough and it is now my default unzip software. I was happy with it until this morning....
+
+When I logged onto my computer, it said an update was available. No problem, I said to go ahead and download/install the update. After the install, it took me through the installation wizard. I was a little nervous because this is when extra software likes to piggy back onto your computer.
+
+Sure enough, after the install some colorful, round icon appeared on my desktop. I was upset because 1) this is paid software for crying out loud. Fine, try to sneak stuff in when it is free, I get that you need to pay the bills. But this wasn't free, this was $60!! And then even worse is 2) it never prompted me to install this software. Usually when I update Java I catch that it is trying to install a toolbar and I tell it not to. With this, it didn't even give me the option, it just installed it hoping I wouldn't notice.
+
+I immediately uninstalled the new software, but when I got to work I noticed my Chrome (which syncs settings with my home computer) now had a new home page. Needless to say, I'm not happy.
+
+Honestly, I didn't realize until now that WinZip is owned by Corel. Upon the realization I muttered, "That explains things." I've had nothing but bad luck with Corel ever since they bought Word Perfect. I would have skipped this completely if I had noticed who sells it now. The fact they obscure their name from the product is rather telling.

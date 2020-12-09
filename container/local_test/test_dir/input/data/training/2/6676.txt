@@ -1,0 +1,9 @@
+I was perfectly happy with Quicken 2012 but when I saw that 2013 had an iPad app I had to take the plunge. Throughout my day, I spend a lot of pocket cash that I often forget about, and the idea of being able to enter transactions directly on my iPad and then sync them when I got home was *very* appealing to me since I'd often end a month with a few hundred dollars in "pocket cash" when my wallet only had $20 in it.
+
+However, the cloud experience just flat out does not work. I added all of my accounts, but when I log into the iPad App it tells me to go to my computer and add the accounts. I've tried cloud sync several times. After about 5 minutes, a window pops up that "Quicken has stopped responding" with options to close the program or continue waiting. I picked "Continue" then took my dogs for a walk, only to return 20 minutes later to the same message and I have a *VERY* fast Internet connection (it took about 1 minute to download the Quicken program itself).
+
+After doing some research on the web, I saw that a lot of users were not only having trouble with the iPad app, but were LOSING DATA. This thought terrifies me, so I temporarily turned off cloud sync.
+
+As for the rest of the app, nothing really new and exciting. It does what Quicken is supposed to do.
+
+I'm giving it two stars because the basic app itself is functional, but I feel Intuit has really misled the consumer into upgrading with the idea of a cloud-based iPad app when this app isn't working properly.

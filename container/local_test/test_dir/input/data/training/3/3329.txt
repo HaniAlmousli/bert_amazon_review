@@ -1,0 +1,28 @@
+I installed Microsoft Streets and Trips on my ASUS Eee PC 1000HE netbook.
+Software installed easily and quickly using an external DVD drive.  The computer recognized the GPS unit, however it could not find any satellites (in comparison the Garmin sitting next to it was finding 10 satellites).
+
+I contacted Microsoft and through remote access the tech did the following. I asked him to send it in an email to me so I could provide it here.
+*******
+Following are the steps we did
+
+Step 1: Click on START and then click on RUN. In the RUN box, type MSCONFIG and click on OK.
+
+Step 2: Under System Configuration, click on Selective Startup, and uncheck the following items...
+
+Process System.ini file
+Process Win.ini file
+Load Startup Items
+
+Then click on the tab SERVICES and check the option - Hide all Microsoft Services. Then click on DISABLE ALL and the click on APPLY and CLOSE.
+
+When prompted to, restart the PC and try Streets and Trips with the GPS, it should work. Once it Starts working, repeat Step 1 above, and then switch back to Normal Startup, apply that change and click on CLOSE. That will get the computer back to normal. Now, try Streets and Trips with the GPS again, and it should be working, with the PC in normal mode.
+
+********
+
+Once this was done the GPS did pick up satellites.  However, when actually using it on the road the connection was dropped and picked up once every few minutes, then every time it would pick it up it would recalculate the trip again.  After speaking again to the tech he told me that it might be that the USB ports are not powered enough.  He got this information from another tech and sounded unsure about it.  I myself do not know if this is true.  Perhaps someone who does can comment on it.  I learned also from the tech that there are two different GPS units provided with this software.  I got a Navation GPS 168 with mine.
+ The software is great and intuitive.  My 13 year old son quickly figured out how to use it.  Great for finding restaurants, gas stations ect. You do need someone else to run it, it would be dangerous to be making adjustments while driving yourself.
+I am giving it 3 stars,  five stars for the software and one for the GPS receiver to average 3 overall.  The only downside I have found to the software is that sometimes it knows the street name (displays it on the map) but still calls it a "local road" when speaking directions.  I think it should work with a netbook, or if it does not they should tell you so in the description.  Tech support was very helpful and even called me back to see if it was still working a few days later.
+
+****UPDATE
+
+We bought a longer USB cord for the GPS so it could be right up in the windshield and now it works much better.  The cord supplied did not have a very tight connection and the short length made it hard to get it near a window.  I am upgrading it to two stars, since now it works pretty well but Microsoft should have sprung for a slightly better USB cord that holds the GPS securely and reaches far enough to go into the window.

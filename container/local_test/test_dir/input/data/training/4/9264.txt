@@ -1,0 +1,5 @@
+This is simply the basic Norton Internet Security software with a web interface that is simple to use for non-IT people who need to administer security software on multiple devices.  It also allows for additional devices to be added during the subscription period at a prorated cost.
+
+Like all anti-malware software, it saps resources and slows everything down, but at least it is not true malware disguised as anti-malware.
+
+What is very odd is that there are two different products on the Amazon page with a significantly different cost.  The less expensive version is a download.  The more expensive version is also a download.  The difference is that the more expensive version comes with the activation code on a card in a box that is shipped to the consumer and it is available outside of the U.S.

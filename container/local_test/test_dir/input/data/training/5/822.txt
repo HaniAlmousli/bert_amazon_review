@@ -1,0 +1,15 @@
+I am a computer geek. I have a lot of devices, many of those with ethernet ports. For instance, I have a PRISMIQ Media Player that hooks to the TV to watch videos and photos stored on the computer.
+
+That device has BOTH an ethernet port for wired lans, and a PCMCIA slot to insert a wireless networking card, but it must be of a given brand and model (from a list of supported cards).
+
+I wanted to hook the device to my LAN without drilling holes on walls, and I didn't want to have to seek a special pcmcia card. So I went with one Sony PCWA-DE80. I connected to the Prismiq ethernet port and Bingo!, instant wireless connectivity to my Netgear 802.11a Wireless Access Point!.
+
+A bonus with one of these devices you can say GOODBYE to WIFI driver issues. You just need a WIFI access point next to your adsl or cable modem, and this device. Then you can hook ANYTHING with a working ethernet port to your wireless lan!. It could be  a PC or any other device (could be a game console!). You plug the Sony ethernet-to-wifi converter into the device's RJ45 ethernet port and ... instant wireless connectivity. As far as the PC or  device is concerned, it's talking to a wired ethernet, even while it's not, as the sony devices bridges wifi to wired ethernet networks!.
+
+Setup is a breeze. Just point your browser to the devices's IP address and enter your wifi configuration data (supports wep up to 128 bits), the IP address that you want assigned to it, and that's it!. Then when you plug this unit to any device with an ethernet port, that device will immediately connect to your wifi network!. I even used one of these boxes to get instant WiFi connectivity on my old lan server running IBM OS/2, an operating system that doesn't have plenty of WiFi cards supported (if any).
+
+Another bonus: switch operating systems painlessly, don't worry about the availability of wifi drivers!. I test software for a living, so I often find myself installing several flavors of Linux on my notebook. However, availability of Wifi drivers for Linux is scarce. So, instead of having to thinker with the computer, I just tell linux to use the notebook's ethernet port, and I then plug the SONY ethernet to wifi converter and that's it. Instant connection and no need to drill holes on the walls.
+
+The downside: It's expensive, like most Sony gear. You can probably find several less expensive "ethernet to Wi-Fi" converters on the market, but to my knowledge the Sony ones are the ONLY that support the 5 Ghz 802.11a standard!, all cheaper devices work ONLY in the 2.4 Ghz frequency, using either 802.11b or 802.11g. I choose 802.11a because, while older, the 5 Ghz band is less prone to interference from 2.4 Ghz cordless phones, microwave ovens (did you know your microwave oven operates at 2.4 ghz?), and wireless security cameras, all of which pollute the 2.4 Ghz frequency spectrum.
+
+The PCWADE80 works BOTH in 2.4 Ghz frequency (802.11b ang "g") and also in 802.11a. Unlike the previous model (PCWADE50) this one claims to support 72mbps "turbo" mode in 802.11a! (haven't tested it).

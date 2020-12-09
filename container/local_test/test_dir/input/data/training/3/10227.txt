@@ -1,0 +1,8 @@
+This is a pretty good suite of software programs.  There's a decent video editor for creating your own videos, capturing and conversion of videos for different devices, and the usual tools for ripping and burning Cds, enhancing photos, and backing up or copying data.
+After a long installation, I began looking at each feature.  It took me several tries to get the VideoWave feature to open after receiving the same error message.  VideoWave is good for importing a media file and then editing with text, transitions, audio, and video effects.  You can easily share your file on social media.
+
+The rest of the programs  like photo editing, ripping or burning a CD, or backing up data  I have free software that do all of these things.  It's convenient to have all of these in one suite, but for me, unecessary, as I will not be using more than one program at a time anyway.
+
+I had hoped the DVD video conversion feature would allow  me to convert DVDs I own in order to put them on my smartphone, but this does not work with copy-protected media.
+
+If you're looking for a good media suite, Roxio is OK.  If you're like me, you'll already have most of the features with Freeware.

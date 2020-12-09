@@ -1,0 +1,99 @@
+I just finished  my preliminary tax return and happy to report that I have not encountered any problems.  Overall, the interface looks very similar to last year.
+
+I've used H&R Block's tax software (formerly called TaxCut) every year since 1995. Several times when I saw a promotional deal I purchased both H&R Block and TurboTax to compare. I found that both programs satisfied my needs but H&R Block costs consistently less. I have been buying the Deluxe version of H&R Block because it covers it the mutual funds sales and cost basis calculations are included (Schedule D) and the form for Foreign Tax Credit from mutual funds is present (Form 1116). To get this functionality in TurboTax you need to buy the Premium version of the software.
+
+The price on this package changes often and you can catch some great discounts. I use a nice tool that shows history of Amazon prices. If you enter "Amazon price history alert" in Google it will come up at the top, my favorite has the word "camel" (repeated 3 times) in the name. You can set up the tool to send you an alert when you desired price drop is reached. During the last tax year season the price fluctuated between $20 and the list price of $44.99, and was on the gold deal special a couple of times.
+
+' INSTALLATION
+~~~~~~~~~~~~~
+' I had no problems with my install. However in 2013 I helped a friend resolve an install problem on a Windows 8 PC us installing from a CD. I am including what we did again as I know a few people told me in helped with 2014 install. Normally the automatic install runs a file called "tcauto.exe". This file in turn calls another program located under "installers" directory which actually does the work. We were able to by-pass the error by executing the exe program in the installers directory directly, this year it should be called "HR_Block_Tax_Software_2015_Deluxe__State_-_Windows_CD.exe" (it is the only file in that directory).
+
+' If you encounter issues with display, such as not seeing selection boxes, check your screen resolution. Both Windows and Mac minimum requirement for the screen resolution is 1024 x 768 pixels or higher. At a lower resolution H&R Block software will have problem with display such as not properly displaying selection boxes. Screen resolution can be changed on your control panel by change PC's display settings.
+
+' If you are using a digital download you will need a key-code to install the software after you dowload it. The key-code can be located several ways.
+Option 1:  In the past when my download finished the install started automatically and offered me a choice of two links "View Keys" and "Install".
+Option 2:  This year the install did not start automatically so I clicked on the install program myself, and on the first screen it asked for "Activation code".  When I purchased the software Amazon sent me a message which included a Product Code (note that they did not call it Activation code) which is the number I needed.
+Option 3: You can locate it in your Amazon account:
+1) Log into Amazon
+2) Select Your Account at the top right of the page
+3) Select Games and Software downloads which is towards the bottom of the long page you see when you log in
+4) Then under H&R software entry you will see the key-code that you need to enter to unlock the software
+
+' If you have a virus scanner it will generate an alert the first time you run the program, change the permission to "Permin Always" otherwise the program will be blocked.
+
+' Does H&R allow to install the software on two PCs?
+I found the answer on H&R Block web site FAQ under the topic "Installing Software on Another Computer"
+I quote the FAQ answer below:
+"There are just a few steps necessary to re-install the H&R Block At Home program from the CD you received in the mail. Follow the steps below to re-install the program or install it on a second computer.
+Insert the H&R Block At Home CD into your computer.
+Click the Need to Re-install? link on the menu bar at the bottom of the screen.
+The Frequently Asked Questions page will open to the first FAQ titled, "Can I install the software on a second computer?"
+Enter your activation code and last 4 digits of the credit card you used to purchase the program initially and click Activate.
+You can find your activation code in your purchase confirmation e-mail.
+Follow the on-screen instructions to complete the installation."
+
+' WHAT IS INCLUDED
+~~~~~~~~~~~~~
+
+I purchased H&R Block Deluxe plus State. This version entitles me to 5 free federal e-files. It allows me to print and mail as many returns as I want, there is no limit on printed returns.
+
+One state software is included in the package but the package does NOT include free e-file for the state return (see one exception below). If you want to e-file your state return you will need to pay a fee of $19.95 to e-file each state return. Alternatively, you can print all the forms and mail them using US post office without any additional fees. If you need to file taxes for an additional state, each additional state is $39.95 plus $19.95 e-file fee.
+
+Note 1: NY state residents can e-file state returns for free if their income is $60,000 or less.
+Note 2: It is not possible to e-file a state return for New Hampshire, it has to be mailed in.
+
+' GENERAL
+~~~~~~~~~~~~~
+
+I just finished my preliminary tax return and below are my observations. Note: the forms are not final until mid January of 2016.
+
+' Pet Peeve: H&R Block starts the interview process with an annoying up-sell pitch, recommending an upgrade from Deluxe to Premium even when it is not necessary. In my opinion, they should wait until the person enters this year's data and suggest the upgrade only if there is something about the return that can benefit from the Premium version. That would have been useful.
+
+What is the difference between Premium and Deluxe? The Premium version offers advanced tools for self-employed and rental property owners: cost basis of home sales, dividends, gifts, and inheritance assets. It has advanced schedule C guidance to maximize deductions for self-employment income. And finally it has guidance for rental property income and expenses. The rest of the Premium package is the same as Deluxe.
+
+Note that the Deluxe package has support for self-employed income as well as stock sale cost basis calculations.
+
+' Pet Peeve: Help is not context sensitive. For example, when you click on "learn more" about a particular topic the general help window opens but it does not show help topics for the specific topic that you were working on. Instead you need to search and know which key words to use locate the relevant topics.
+
+' H&R Block provides you some guidance for completing Form 1116 (foreign tax credit, for example foreign tax paid by mutual funds). However, you need to keep switching between whole-form view to enter data and then back to interview to read the instructions. Even though the form where you can enter data is visible at the same time as instructions you cannot enter data into it until you switch into whole-form view. This is cumbersome, but at least there is some guidance for this form.
+
+' DeductionPro (which helps you put value on your charitable donations) is integrated into H&R Block software running on your local PC.  It suggests reasonable prices based on condition of the donated item and it is nice not to have to come up with what is reasonable on my own.
+
+' Pet Peeve: I don't use the default location for the tax returns due to how I set up my backup software. The H&R Block software does not initially remember this new location on the second start of the application, it told me I have no returns. I needed to pick the return manually from the File menu, as it did remember recently used files. The third time I started the software, it finally knew the location of the tax return file.
+
+' For folks trying to download State Forms. The state forms are not available as of 11/20/2015. H&R web site says they will become available in January.  To see the latest status you can go to H&R website, click on Dowload software, then hover over  "Download Software" on the top banner and select "State Editions". Currently it says "Coming soon in January 2016".
+
+When the state forms became available and  teh state software can be downloaded directly from the program.
+
+' At the end of the interview process there is a check step (which you can run at any time, but the interview ends with this check). This step flags problems (e.g. missing information) and potential audit alerts (e.g. unusual deductions) with red flags, and reminders (e.g. things you marked tentative) with yellow flags.
+
+' Sometimes I want to return to some section of my return. The best way to jump to any section directly without navigating through other pages is to use "take me to" button which is displayed at the top of every page, on the same line as H&R Block banner.
+
+' Does H&R has the ability to import TurboTax data from previous years?
+Yes. TurboTax files have a .tax extension. Use the Browse button within H&R Block application to navigate to the folder you need and it will import the data from TT return.
+
+' The final tax return can be saved in a .PDF format for future reference.
+
+'  In 2014 TurboTax's introduced a requirement that the data had to be sent to Intuit's servers to be formatted for printing. I verified that H&R Block can print forms when Ethernet connection is disconnected.
+
+'  If you owe taxes there are three options for payment: electronic withdrawal from your bank, mailing a check and paying by credit card from a secure web site. Is there a charge to pay by credit card? Yes. There are three web sites that do this service and the fees vary from the lowest of $2.50 flat fee for a debit card to highest of 2.25% fee by credit card from one of the web sites.  If you search for "pay taxes by credit or debit" you will see the detailed fee schedule on the irs.gov web site.
+
+' IDENTIFY THEFT AND TAX RETURNS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'  Last year there were many reports of thieves filing fraudulent tax returns using stolen social security numbers
+If this happens the person who tries to file their own  tax return gets the following error:
+
+IRS records show the spouse's Social Security number (SSN) on this return is the same as the primary taxpayer's SSN on another return already filed this year. Double-check your spouse's SSN. Fix any issues and e-file again. Otherwise, you'll have to file a paper return.
+
+What to do if this happens?
+1. Call HRB told them of the issue (1-800-472-5625)
+2. Call IRS (1-800-829-1040) had them flag the SS#
+IRS states that people need to mail completed return, a copy of police report or Form 14039 Identity Theft Affidavit (...) copy of Drivers License or passport or SS card.
+3. Call Equifax and have them put an alert on the SS# (They notify Experian and TransUnion as well)
+4. Call Social Security Administration and notify them (1-800-772-1213)
+5. File with FTC (...)
+6. File a police report of a possible identity theft
+
+I have been a H&R Block/TaxCut user for many years. I keep coming back because it works well for the tax forms I need to do and it is less expensive than TurboTax. If you have a question I have not covered leave a comment and I will do my best to answer it.
+
+Ali Julia review

@@ -1,0 +1,3 @@
+This software is very large in size and takes up too much space on my already crowded system. I had used QuickBooks earlier and found the Office Accounting Professional to have some good features but overall it is cumbersome, slow and not very intuitive in some aspects.
+
+I think it is a good solution for a home office but is not robust enough for small business use. However, the integration with MS Office is good and helps transport some of the data more easily. However on the negative side most financial institutions offer better integration and data-porting with Quickbooks so dumping data into MS Accounting Professional becomes that much more difficult.

@@ -1,0 +1,82 @@
+Bento was released by the makers of FileMaker Pro with a very specific purpose. Interestingly, Bento was the name given to a layer in Apple's visionary OpenDoc architecture launched with System 7.5 in the mid 1990s.
+
+Bento is a personal (as opposed to "enterprise" or networked) database that's meant to be as easy to use as the Mac itself. It has a carefully-identified set of features. These run parallel to those of iWork's Pages and Numbers. It could have been called i(Data)Base to aim at a comparable niche in the market. Bento complements Pages and Numbers nicely. The criticisms that some users (and reviewers) leveled at Bento, that it lacked, for example, scripting, Automator and network support, miss the point. It was never intended for those sorts of uses - or those types of users; look at FileMaker Pro for such extended power.
+
+Bento was specifically designed and released without such features in order to concentrate on the less-experienced consumer and SOHO user. Some missing areas of functionality might be useful to the non-specialist user. On the whole, though, the balance between price and feature set, not to mention features, means that Bento can be safely recommended.
+
+Bento is designed to accomplish everyday tasks using a pleasing and straightforward template-based interface The very fact that it is simple, has only one window, and just the right number and design of a few uncluttered menus adds to its accessibility and effectiveness as a flexible and powerful tool.
+
+It only takes a quick glance at the lively, comprehensive and very well supported and moderated Bento forum to see how easy it is to achieve sophisticated date calculations and many-to-many implementation; Bento's apparent simplicity can be deceptive. Bento Users is another useful site. The documentation that comes with the product is excellent.
+
+Everyday
+FileMaker has compiled a list of some of the more likely projects that Bento can handle. These include:
+
+* what FileMaker, Inc. calls "virtually unlimited" contact details
+* coordinating events, parties, and fundraisers
+* tracking projects, assignments, and deadlines
+* prioritizing tasks; Bento has been used successfully in a Getting Things Done task management context
+* inventories, donations, and items for sale
+* track hours worked, payments due, invoicing
+* rate service providers and sellers
+* libraries for music, movies, and media
+* store files and photos related to projects and events
+
+and, rather cryptically, since this ought to be part of any good data model:
+
+* connect related information together to see more details.
+
+There are ample standalone products to achieve many of these tasks - Project Managers like OmniPlan and task management - the same company's OmniFocus. Bruji's outstanding BookPedia and CDPedia. There are dedicated time management and billing/invoice suites like TimeNet Pro - though none without some flaw; and iPhoto, Address Book and iCal themselves, with the last two of which Bento integrates closely.
+
+It is what it is
+So the criteria for MyMac's evaluation must not be, What's missing from Bento? Rather, how well does this reasonably-priced and robust Leopard-only product do what it's been designed to do?
+
+First and foremost, then, is a courageous - and largely successful - attempt to make database design and management accessible to those who are not specialists or experts in such software, but who still have demanding needs such as some of those just mentioned.
+
+Bento's main window consists of three panes:
+
+The leftmost pane is the Source List of all your data Libraries. Libraries are Bento's top organizational level - like iPhoto 7's "Events." One Bento Library is for one set of data or project. Under these in the Source List are Bento's Collections; these are like iTunes' Playlists - subsets of the data in the Libraries. Then Smart Collections behave just as you would expect: they're Views updated in real time and as your filter criteria - or the records that matches them - change. You might, for example, want to create a Smart Collection of all unpaid invoices - as they get paid, they disappear; or of all unsold artifacts in a craft store - as they are sold, they disappear.
+
+The records area is in the middle and is the largest pane. Data can be presented as a form (an individual record) or table of as many records as will fit into the space. You can have more than one form for any Library (each may display different fields - in different orders). This is emphasis on the user experience again; it drives the way you work. Each view is satisfactorily editable - columns can be dragged horizontally for display; you can chose which you will view too. The principles, of course, are analogous to those in FileMaker's "Align" routines and fit well with the sophisticated controls that Bento offers.
+
+The Associated fields list for each Library is on the right. Fields are created here and dragged and dropped onto the Records area. There are only three attributes for each. There is also control over how many of these three panes will appear - you can focus on what you're doing.
+
+This is a familiar interface; and it preserves the metaphors for data handling on which Bento rests. Similarly, searching, sorting, and summaries are all swift and intuitive. Searching can be very sophisticated and saved as a Smart Collection.
+
+Note, though, that this means that there's no concept of separate datastores in Bento. All the data which you use Bento to maintain is managed in one place. You can still share Libraries with other users. Yet if you organize your data according to "domains" within your life (household, work, hobbies, friends, you may find it a disadvantage to access it all in and from one place by launching the Bento application itself as opposed to separately-located data files. On the other hand, this is very much in keeping with current Mac practice: it is the way that iCal, iPhoto, iTunes, iWeb (though not Pages or Numbers) all work. More evidence of the perceived target audience; for them it is assumed the task in hand is more important than file names, file management.
+
+Data Types
+Given these intentional restrictions, the substantial variety of data types (nineteen of them) which Bento handles is impressive: basic text, numbers, dates, drop-downs, Booleans, graphics, sounds, movies, ratings, addresses, phone numbers and e-mail addresses and more. There's also a FileMaker-like calculation field which can, for example, concatenate text and multiple fields values as well as perform simple mathematical operations. Inevitably there will be some function missing for someone, but on the whole it's comprehensive - and very easy to use.
+
+Templates
+For all its transparency, Bento is not a glorified Wizard. Fields can be controlled - use drag and drop. Fields are rearranged and resized with the mouse - usual Mac style. Some positioning and alignment of text is possible using a toolbar - though probably less than most people will come to want: five text sizes, no choice of fonts. One of the biggest hurdles that the marketing of Bento has to overcome is to make it plain that these are flexible means to an end - although the (new) user's first contact with the program will be the 20 templates that come with the software. These templates are shells; they are not one and the same as the data which they are used to present. If the designers of Bento have understood just what it is that a majority of users want in terms of the payoff between interface and ease of use as opposed to in depth functionality, then they have surely got a winner on their hands. The number of downloads (a quarter of a million) in the first few months since Bento became available suggests that is the case.
+
+Address Book and iCal integration
+By default Bento has Libraries for contacts, events, and tasks. These are the same as those in Leopard's Address Book and iCal; they are not synched. Although these Libraries can be removed - "Disconnected" - from Bento in its "Home" menu, to do so is to lose access to those applications' data. What's more, to edit in Bento - or worse delete - data that's derived from Address Book and iCal is to lose it directly from those same applications actually outside the Bento environment. Integration is tight: you could drag and drop a set of contacts from the Address Book Library right into Bento's Source list to create a Collection. This "disconnection" could usefully be supplemented by a preference letting you work from a duplicate and/or advising you that you could conceivably lose permanently (unless backed up) data of which you might have thought you were only working on a copy.
+
+Import-Export
+Bento supports only CSV (Comma Separated Value) for import and export of data, although there are ways aplenty to convert that after or before the fact. So that's a limitation only inasmuch as you may need another utility and two steps. The importer is drag-and-drop then Wizard-based and worked very well in testing. The Wizard asks which values from the file to be imported should correspond with which fields in Bento.
+
+Relations
+The way that Bento handles relations - the fields in other tables whose data you need to appear in the current one - is one of the program's main limitations: it's not a conventional relational database. But, again, it's an approach designed to give the greatest likely desired power with the simplest steps.
+
+In your "local" Library you create a field of type "Related Records List"; then you indicate from which Library you want to use data. Dropping that field on your form displays a small empty table corresponding to the "remote" Library. You click the "Add related records from a list" icon at the bottom of the inset table to see actual data. Bento displays the corresponding list of records from the associated library. Changing records in the one changes them in the other. Deleting a record in the "local" Library only deletes it only from the Related Records List (the "local" dataset) and not from the associated Library. This more closely follows the practice of removing a record from a Smart Folder, Collection or Playlist. It's a way of preventing mistakes - although not entirely logical, until you're used to it. It's also another example of ease of use; accessibility takes precedence. Note, too though, that Smart Collections cannot include data from related tables. That may be a significant restriction for some.
+
+What is likely to be a real drawback, though, is the fact that by "Related Records" Bento means essentially a "Portal" to all the records in the "remote" Library. There is no concept of a "Join" using Primary and Foreign Keys. This means that you cannot be selective in the way you relate and view such records.
+
+Conclusions
+Bento is a package. A compromise. MyMac's advice is that - after reading this review - you match what it can do against your needs. Almost certainly you may have requirements which Bento seems unable to meet. But look closely. Sure, its interface is user-friendly - and more important, perhaps, Bento itself is easy to use. But this doesn't mean it's in any way crippled and "less than" comparable databases of this level of complexity - relational features aside.
+
+It's much closer to Pages, Numbers, iPhoto, iTunes in feel and scope than it is to FileMaker. But prolonged use for this review has revealed that Bento can easily be made to do more than might be apparent even from glancing familiarity with the delightful sophistication of the interface.
+
+Given some of the things that Bento can do, there's a remarkably high ratio between effort and result. Whether or not it's for you will depend firstly on whether you have Leopard. Then on your data handling requirements: total size of data set, complexity of relations and perhaps the way (or whether) you use iCal and Address Book. Then you should decide whether one of the absent features (scripting, full control over template fonts, a missing calculation, say) rules it out.
+
+For many users the extremely pleasing appearance of Bento will be a winner. How nice to be able to work in a fully Mac-like environment using an inventory of - car parts.
+
+A balance has been struck: users with complex, evolving and intricately relational databases may still be best with FileMaker Pro. Those for whom the lure of an elegant user interface is important and/or who want a direct equivalent of Numbers, Pages and iPhoto/iTunes and/or seamless integration with iCal and Address Book should look seriously at Bento. Download the trial, use it carefully and draw on the many sources of online help, remember its very reasonable price, decide whether you'll be able to make Bento do a variety of things for you larger than the dedicated software mentioned at the beginning of this review can do - and see!
+
+Pros: the interface - it's good-looking, simple and easy to use; many data types supported; integration with Address Book and iCal; templates work with many types of file; works with iPhone and .Mac
+
+Cons: the interface - the changes you can make to its appearance are somewhat limited; poor relational capabilities; mass updates to records not supported
+
+MyMac.com Rating: 4 out of 5
+Originally published at : [...]

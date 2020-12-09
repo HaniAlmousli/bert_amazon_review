@@ -1,0 +1,27 @@
+I've used Nero for optical device recording/ripping needs since Version 5. I've tried other applications (Roxio and others), but for Windows users, previous versions of Nero have set the standard in this category of applications.
+
+Version 8 shows some issues that Nero should *not* let continue:
+
+(1) The package can only be described as "bloated". The current downloadable version is over 180 MB. While this is not an issue if you have broadband, Nero inexplicably doesn't include the product's help files in the download content.
+
+So, in order to use Nero's "Help" functions, you then have to download and install them separately. This is quite silly when the help file download size are less than 3MB in size! With the application installer approaching 200 MB, what's 2 MB among friends!
+
+Nero's web site says leaving out the help files is deliberate "in order to to keep the download file small". Note to Nero: the download file is already huge...so please just add the help files.
+
+The bloat comes in many forms, from a CD cover designer to Nero InCD.
+
+Note 2 to Nero: in these days of rewritable DVDs, 4GB flash drives and inexpensive hard drives, do you really think users would still choose a proprietary format CD/DVD packet writer for archiving or storage?), to Nero Home (which it claims can integrate your media streaming through multiple machines), the download, installation -and, ultimately, the overall experience of this product-- is compromised by a large volume of marginally useful applications that detract from what Nero does well: create and reformat data for optical media. Take the time to select the "custom" install option, and leave out those apps you don't plan to use.
+
+(2) Lots of waiting time. Nero installation takes a *long* time. Not a real issue if you only have to go through the process once. But: on a clean Windows XP machine, I had to go through it twice (due to some errors that crept up, directly related to the bloat described above and the Windows resource issues described below).
+
+(3) Slow to launch once installed. It takes a long time for Nero Version 8 applications to launch. Even if you have a fast processor and abundant memory: after you decide to launch the application, be prepared to wait before you start to rip and burn.
+
+(4) Unexplained Windows resource drain. Nero Version 8 runs a background process called "NMIndexingService.exe"  This process runs whether whether you've launched Nero or not. When other applications do this, it's often called malware. While this can be disabled by advanced Windows users using the msconfig tool, there's no obvious utility to this service, and no excuse for it being hidden deep in Windows. Shame on Nero for this. Nero's email response to a question about this I submitted took two weeks to arrive. The recommended  a reinstall of Nero...but first you have to download a separate utility called "Nero Clean Tool" and then reinstall that. Just as with the help files: an effective uninstaller routine should be a given for modern Windows applications.
+
+(5) For as widely used as Nero products are, their support website is remarkably uninformative.
+
+-Once you get past all this, once installed and launched Nero 8 still is great program for authoring CD/DVDs and ripping MP3s. But the issues above are hugely distracting, and Nero should have more respect for its customers than to make them jump through these hurdles.
+
+-Nero needs to get back to basics, trim the fat, and offer customers what  they really want, and what it does best: sound, fast CD/DVD writing. Nero  should include the help files, discard the less useful components, and respect users' Windows resources when they aren't engaged in its basic ripping and recording.
+
+-If you have a stable version of an earlier version: Don't move to Version 8.

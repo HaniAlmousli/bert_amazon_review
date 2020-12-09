@@ -1,0 +1,5 @@
+This software has a nice interface and plenty of features for the home/consumer video enthusiast. There's also a great user support forum linked to the publisher's website.
+
+Unfortunately, I found the program to be somewhat buggy and cannot recommend it. The most significant issue was that my PC's DVD drive wasn't recognized by the program when it was time to burn a disk. There were numerous, time consuming workarounds and fixes mentioned on the Video Studio forum. One user even solved his issue with the software by reinstalling his PC's operating system. But who wants to go through all that?
+
+I downloaded the trial versions of Sony's Vegas Pro and DVD Architect Pro, as a previous reviewer suggested, and they worked just fine on the same PC. Those programs are definitely worth the extra money if you value your time.

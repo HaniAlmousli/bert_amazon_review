@@ -1,0 +1,43 @@
+If you've been wanting to learn how to create your own website, but have either lacked the confidence or knowledge, this affordable combination book and video course will enable you to learn at your own leisure.  There are more than twelve hours of video training included in this package, most of it split up in the small, absorbable sections.  This courseware is "Certified Associate," approved courseware.  Dreamweaver is the premier product for website creation.  It offers several new advantages/features for the user.  It has improved dynamic applications, new CSS features that offer more control over your design, you can turn individual CSS properties on and off (you can see how they affect your designs), and you can fuse box model elements to troubleshoot directly within Dreamweaver.  If you are confident this DVD/book bundle is for you, you can simply bypass this review or read some shorter versions (this is a very long review).  If not, keep on reading.
+
+With this software you'll learn a lot of basics, however, if you are already a web designer or have a lot of experience, you may find a lot of the material to be redundant.  On the other hand, if you are anxious to learn web design, this is the perfect place to start.  Taking a course can cost you a lot of $, but this course is quite affordable ... if you decide it is not for you, then you can hand it along to someone else.  You'll be getting more than twelve hours of video training from "Adobe Certified Instructors", a reference book, lesson files, and you can copy certain files to your iPhone, iPod, or iPad.
+
+For the hearing impaired the script to the dialogue runs along the bottom as the narrator speaks. You can stop the video at any time to get a closer look at what is being done and/or absorb the material.  At the end of each section is a "test" to enable you to know just how you are progressing on each section.
+
+If you are in a bookstore you can easily pick up a copy and glance at the book, but you cannot see what is on the DVD.  I'll try to describe what is on the DVD to the buyer can get a good understanding of what is on there and can decide if Adobe Dreamweaver CS5 is what they need. I've simply listed the few words under the contents and have tried to briefly explain what you'll be learning on the videos.
+
+CONTENTS:
+
+1) HTML Refresher - This is an excellent section for someone who already knows HTML, but could use a refresher in the form of a "crash course."  You'll find a URL overview, an HTML intro (tags, how some browsers read tags differently, and what Dreamweaver "does behind the scenes).
+
+2) Dreamweaver Introduction - You'll finally be able to learn what WYSIWYG is, you'll be introduced to Dreamweaver Design, Code, and split screens, and the welcome screen.  You'll learn about the Dreamweaver interface, the Workplace Switcher (the software's workplaces, arranging and saving your workspace), how to customize your workspace, setting up our preferences, an dhow to customize the insert bar.
+
+3) Getting a Quick Start - You'll learn about several starter layouts you can customize with CSS, how to build a starter layout page, how to create and set up the header area on a homepage, how to add a navigation bar (shows how to customize with CSS), how to use CSS to format your main content, you'll learn how to add links using CSS formatting, how to modify HTML tags and background color using CSS, and how to add a page border.
+
+4) Planning Your Website - You'll learn about project management (five videos), site development (two videos), and how to test your site (two videos).  You can opt to play all the videos in each section consecutively.
+
+5) Defining a Site in Dreamweaver - You'll learn about defining a site, what the benefits there are to defining, the course setup (copying & storing the files you'll need for your website), defining a site in Dreamweaver, and how to use the files panel.
+
+6) Creating a New Web Page - You'll learn how to create a web page by using the Welcome Screen, how to save a web page (considerations needed when naming a page), how to assign a proper title to a web page, and you'll learn what meta tags do and why they are important.
+
+7) Adding the Tex Content - You'll learn three ways to add text to your webpage (typing, copying/pasting or importing), how to set up headings, how to create lists for web pages (unordered, ordered, and definition), several ways of highlighting text, and how to insert special characters.
+
+8) Formatting Text with CSS - You'll receive an overview of text formatting options with CSS, you'll learn where you can manage and store the styles for you site, how to "create a .CSS file and link your web pages to it," create styles for HTML tags, create class styles, edit styles, you'll learn how to add font styles (custom font stack), you'll learn about styles created by page properties, CSS styles for printing, and how to use the code navigator.
+
+9) Images and Rich Media - You'll learn how to pick the right web image, how to choose the file format for your project, the importance of inserting alternate text, inserting images, understanding and creating file paths, you'll learn how to use the assets panel, how to modify images, you'll learn how to work with Photoshop Smart Objects, use Flash Files to enrich your site, use Flash Video (FLV), and will learn how to optimize the use of your favorites panel.
+
+10) Creating Links - You'll learn where you can insert hyperlinks, the different kinds of links you can create, how you can link to an Internet resource, how you can create a "local lin" for a document within a single site, how to link to a Word or Microsoft Excel file, how to create an anchor link, how to create an email lin (with the recipients address pre-filled), you'll learn about images and image mapping (clickable hotspots), how to create rollover images, and how to insert a navigation bar (Fireworks).
+
+11) Page Layout with CSS - You'll learn background information about CSS, how to master the mechanics of CSS page layout, how to understand the box model, how to insert a div tag, how to add different styles to your div tags so CSS can control you page content, you'll learn how to edit CSS style for a div tag, how to insert a div tag (increase your efficiency), options for using div tags, fine tuning your page with different styles, customize your links (make your site attractive and consistent), center your page content, use AP elements, use inspection tools to edit and troubleshoot, you'll learn about the four types of positioning with CSS, and you'll learn how to use CSS selector types and tools.
+
+12) Tables - You'll learn how easy it is to create a table, options you can use to modify a table, use CSS for formatting tables (match text to the rest of your website), importing tabular data, merging and splitting table cells, working on rows and columns, and table alignment (border background colors, centering).
+
+13) Forms - You'll learn how create a basic for, how to use text fields (common HTML elements), ensure "user input gets back to you," form validation (checkboxes, submit buttons), how to validate forms, and use Spry for from validation (implement Ajax).
+
+14) Reusable Content - You'll learn about templates and library items, how to use the library, modify a library item (keeping your pages contemporary), converting HTML to a template, creating additional pages based on your template, controlling and working with "editable" regions, template application, and you'll learn how to detach a page from a template.
+
+15) Testing - You'll learn how to use the spell-checker, search for a fix broken links, how you can preview your work, how to check browser compatibility, dealing with browser issues, how to allow users to test your site and offer valuable feedback, learn about page loading time an dfile size, and Dreamweaver extensions.
+
+16) Publishing and Maintenance - You'll learn how to manage you files, set up your web server to upload and download files directly to the site from Dreamweaver, learn how to expand files, incontext editing (allows non-technical users to edit the web page), Subversion control and integration features.
+
+You'll also be treated to four bonus videos.  This was a long review, but hopefully anyone looking for core training in web communication will now know exactly what they will receive when they purchase this program.

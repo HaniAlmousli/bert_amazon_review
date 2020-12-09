@@ -1,0 +1,11 @@
+As has been noted by other reviewers, Crunch will not allow you to rip DVDs containing copy protection. And, like other video rendering software, it is slow and clunky. It has, however, solved a problem for me that makes it worth using.
+
+I recently tried to sync videos to my iPhone and found that many videos that played fine on my iPod would not transfer to the iPhone. These included a couple of movies I had transferred using Handbrake Lite and several QuickTime videos I had downloaded as part of an online course. The QT videos had been converted to iPod format using iTunes.
+
+After doing some research online, I found this was a common problem because of slight variations in the encoding for iPod and iPhone video. Although some videos will play on both, others (including some converted through iTunes) will not.
+
+The files converted by Crunch in standard iPhone format play in iTunes, and sync with both the iPod and the iPhone. I was able to successfully convert files that had previously played only in iTunes and on the iPod, and get them to work on the iPhone, too.
+
+I tried this software on both a Windows XP PC and a Mac. Both worked well. The Mac interface is a bit cleaner and might be considered easier to use, although both are simple. The main advantage the PC version has is that in addition to a bar showing the progress of the file conversion, the percentage complete is displayed. It makes it easy to estimate the time remaining in the conversion.
+
+So this is not the software you want to back up your collection of DVD movies. (Try Handbrake for that if you are on a Mac.) But if you want to convert video files to play in iTunes, and on both your iPod and iPhone, this will do what you need.

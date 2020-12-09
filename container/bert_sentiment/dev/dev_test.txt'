@@ -1,0 +1,6 @@
+#Run the command below to run flask app to test
+./dev_test.py 
+#Run this to test the app above
+./predict.sh ../../local_test/payload.csv text/csv
+
+

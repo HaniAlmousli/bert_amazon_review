@@ -1,0 +1,5 @@
+The main reason I got this was because it claimed to capture streaming video from the web. I tried everything I could think of - using different browsers, and the web video never came up. There is nothing for capture in the built-in help, and the online manual is not very helpful.
+
+If you are looking for a tool to burn video to disc, this is a good option with tons of different formats.
+
+If you want to grab video from web sites, maybe this will work for you - it didn't work for me.

@@ -1,0 +1,1 @@
+The lessons are ok, the problem is the software looks like it was designed for a 1980's PC running Windows 98.  The window size is about a third of the screen on both Macs and PCs.  There is an option to resize it to full screen, but all that does is zoom in to the point where the graphics are pixelated.  It's probably time they updated this software.

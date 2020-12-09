@@ -1,0 +1,9 @@
+Painter 12 on Win 7 64 bit is horribly slow.  I thought something was wrong with my machine so I installed it on a couple more machines(one with a clean Win install) with the same results.  First off the program has got to be one of the slowest to startup software in history.  If you have a lot of fonts on your machine you are going to have to delete a lot of them to get your total fonts below 800.  If you don't then you will have to take a 5 min coffee break after starting the program.  Once you get the program started many of the brushes are sluggish.  To really see what a dog it is run one of the scripts and watch your I7 processor stay at 100% while the fans speed up.  The scripts run much slower on a modern I7 Win 7 machine than on an old 4 year old Mac Pro with 10.6.7.  Compared to Painter 11 on the same Win 7 machine this runs like a dog.
+
+On a Mac 10.6.7 machine things are much better.  Some of the brushes lag much more than they should though.  It is just not as smooth as the Painter 11 it replaces.
+
+It is VERY apparent this program was rushed out the door to meet a schedule rather than it actually being ready.  I have waited a month to post this because I wanted to give Corel some time to release an emergency patch to speed things up but have seen nothing.
+
+Update on SP1:
+
+I have been testing SP1 and things are MUCH improved with better startup times and overall performance.  I think the program now warrants 4 stars and have upped my rating of it.

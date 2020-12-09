@@ -1,0 +1,9 @@
+I purchased FTM 2012 as a companion to my online Ancestry.com account.  I liked FTM 2012.  However, its sync process became too unstable.  I hoped an upgrade to  FTM 2014 would cure that.  Unfortunately, I found 2014's syncs are just as unstable.
+
+I have nearly 11,000 relatives in my tree.  I found and can replicate sync problems arise after I used the resolve location wizard in both the 2012 and 2014 versions.  Location edits in FTM lead to aborted syncs of the client and online tree.  These aborted syncs require that I unlink the two version of my tree, delete the version saved on my desktop, relink the two trees and download the entire online tree and media to FTM. This can cause the lose of any information input into FTM only, not yet sync'd or that is in excess of the data fields that can be sync'd.
+
+I work on my tree daily.  Syncs abort nearly every day, that requires that I do the unlink--relink--download process on a regular basis.  I can do it in my sleep now!
+
+Be Very Careful with your records!!!  I got tired of doing the same edits over and over in FTM. I now do all my edits online at Ancestry.com and upload everything I can to the Ancestry.com tree to be safe.  If it doesn't fit online, I do not FTM to safeguard the data.
+
+Let the buyer beware.

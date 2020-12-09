@@ -1,0 +1,15 @@
+I have the cheapest full Android phone that is available with no contract on the WalMart TMobile plan:  the Concord.  I am not putting specs, but if your phone is of a similar line, then you know who you are.
+
+I was not able to install Kaspersky Lab Security for Android, because I did not have enough free memory on my phone.  I went through each application on my phone and deleted as many as I could, and I still couldn't install Kaspersky
+
+I only got my phone about 4 months ago, so I would expect anything to run on it.  My version of the Android operating system is compatible with Kaspersky.  That is not the issue.  Instead, the issue is that Kaspersky wants more free memory.  And, I am unable to go on Kaspersky's website and find a full requirements for a phone.
+
+The install process, in a perfect world would go as follows:
+-  You order this and get a card in the mail with the serial number for your license.
+-  The card tells you to and you type a URL on Kaspersky's website into your phone.  Then your phone downloads a file, but Kaspersky's website does not pop up any sort of confirmation message, so it's up to you to check downloads.
+-  You go to your downloaded file and try to run it.
+-  You get two options for how to run it:  through the Play Store, or from the file.  I tried the through the Play Store option and got nothing - no reaction from the phone.  I think tried from the file, and to do that, I had to turn off my phone's security setting which was set to not allow installing apps except from the Play Store (so that I can't just browse to a malware site and accidentally install software).
+-  Then, for me, my phone said not enough memory, free up memory.  So, I looked on my computer to try and find specs for phones to run this.  All I could find were "Android 2.3 - 4.2" and "Minimum screen resolution 320 x 480".  My phone has that.  What my phone is lacking is memory.  I opted to give up, rather than try to uninstall other apps or modify settings without knowing how much memory I had to free up.
+-  Rather than continuing the attempted install, I went back through my phone's security settings to not allow apps to install unless I get them from the Play Store.
+
+Overall, if you have a high end newer speced out Android phone, you can probably count on Kaspersky installing.  If you are the unwashed masses, with a low end low specs Android phone, don't count on it.

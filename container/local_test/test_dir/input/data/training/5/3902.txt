@@ -1,0 +1,11 @@
+I won a copy of Windows Vista Ultimate several months ago, but for some reason I could never get Bootcamp to install it on my Mac Pro. After trying several times, I just gave up. But because there are a few PC applications (like ProShow) that I want to run on my computer, I thought I'd give VMware Fusion 2 a try.
+
+I just finished installing VMware and Vista right before writing this review, and I am seriously happy that Bootcamp didn't work. Running Vista on my Mac feels like running another piece of software. With VMware, I can run Vista as a virtual machine without having to close out drives and restart my computer.
+
+The process of installing VMware and Vista was super easy. Step-by-step instructions come with the software, so I just followed them and sat back watched it do all the work. Other than typing in the registration codes for both the VMware software and Vista and a few agreement buttons, I didn't have do anything else but click Finish. VMware took care of the entire process. When it was completed, I was almost unsure what to do next. After my computer restarted, Vista was up and running my Mac desktop.
+
+Still a little suspicious, I opened up the selected drive where Vista is installed, and low and behold it was great to see that I didn't loose any disk space other than required for the Vista installation. The other data on that drive was still in tack right along side Vista. Nothing was erased or overwritten. If I used Bootcamp I would have been required to give up least 30gb of space to make the installation happen.
+
+While I haven't worked much with Vista, I can say that VMware works as advertised. If there are any problems with it, I'll be sure to come back and list them here.
+
+P.S. Also want to add there are some really useful video tutorials on the vmware website for making effective use of the virtual machine.

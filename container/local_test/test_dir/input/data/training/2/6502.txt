@@ -1,0 +1,7 @@
+This Norton software is set up to work when your laptop is on WiFi. It sounded cool as you can lock down your laptop remotely and show a courtesy message, but as people have pointed out anyone with some knowledge of computers may be able to over ride it, if they reinstall the operating platform.
+
+This software proved mostly useless, as it did not locate my mobile device accurately. For my laptops it was a little fussy to set up, especially on Windows 8. It had trouble locating the laptop even when on WiFi. It can also take pics from the webcam enabled laptop at 10 second intervals but that feature did not work well for me.
+
+The IP address search if the computer is not on WiFi is also very approximate, and wouldn't do any good if the laptop was actually stolen.
+
+Overall, it seems like too much money for just 1 year subscription. As other reviewers have pointed out there are free apps available for this type of stuff which are not as full featured but do the basic job.

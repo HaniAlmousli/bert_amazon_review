@@ -1,0 +1,9 @@
+Corel AfterShot Pro is primarily designed for professional photographers who need to catalogue, manage, process, refine, and export large batches of RAW files, which contain all available technical information about an image.  It will also work with many other image file formats.
+
+AfterShot Pro was easy to install on Mac and it also works on Windows and Linux. However, the user interface and advanced capabilities are not intended for occasional, amateur photographers.  The manual is well-written and easy to understand but it's 128 pages long.  Even the search feature includes specifications that a part-time professional photographer had to explain to me.
+
+This software comes with some extras included that make it a real bargain such as the Ninja Noise and Perfectly Clear modules plus some conveniences such as not having to import an entire library in order to work with a few selected images.  It allows side-by-side comparisons of different images and even different versions of the same image.  It can also make and export presentation files containing multiple images.
+
+It is important to understand that this is image file management software, not photo editing software like Paint Shop Pro, although it does contain some editing features.
+
+Corel has good information about this software and the required system specifications on their website and they allow free trials by download so if you are deciding between Corel AfterShot Pro and Adobe Lightroom,  I would definitely recommend giving this a try to see if it would meet your needs at a significant savings.

@@ -1,0 +1,23 @@
+I don't "hate" this product like some reviewers here. I think the software is decent, the price is not too bad, and it has a neat control panel. In other words, if you've been using Trend Micro for years, and it works for you - I'm not trying to talk you out of it.
+
+The problem for me is, I don't know why I would ever be compelled to buy it. It's inferior to the free options out there. So if you're looking for the best protection, there is no single option that will cover all your bases. But fortunately, the best rated programs are all free.
+
+Here's what our IT staff recommends:
+
+* For Anti-Virus: Either AVAST or AVIRA. Both free, both fairly equivalent in protection, in speed, in program size, etc. They will give you some annoying popups asking if you want to upgrade, but the basic home version is both adequate & free.
+
+* For Firewall: If using Windows XP, 7, or Vista, just enable the Windows Firewall. In tests, the Windows Firewall does as well as others. Never run two firewall programs, as this can cause problems. If using an older version of Windows, use Zone Alarm (also free). Also, your router acts as a secondary firewall (even if you only have one computer hooked up).
+
+* For hijacks, redirects, popups, & malicious web sites: Use HostsMan. This tiny little program (also free) amazingly keeps a list of malicious sites and prevents them from loading on your browser.
+
+* For emergencies: Install these programs just in case - Spybot Search & Destroy, C-Cleaner, & Malwarebytes Anti-Malware. Run C-Cleaner once a week - to keep your system running optimally, to clean up unwanted files, and clean your registry. The other two programs are to run just in case you have a problem, and it's super handy to already have them on your computer in case a virus or hijack is preventing internet access.
+
+So I can't really recommend the Trend Micro, but I'll go ahead and share my experience with it:
+
+-Install was a nightmare process, slows down boot time, bulky program.
+
+-I really don't like the free online backup, because you are forced to renew every 12 months. In my opinion it's a marketing gimmick to get you to renew, when there are many options out there which are better (and free). For important files, I back up manually on Google Docs. For bookmarks, backup on Google Bookmarks. For backup of everyday programs and files, there are about a dozen reliable (and light) programs out there.
+
+-Does not block some of the malicious sites, hijacks, and redirects out there. Instead, make sure you use HostsMan.
+
+I hope this saves you both money & time. Good luck!

@@ -1,0 +1,9 @@
+I purchased Outlook 2007 because Microsoft has now chosen to exclude it from certain versions of Office 2007. Well, it has way less features than my previous Outlook:
+
+ - no animated GIF's
+ - no support for Outlook Personal Address Book (PAB)
+ - the Outlook Text Editor has been eliminated
+
+And now I find that if you purchase this `stand alone' version of Outlook 2007 the `Themes and Stationary' feature is disabled. It only works in those versions of Outlook 2007 that are bundled with the Office Suite, not this version!
+
+This is NOT AN UPGRADE, it's a DOWNGRADE!

@@ -1,0 +1,14 @@
+This is a powerful and fun to use photo editing program with so many useful options for editing, filtering and special effects. A long list of filter presets is included and you can download hundreds more at the DirectorZone website with the link provided in the program. You also can upload your own custom presets for others to download and use.  I find it more intuitive than working with Photoshop Elements and it also has more options like the "People Beautifier" tools. A handy feature; when you click on many of the tools you will get basic information on how to use it. There is also a 159 page user guide .pdf available for download at the CyberLink website.
+
+It does have some hefty minimum system requirements:
+Windows:
+Pentium D 3.0 GHz with hyper-threading or equivalent AMD CPU.
+Intel Corei7 or AMD Phenom II X4 recommended for 64 bit OS
+Memory: 2GB required, 3GB recommended for 32 bit OS and 6GB recommended for 64 bit OS
+Graphics Card: 128 MB VRAM required
+For Mac:
+Multi Core Intel Processor with 64 bit support
+Mac OS X v10.6.8 or later
+2GB memory required, 6GB recommended.
+
+I installed it on a HP Pavilion Notebook;  i5 2.67 GHz with 4GB of RAM 64 bit OS and this program is slightly slow on it but still very usable.

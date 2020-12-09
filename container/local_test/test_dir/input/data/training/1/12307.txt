@@ -1,0 +1,5 @@
+I've been using Norton Utilities for many many years.  Starting back in the early macintosh days, and now right up to windows vista.  What's really sad is to see their product get worse and worse each year.  But I think this one is the last straw.
+
+First I had problems with my rebate (for owning a prior version).  Then I had problems with licensing.  Although I went through the licensing procedure and registered my product, the backup utility that is part of this got installed as a "trial" and kept nagging me until it timed out.  The product also crashes frequently, and after finally getting my license squared away, then the backup utility refused to work.  I eventually learned that it had corrupted its internal database, making it useless.
+
+Honestly, even though it is inexpensive for prior version users to upgrade to this version (assuming they honor their rebate), I still regret doing it.  I would definitely recommend macafee for security and virus removal, and pretty much anything else for backups.  It's really sad to see what Symmantec did to this once great product.

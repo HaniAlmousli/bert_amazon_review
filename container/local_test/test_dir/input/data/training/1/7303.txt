@@ -1,0 +1,9 @@
+Customers should be very careful with this product.  It has some very handy features but they come bundled with some nasty surprises.
+
+I consider myself to be a long-standing highly-experienced computer user.  I starting building home-brew computers in the mid 70s.  However, I did not anticipate that this version of Norton Utilities would wreak such damage to my computer settings.
+
+Of course, many cookies are intrusive and dangerous and should be deleted.  But many cookies are extremely valuable -- on a secure home computer.  This version of Norton Utilities deleted every cookie (good, bad, and in between) without ever asking whether I might want to keep any.  In addition, it added an extension to my browser that slowed it to a crawl.  The resulting page would have no formatting.  If I refreshed the page the formatting would appear.  Also, my Quicken passwords have suddenly disappeared.
+
+I have taught thousands of university-level computer science students.  I am embarrassed at the number of my C students who have graduated and are now producing commercial software.  However, this version of Norton would not get a passing grade.
+
+ Quoting Dante: "lasciate ogni speranza voi ch'entrate"

@@ -1,0 +1,77 @@
+Nowadays, I have grown to be very dependant on GPS Navigation Systems. I have the&nbsp;<a data-hook="product-link-linked" class="a-link-normal" href="/Garmin-Nuvi-360/dp/B000EXS1BS/ref=cm_cr_arp_d_rvw_txt?ie=UTF8">Garmin Nuvi 360</a>&nbsp;and&nbsp;<a data-hook="product-link-linked" class="a-link-normal" href="/iGuidance-1-0/dp/B001G0DAJQ/ref=cm_cr_arp_d_rvw_txt?ie=UTF8">iGuidance 1.0</a>&nbsp;(a Pocket PC Navigation Program I use with a Bluetooth GPS receiver).
+
+I should probably point out right off the bat that the Streets and Trips 2009 does not include a GPS receiver. To make use of the GPS functionality, you would need to purchase a GPS receiver.
+
+Installation
+------------
+(+) The program installed on Windows XP without a hitch.
+
+(-) Streets & Trips does NOT include Pocket Streets, so you won't be able to use the program on your Windows Mobile Smart Phone or Pocket PC. Microsoft stopped including Pocket Streets for Windows Mobile starting in version 2008.
+
+Data Entry
+----------
+
+o  Quick Manual Entry Method
+You can omit the city and state information by simply entering the street and zip code. For example, you can enter 917 NW Harriman Street 97701 in lieu of 917 NW Harriman Street, Bend, OR 97701
+
+o  Right-Click Method
+
+Right click the map and on the menu select Route/Set as end. You can also select Set as end or Set as stop for setting the point as the start of the destination and for setting the point as a stop, respectively.
+
+o  POI (Point of Interest) Method
+
+Search for Points of Interest in the following categories (you can check off all the categories you want to conduct the search on):
+
+Airlines, Attractions, Automotive, Bowling, Car Rental, Casual Dining,
+
+Condos & Resorts, Cruise Lines, Dry Cleaning, Fine Dining, Golf, Grocery,
+
+Health & Beauty, Home & Garden, Hotel, Informal & Carryout, Live Events,
+
+Miscellaneous, Movies, Museums, Music/Books/Video, Retail, Services, Skiing,
+
+Special Events, Sporting Events.
+
+Next, specify the search radius in miles. You can display the search results alphabetically or by distance.
+
+Map View
+--------
+
+(+)  Smooth and Responsive Zoom in/out and Dragging
+You can very quickly zoom in and out of maps by using the scroll wheel. The map is also very responsive to zooming and mouse drags.
+
+(-)  Bing Maps
+
+Click on the icon on the toolbar to be directed to Bing maps in your browser for a satellite view of the map. Bing maps functions like a watered down version of Google maps. Maps are slow to load and there is no Street View like Google maps where you can zoom, rotate, pan through, or "walk through" street level *photos* of the maps.
+
+Speech Engine
+-------------
+
+(+)  Street Names
+The spoken directions not only give you the turn by turn directions but the street names as well. For example, it will give a direction like "At 0.3 miles turn left onto Marysville Ave."
+
+(-)  Synthesized Voice
+
+The female voice that gives directions is computer synthesized. Most of it is understandable, but just barely. Problems typical of speech engines (such as run-on words, choppiness, and whacky inflections) are especially pronounced. My Garmin and iGuidance GPS systems do a much better job of synthesized speech. Here are examples of a couple of glaringly bad mispronunciations: It improperly pronounces U.S. (as in highway US-50) as "us." It cuts off before finishes saying "two", so "two" sounds more like "t-" (the "t" consonant sound).
+
+Miscellaneous
+-------------
+
+(+)  Construction Information Update
+
+You can download construction information from the MapPoint site for an update of the latest road works. If your construction information is out of date, the software notifies you with "The construction information for routes is out of date. Do you want to download a free update from the Microsoft MapPoint web service?" Select Yes.
+
+(+) Re-route
+
+If you make a wrong turn, it will automatically recalculate a new route on-the-fly.
+
+(+) Push-Pin and Other Customizations
+
+You can use the push-pin to mark and annotate your own points of interest. You can draw on or highlight areas of the map free hand or with tools like the polygon tool and the line tool.
+
+(+) Saved Trips
+
+Each trip can be saved onto your hard drive as a .est file.
+
+---
+I'm disappointed that it does not include Pocket Streets for Windows Mobile. So, if you plan on using this program on-the-go, you would have to lug around your laptop. My other major gripe is the poorly synthesized voice that is at times a little hard to understand. All in all, Streets & Trips is usable but not spectacular. **** 4 stars.

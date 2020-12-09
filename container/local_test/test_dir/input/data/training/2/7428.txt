@@ -1,0 +1,13 @@
+Qualities I look for in a competent internet security suite are ease of installation, simple setup, no installation of unwanted adware, ease of use (works silently in the background), and light on the system resources.  The Avira Internet Security has managed perform below par on all accounts.
+
+Like:
+>Loaded with the whole gamut of protection for PC, internet, parental supervision, with extras such as security for Android devices, and Antivirus for Mac.
+
+Dislikes:
+>Not a smooth installation: must uninstall remnants of competitors' internet security suites (which I've already done) and any other anti-malware/spyware programs.
+>Installs even after selected not to: Ask.com toolbar (adware/malware), changes homepage, and redirects from default search engine to AskJeeves when using the SafeSearch function.
+>Unnecessarily complicated program interface for setting up user preferences.
+>NOT seamless protection running in the background; plenty of hiccups and stalls using the Avira firewall for routine web browsing compared to other brands like Norton 360, Kaspersky, AVG, Zone Alarm, etc.
+
+Overall:
+I've tried the free online version of Avira a few years ago, now I'm rudely awakened by why I uninstalled it after only one day.  History repeats itself.

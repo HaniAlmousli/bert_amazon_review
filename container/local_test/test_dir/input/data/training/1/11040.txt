@@ -1,0 +1,3 @@
+Since the August 22 release of Mac OS X 10.10.5, Toast 14 will not burn discs.  I have a stack of coasters (blu ray discs are not cheap) that are unwatchable.  Even standard DVDs burn as unwatchable, the picture freezing and jerking.  Spent two days with Toast tech support and they could not solve the problem, just said to wait for an update to make the program work with Apple.  I use this program to burn DVDs for my work.  I'm out of business because Roxio/Toast isn't keeping up with the times.
+
+DO NOT UPDATE TO OS X 10.10.5 or you will regret it using Toast (any version).

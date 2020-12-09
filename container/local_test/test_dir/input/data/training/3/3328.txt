@@ -1,0 +1,42 @@
+There is a lengthy list of system requirements so I wanted to warn you of what they were so you would know before you choose to buy it.
+
+System Requirements from their website:
+PC with 300 megahertz or higher processor clock speed
+One of the following operating systems: Windows Vista with Service Pack 1, Windows XP with Service Pack 3, or Windows Server 2003 with Service Pack 2 (64-bit versions of Windows XP and Windows Server excluded)
+Internet Explorer 5.5 browser software or later, Internet Explorer 7.0 included (will not displace your primary browser)
+For Windows Vista: 1 GB of RAM
+For Windows XP: 128 MB of RAM (256 MB recommended)
+For Windows Server 2003: 256 MB of RAM
+Running additional applications simultaneously may require additional memory
+Available hard-disk space: 1.8 GB. Some users may require up to an extra 100 MB for System Files Update (hard disk usage will vary depending on configuration)
+DVD-ROM drive
+Super VGA (1024  768) or higher resolution monitor with 256 colors
+Microsoft Mouse, Microsoft IntelliMouse, or a compatible pointing device
+Additional items or services required to use certain features:
+For Voice Output: any of the operating systems listed in the system requirements and a compatible soundcard
+Microsoft Exchange Server, Internet SMTP/POP3, IMAP4, or MAPI-compliant messaging software required to use Send to Mobile and Send To as attachment
+Microsoft Office Outlook 2003 or Office Outlook 2007 required to use "Send To as picture"
+14,400-baud or higher recommended
+Broadband Internet service strongly recommended for online search
+Some Internet functionality may require Internet access and payment of a separate fee to an Internet service provider; local and/or long-distance telephone toll charges may apply
+An available USB port
+
+I used this device to plan a family trip to Niagara Falls, which I figured would be a good test as we had never been there before and we wanted to know about as many family-friendly things as possible and find a quick and safe route to and from there. We also have a Magellan 3000 and have used it for trips to places we have never been to. I have also had a good bit of experience working with in-vehicle mobile data systems.
+
+Now the de-bunking:
+Depending on which product description you read, you might come across the statement: "NEW-compact, cable-free GPS Locator." Which might lead you to believe that said device connects wirelessly to your PC, which it does NOT. It has a USB GPS receiver that is not wireless. You may have difficulty placing your laptop in a safe location that is also able to receive the GPS satellite broadcasts, so you might need to use a cable to place it where it will pick up the satellite broadcasts.  The length of the included cable is very short, I would suggest you get a three foot USB extension cable (male to female -- NOT the kind you would use for a printer) and use that instead. In addition to that, you will want to put it some where that the screen will be visible / out of direct sunlight, usually, if you intend to glance at it during en-route navigation. You might also need a screen shade if sunlight is a problem. Another thing that might be distracting is the flashing `Microsoft' on the receiver.
+ [Also, when I say safe, you need to be able to attach you laptop to something that will hold it securely in case you have a crash and the airbags deploy and to prevent the laptop from slamming into your body.]
+
+If you want to use it in your vehicle for extended periods, you will ALSO need a power supply for your laptop, which would be a DC to AC inverter for your regular power supply / battery charger or a DC to DC adapter so you can do without your power brick. Having the inverter may be a more versatile, but have the other one might be a little more efficient.
+
+There is value in having a bigger screen, as long as it is not distracting while you are trying to drive.
+The GPS receiver worked well, and fast, even inside my house, which has a very wide overhanging roof.
+ It seems to be able to search for and update construction information (which most cheaper, stand-alone units cannot) as long as you do that while online.
+
+I think the real value of it is the planning side of things. It does not seem to have more data than the Magellan GPS we have, but it would be easier to update the software and data than with a stand-alone unit. I would like to be able to search for places we like along the way by name (like Cracker Barrel, for instance).
+
+It seems to me like it would be useful if you are making sales calls and need to update where you are going once or twice a day.
+It nags you that you are off route frequently if you are going slowly and changing lanes on a multi-lane roadway, so that can become annoying.
+It is helpful to be able to print out the maps so you can become familiar with the route. Be sure to have your computer online BEFORE you install it, just in case you need a component that you do not already have installed.
+
+All in all, I think this is a good tool for route planning, but it may not a safe or easy option for you to use for navigation.

@@ -1,0 +1,11 @@
+This is a robust mapping program that goes beyond&nbsp;<a data-hook="product-link-linked" class="a-link-normal" href="/Microsoft-Streets-Trips-2009/dp/B001EHXOFG/ref=cm_cr_arp_d_rvw_txt?ie=UTF8">Microsoft Streets & Trips 2009</a>to add features such as the ability to input data from Excel or Access.
+
+It creates clear driving directions that can be emailed as a picture or as an attachment.  The map (either as an attachment or as a picture in the email) is high quality and easy to read.  The email with map and directions was only about 260KB
+
+Another great feature is you can customize fuel cost and MPG city/highway to get fuel cost estimates for the routes that are being planned
+
+Another handy feature is the ability to turn a map into a web page then easily integrates it into your site with either a simple web creator or one such as Front Page or Dreamweaver.
+
+This is probably much more robust than what I needed but it will serve me well being able to email customized directions to my home office for my clients.  In the future I may use it as a tool to map where my clients are located and perhaps develop some marketing tools.
+
+If you are looking for a more robust mapping program to intergrate with data this could very well be the ticket.  If you are just looking for some good mapping program consider Microsoft Streets and Trips.

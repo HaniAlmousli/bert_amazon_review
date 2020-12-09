@@ -1,0 +1,5 @@
+My review is on the upgrade from Quicken 2010.  The User Interface (UI) has been improved with streamlined tabs and buttons which make navigation easier.  The Quicken 2010 UI had become very clunky and confusing with multiple ways to perform the same action.  The UI/registers have improved fonts and layout which make it have a cleaner appearance.
+
+I noticed improvement in the startup time and also greatly improved performance when you accept downloaded transactions.  Downloaded transactions get accepted "instantaneously" as opposed to a second or so it took in my Quicken 2010.
+
+The overall operation of the application remains mostly consistent with Quicken 2010.  If you are thinking about upgrading, it is a worthwhile upgrade.  I noticed Intuit (company which makes Quicken) is still selling Quicken 2010 on the Quicken web site.  Version 2011 must have been made available in advance through retail channels.  Also, the current Amazon price of $69 is $20 cheaper than the $89 retail price on the Quicken site.

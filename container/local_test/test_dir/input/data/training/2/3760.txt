@@ -1,0 +1,11 @@
+I run Norton Internet Security on two 64-bit Vista Home Premium PCs.  It works great!  I'm impressed.  So I bought another copy to install on a 32-bit version of Premium, and a 32-bit version of XP Home.  It installed nicely and went about its business getting the latest updates and scanning my system.
+
+However ...
+
+I routinely right-clicked an icon on my desktop and Windows Explorer "had to close".  I tried everything I could think of, including pouring over Internet suggestions for 4 hours with no success.
+
+Finally I rolled back to before I had installed Norton and Windows stopped being a jerk.  I googled for the error message with "Norton Internet Security" and found on a Norton support site that they were aware of the problem but there was no solution that I could use.
+
+When a company reaches a certain size, it seems that they become incapable of fixing problems in their own products.
+
+So, 5 stars if it works, and 1 star if not.

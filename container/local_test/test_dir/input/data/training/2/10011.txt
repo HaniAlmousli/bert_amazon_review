@@ -1,0 +1,5 @@
+Not a nice surprise as I truly did want to try out "Power Director 13", from CyberLink. But upon inserting the disk and attempting to install on my Win7 pro 64bit PC a window popped up indicating I didn't have, and needed to install, Windows Media Player 9 or above, as 'Power Director 13" requires it.
+
+I didn't really want Media Player, but, for the sake of reviewing this product, I tried installing Player 9 and found it's incompatible with my PC; Player 10 is also incompatible, as is 11. The following is what I received from Microsoft: "You are running Windows 7 pro 64-bit. Although Windows Media Player will not run on your system, you can download Windows Media Player for other operating systems."
+
+And I couldn't find any indication from the 'Power Director 13' advertisement indicating the need for a specific player, either. And I've 3 players on my machine: Quick Time, Adobe & Amazon. Bad luck for me.

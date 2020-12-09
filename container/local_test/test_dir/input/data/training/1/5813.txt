@@ -1,0 +1,22 @@
+Had Paperport 12 Pro on Win XP/sp3
+Forced to move to Paperport 14 Pro when installing into Windows 8/64. Earlier versions of Paperport will not work in Win 8/64. Most off the shelf laptops and desktops will have 64 bit Windows 8 installed.
+
+Users of PP12 will see a familiar interface in PP14 but will definitely have problems in Win 8/64 getting your scanner/printers to work. Win 8 requires printer/scanner manufacturers to rewrite their USB and LAN drivers.  Your Brother printer/scanner must have the latest firmware BEFORE installing Brother USB drivers for Windows 8. My Brother MFC-7860DW scanner/printer will handshake and scan to PP14 only over the LAN connection, but PP14 will print a hard copy over the USB or LAN connection to the Brother printer. Go figure. Brother really has problems posting the correct sequence to update their drivers to work in Win 8.
+
+PP14 is great for organizing your scanned images whether they be done in tiff or pdf. That is why I have been using Paperport since they became the default big dog when they bought out Pagis Pro some years ago. Yes, there are other document scanning/sorting/filing programs but Paperport allowed you cut/delete and paste from one document to another. Whether it was pdf/pdf, tiff/pdf, or pdf/tiff. This is a tool I use extensively.
+
+UNFORTUNATELY, Paperport 14 Pro has broken the RESIZE tool.  In PP12 you could resize a document or image larger or smaller.  Important if you scan a business card and want to enlarge it a bit for easier reading or shrinking something down to fit better on a size of paper.  The Resize tool is there, but no longer works, no matter if you want to increase or decrease the size in inch/cm/mm or DPI you now get a what the heck "The requested size is too large. Please use smaller values or reduce the image DPI values."  You have to cancel and "be happy" with the what you get is what you get. So that business card you have with 100 lines of mouse type is still going to be 100 lines of mouse type printed business card size on a 8.5 x 11 sheet of paper.  This "BUG" has been noted at Nuance help forums since early 2012, it is now September 2013.  Nuance has been consistent on their product updates and support, zippo, zero, nada. Their update notices are merely upsell notices to upgrade.
+
+If you have Windows 7 or earlier keep your Paperport 12 or look for Paperport 12 if you do not have it. If you have Windows 8/64 you should look to alternatives.  Try FileCenter trial version first.  If you really want to try Paperport 14 Pro then download the 15 day trial/demo version of Paperport 14 Pro.
+
+If you find something that worked in PP12 but is broken in PP14 do not expect it to be fixed at all by Nuance.
+
+I am currently stuck with a reduced feature Paperport 14 Pro because I have Windows 8. I think I will increase my loses and quit Windows 8 which I have had for 2 weeks and buy Windows 7 for a Windows "upgrade".
+
+Tech/Phone support is MON-FRI. HUH!
+Online chat support with off shore reps work more days. They are OK but the language syntax may throw you once in a while.
+Free Tech Phone/Web support for 90 days, after that you pay $9.95 for help. No support for trial versions.
+
+UPDATE 008/11/2016 downrated to one star
+Paperport 14 Pro has been working in Windows 7 Pro/64.
+Tried PP14 in Windows 10 64bit and program does not close in Windows 10.  Must close using task manager and force close.  Will continue to use in Windows 7 but not on Windows 10 machines.  Noticed price drop so maybe a new version of Paperport is coming out that actually works in Windows 8 and Windows 10.  The cut and paste feature in PP14Pro is the only thing keeping me using this ancient software.

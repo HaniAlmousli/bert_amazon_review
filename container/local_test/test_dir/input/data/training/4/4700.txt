@@ -1,0 +1,9 @@
+Everyone doing mainstream drafting today is familiar with AutoCAD. It is so widely used that there are now several alternate use models for which AutoCAD itself is overkill. AutoCAD LT 2011 perfectly fits several of these:
+
+2D Drafting: AutoCAD LT 2011 is all you need. There is nothing a 2D draftsman needs that this package does not offer. Note however, none of AutoCAD's 3D capabilities are included.
+
+Home/Laptop/Travel/Sales Office/Customer Meetings: Cheaper than AutoCAD, with perfect compatibility. There's no better way to review and modify drawings in the field (except AutoCAD). I know of one contractor who keeps a laptop loaded with&nbsp;<a data-hook="product-link-linked" class="a-link-normal" href="/AutoCAD-LT-2010/dp/B001UO8M8M/ref=cm_cr_arp_d_rvw_txt?ie=UTF8">AutoCAD LT 2010</a>&nbsp;for use by his biggest customer. They can view anything, make changes, and in general work together better.
+
+As successful as this low-end product has become, it has one flaw: it retains the steep learning curve of its big brother. I am of two minds here. As a powerful stand-alone 2D package, AutoCAD LT 2011 has a depth of capability that few will use completely. That depth deserves some learning (or better yet, professional training). Makers of other high end packages have successfully built low-end tools that are easier to learn: Adobe Photoshop Elements comes to mind. But Elements provides only a small subset of the functionality of Photoshop, unlike AutoCAD LT 2011, which provides virtually the entire AutoCAD feature set (except 3D).
+
+So if you need a 2D drafting package with flawless AutoCAD compatibility, AutoCAD LT 2011 is literally perfect. But if you don't use AutoCAD already, you will need training, or at the very least a good book!

@@ -1,0 +1,9 @@
+Firstly, I had the Three User Version... Three PCs.
+
+This programme  works superbly... once it is installed  fully.
+
+I did all the prep  for XP  Professional, and the thing installed beautifully after about 7 or 8 trys. The thing that made it work was shutting down all things in services that could be shut down. SP2 in Windows XP pro is a pain.
+
+Installing to my Windows ME  PC was a dream. Worked as easily as if it was a smaller app, and it did ALL of things that the XP Pro install eventually did.
+
+Symantec need to work on this app a little to make things a bit more straightforward.

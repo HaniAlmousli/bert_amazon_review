@@ -1,0 +1,13 @@
+I want to first say that anyone who is NOT running anti-virus software should really get some - any - antivirus software on their systems immediately. It's not only about losing your own data. It's about your system being turned into a robot to send out millions of spam messages a day. If your system is open and unprotected, it in essence can be taken over by anyone on the web. This could turn you into a porn system, a spam system, or many other kinds of illegal systems without you ever knowing. You really need to keep your system locked for your safety as well as the safety of others. Never mind your legal implications if you let your unprotected system become a storehouse of child porn. ("Really officer, I had no idea ...")
+
+McAfee and Norton are traditionally two of the big names in the PC protection world. We have used both on and off over the years. Recently we have given the edge to Norton for their anti-virus software abilities. You only need one virus to hit you to wipe out your data and to turn your machine into a porn-distributing robot. When we had the opportunity to try McAfee, we thought we might as well see how it was doing.
+
+The first thing I have to say is you CANNOT review an antivirus software package after only a week of us!! That is not a valid test. You need to use it for months to see how it actually performs. This is a long term software package, not one that works for a week and tells you much of anything. That is like buying a retirement stock portfolio and judging it after a week's worth of time.
+
+So we've had this for several months now. Issue 1. It really slows down your system. Far more than other systems do. Since most of us use our computers for things that we do not want to wait 8 hours to complete, a slow system is not a good thing. There is no reason for the system to crawl the way it does when McAfee is running.
+
+Even more importantly though it does NOT provide reliable virus protection. I might even accept a slower system if I knew it was being properly protected. However, it is not! The system that was running McAfee on it got hit with a virus that Norton blocked on our other systems. That right there is the ultimate failure mark. If you are running anti-virus software on a system, and it gets  a virus anyway that damages data, just what was the purpose of the slow anti-viral software? Especially when other software at the same price did its job properly.
+
+We haven't tried yet, but we've also heard that this software auto-bills yearly without asking your permission and that canceling the software is a royal pain in the butt. That is the death knell as far as we are concerned.
+
+Buy Norton. Stay away from McAfee, at least this 2008 version.

@@ -1,0 +1,19 @@
+If you have dialup NEVER purchase this product. Why?
+
+1) If you have automatic updates ON, it eats up your bandwidth so you can do NOTHING on the Internet until the update completes. Neat. I thought I purchased my computers to use, not to maintain and I purchased this absolutely worthless product to protect me while I was on the Internet
+
+2) If you have automatic updates OFF (which is the only way you can use it given (1, then you basically have to do the updates manually when you know that you will not be using your computer. Great.
+
+3) I have a half dozen licenses for this product. However, because Windows XP is little more than a continuing security exposure, I only use one computer on this Internet, this one. The ONLY time the other computers are on the Internet is for software updates. Normally, therefore, I only update NIS 2006 on a monthly basis or so (Since it is not needed. If you read 4) & 5) you can see why there is absolutely no incentive to update this product at all since it is just a problem). The problem is that essentially 100% of the time, when I attempt to update NIS 2006, it crashes (Internal error, etc).
+
+4) I live in the sticks so that DSL is not available, therefore I am stuck with dialup. (Satellite is not acceptable for many, many reasons, btw). The consequences of 3), that NIS 2006 always ALWAYS crashes during the update process, is that all updates have to be done piecemeal, one at a time as I try to find some workaround to get it to update. The problem with this, is that even the individual updates fail (Internal error) Therefore I have to spend hours updating each computer: Updates | Select individual update from list | LONG download | Internal error. Repeat || Try another individual update from list | LONG download | Internal error. So, as I said, I have to spend hours trying to find some workaround for EACH computer trying to get NIS 2006 to ever update.
+
+5) The consequences of 1) and 3), is there is an extremely strong disincentive to update NIS 2006 at all (Besides the fact that every once in awhile your license spontaneously EXPIRES and you have to solve that problem in addition). The end result of this is that I spend far more time trying to update NIS 2006 than I actually spend doing anything productive. (Then there is that wonderful Windows "Genuine Advantage", that makes the Windows update process miserable)
+
+6) I would estimate that I end up doing several failed UPDATES, before this piece of junk finally updates, properly. That is a lot of time at 28.8K to 38.6K
+
+Symantec has BILLIONS of dollars for acquisitions yet they don't give a damn about providing a product than even works (and they never will give a damn or provide a product that works) (BTW, I notice that as the years progress, almost all software is getting even more unreliable)
+
+Hopefully, I have made my point (The real shame is that the other products have their own problems, as well, so you are pretty well damned if you do and damned if you don't)
+
+Roy

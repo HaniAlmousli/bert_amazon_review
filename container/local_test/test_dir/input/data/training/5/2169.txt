@@ -1,0 +1,6 @@
+This is a feature rich update of the Office:Mac program. The user interface is elegant, and very Mac-friendly.
+Initially I had some difficulties with the program - first, it would take a very long time (upwards of 20 minutes!) to launch, and the program had real problems with Font menus. A few simple tweaks to Word, and to my font management software solved these issues. Now all my Office:Mac 2008 applications open swiftly and work smoothly.
+A problem I had with the 2004 version of Word in particular was that there was a slight lag between keystroke and monitor update, so my typing was always a few words ahead of what was visible on my screen. With the '08 version, this has gone away.
+If there is a flaw in the program, it would actually have to be that the new Mac-like interface has changed where tools and features are located, so I find myself having to learn my way around the program all over again. I hate to say it but I miss the old menu and toolbar structure.
+Otherwise, the program works beautifully.
+I'd update the star rating here to 4 1/2 if I could - can't do that when editing reviews, sorry.

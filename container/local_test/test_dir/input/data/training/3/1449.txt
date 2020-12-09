@@ -1,0 +1,9 @@
+I purchased windows Vista with a new computer only to find out that it didn't work with my office billing software.  I then found out that Microsoft only wants to let you downgrade back to Windows XP if you have their business or premium version and buy another Windows XP.  I wonder about the legality of voiding prior purchases.
+
+Fortunately Dell let me send my Inspiron with Vista (didn't come any other way) computer back to them and I bought one of their small business systems (a Vostro 400) at a very reasonable price with XP on it in instead.
+
+Vista is a full featured operating system and attractive.  I had a little trouble with file handling and organizing as the files folder and file features that were in XP were taken away or changed significantly. Maybe for the better but a manual explaining the changes would have been nice.
+
+On the downside Premium Vista is memory and processor heavy and can slow your system, so it is probably a mistake on older computers.  The Home BASIC edition of Vista is fast on a newer powerful computer.  Also half of your non-microsoft software will probably not run and you may not have drivers for your monitor and printer (go to their site and see if there are Vista drivers)
+
+I strongly recommend all business owner to wait at least a year before getting Vista, not to load it on anything but a new computer, and if needing a computer, to get XP Pro on a powerful computer that can handle vista later (2 MB Ram, 2.33GHz duo core, 160MB+ Hard Drive) and wait until all compatability issues are resolved and verification that all of your software is compatible with Vista.  You can always upgrade to Vista later with and it will likely be well woth the wait.

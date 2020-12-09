@@ -1,0 +1,9 @@
+I've used Corel's PaintShop software since the X4 edition.  Corel keeps tweaking the software to improve it.
+
+This latest iteration offers a pure 64-bit version.  The features of the 64-bit version are generally the same as those of the 32-bit version.  However, it makes much more effective use of extended memory.  I ran this on a machine with an Intel Ivy Bridge i7 processor and 16 gb of DDR3-1866 memory, and it runs like butter even on the largest RAW image files.  The software seems stable -- I didn't experience any odd bugs or crashes.
+
+I've used Adobe products and have PhotoShop CS5.  This software can do just about anything the Adobe program can do, and it does it for a fraction of the price.  That said, Adobe is more of an industry standard, so you're more likely to find people using that solution.
+
+In all, this is powerful photo editing software at a reasonable price.  As with any powerful software, there is a learning curve.  But there are aftermarket books that will help you with that if you're interested.
+
+I dock it one star because Corel has a bad habit of intrusive marketing, with various ads popping up from time to time when you load the program.  I could live without that aggressive marketing, which seems amateurish and, frankly, a bit desperate.

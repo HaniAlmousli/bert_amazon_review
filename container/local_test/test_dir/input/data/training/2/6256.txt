@@ -1,0 +1,5 @@
+This is not a very good program, as others have made quite clear. It consumes a great deal of time to install, does not run cleanly, and crashes constantly.
+
+While some seem to have had a good experience with this software, I count myself among the vocal minority who were unable to make the thing run.
+
+And my computer has a 500 Gig Seagate hard drive and 4 gigabytes of DDR3 memory. This is hardly a low end laptop, to put it mildly. I should be able to run this software, but couldn't. I junked it.

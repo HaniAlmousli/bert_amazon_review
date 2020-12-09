@@ -1,0 +1,116 @@
+EDIT, 1/30/13:  I bought two Win8 upgrades of the twin DVDs for each 32-bit and 64-bit.  I will install them on laptops whose drives are easily switched out post-clone, so not to disturb the original drives.  In short, clone original drive, switch it out, pop in a new drive, clone back to that drive, then partition, then put Win8 in its own partition, then switch out again.  This is one dangerous OS.  The reviews later than mine here for 1/10/13 report more horrors post-installation than I'd have imagined.  The laptops I bought for this were Dell Latitude 6530, 6510.  The other Dell laptop with an easily switched-out-drive is the D630.  But its memory is expensive.  Memory for the 6530 and 6510 runs only about $35 per 4 GB. In short, Win8 will NEVER be on a mission-critical machine, and NEVER be on a mission-critical original internal drive.  Comparable Precision models are 2400, 4400, 6500 (which uses same internal HDD as the 6530), 6600-6700.  Precision models are more expensive.  Dell's memory is easy to change (except on the D630, where the DIMM A module is below the keyboard, lol).  So if you're debating whether to install Win8, get a used Dell laptop in dellauction, DFS, or Dell Outlet.  If it's after January 31 when you want to install, don't upgrade at all.  The real cost of this upgrade is in the HUNDREDS of hours' frustration you'll have in trying to learn and use it.  For that reason, I won't install Win8 until maybe a year from now, or whenever reports of it regaining sanity and stability, come out.
+
+Partition size should at least be 80 GB, because Win8 might impose a recovery/restore file.  That file is at least 22 GB, which is the Win7 file size.  Atop that, you need space for the Recycle Bin, paging file, other junk.  So figure 80 GB or 60 GB at smallest, for a Windows 8 partition.  Put all your other programs and files elsewhere, back up your registry regularly.  Win8 forces you to be online more often, so you are at greater risk.
+
+Original review follows below, before the upgrades arrived.  Those upgrades are still in their little sealed boxes, unopened.  The boxes are the size of a CD.
+
+=========
+I made Youtube videos on Win8 as 'brainouty'.  My videos aren't worth watching, but the video descriptions ARE worth reading: they contain a lot of links relevant to Win8 installation and usage, from users installing, and from computer magazines online, forums, etc.  See also my posts in PC World, which often contain links to other places.  Yeah, and maybe ignore my irritation in those posts.  I need Bible's 1John1:9 every 30 seconds, when working with Windows: sorry!
+
+Oh, understand this clearly:  I'm MIFFED that I have to move to Linux, in order to avoid this OS.  I'm not an MS hater, but an XP fan -- just bought four more XP Pro OS here in Amazon.  Linux will be used for internetting and email when the support for XP ends.  That way XP security will remain, as Linux for COMPUTERS is not popularly or easily targeted by hackers.  (Android is another story.)  Besides, XP's security has matured after 11 years.  Win8's just born, and its security is untested.
+
+So you see: I'm not an MS hater.  That said, here's the review:
+
+=======================================================
+Windows 8 pro-purchase: none, for an experienced computer desktop user.
+=======================================================
+
+Might be worth upgrading, if you like poking touchscreens; for that's the essential difference in Win8 (ignoring the new garishly annoying 'tiles' on the Start Screen which replaces the Start Menu).  If you have big screens sitting over 8" from your face, you won't want this software.  They made Win8 for touch, to compete with Apple and Android;  so mouse or touchpad, keyboard equivalents are awful.  Gone is the easy way to shut down, close a window, open multiple windows, change options.  It's all hide-and-seek now.  Plus, the screen response is MUCH slower.  You're supposed to get the thrill of watching a 'page' turn, the screen glide horizontally.  So it's DELIBERATELY slower.  Blecch.
+
+MS chirpers boast about 'fast boot times'.  Honey, I had to DISABLE fast boot on my Win98, XP, VISTA, and Win7 machines, so I'd have enough time to select the boot menu at startup, in case something went wrong.  The last thing you want is fast boot times, for then you bypass your ability to STOP the machine from hanging up.  Go get a cup of coffee when you boot.  Every Windows system, if new or tuned, boots in a minute or so.  Depending on what other programs you have scheduled to run at start up, it can take longer.  But just wait:  Win8 will be as slow as molasses, just like every other Windows OS, after it ages with the many 'updates' you'll have to get, to fix the OS bugs.
+
+MS chirpers also boast about 'safer'.  Baloney.  IE10 and the OS had security fixes in the first week!  And there are still problems.  If anything, Win8 is more susceptible to attack, because it imposes these LIVE TILES on you at boot up, and you can't really use it well unless you sign on with a Microsoft Account you create.  In short, you're ONLINE most of the time, that's what this OS is designed for;  so, you'll be under more attack, not less.
+
+==========================================
+Windows 8 contra-purchase:  keep reading this review. :)
+==========================================
+
+A) I bought it, B) I hate it, and C) it hasn't even arrived yet.  Bought it, because of the January 31 deadline, and needed to get that product key for the Media Center so at least I can play my DVD drive so I can maybe INSTALL something after Win8 disables the drive, post-installation.  NOTE: if you install 'plain' Win8, your DVD drive will become disabled;  but if you use the PRO upgrade here, the DVD/CD drives are supposed to keep working.  Will see.
+
+B) Hate it, for 3000 reasons, most of which are covered by other reviewers, to wit:
+=======================================================
+1.  Installation is VERY GLITCHY.
+=======================================================
+
+So be sure to clone your existing drive with Clonezilla (be sure the destination clone drive is about the same size as the original);  both Clonezilla and the destination drives (i.e., from Jacob's parts) are here in Amazon.  Expect your drivers not to work, your internet not to work (way to go, MS, disable the customer from troubleshooting your buggy installer), your programs not to work, if you install ON TOP OF the existing OS.  Better still, first partition your drive (if drive is greater than 100 GB), and install Win8 on a newly-created and formatted PARTITION.  You can do that with Clonezilla, too (which is a flavor of Linux), but most recommend you partition a Windows disk with Windows.  So maybe do that first, before you clone.  Then do a 'custom' install to install to the partition.  Oh: and keep your data on a different drive, because from Win7 forward, RESTORE and REFRESH don't exactly work as advertised.  You lose data and programs sometimes yes, sometimes no.  NOTHING BEATS CLONING.  For the clone drive is a live and bootable copy of your hard drive.  DO IT.
+
+REMOVE any anti-virus or disk management software prior to installation, if you'll not do a clean install.  The reviews I've read often report aborted installations due to those things (i.e., Kapersky, Norton, Acronis) being on the machine.
+
+MAKE SURE that UEFI boot is NOT enabled;  Windows 8 changes your BIOS, if UEFI is enabled, and you really don't want that -- it will be very difficult to recover your old system if it's enabled and you decide Win8 is not for you. Basically, a 'UEFI' is a traffic cop between your OS and your machine which stops any boot without a pre-authorized 'signature' being sent to the computer;  so, your machine is effectively DEAD. But how to do this?  First, if your machine is about a year old, you may have this problem;  even then, it seems to affect only 64-bit installations.  Google on 'uefi boot option', and then find superuser(dot)com for the most comprehensive explanation on this problem I could find.  (I can't put the link in here.)
+
+So: if you have it, you should see something like 'Legacy' or 'UEFI' on a screen, waiting for you to select it; should be in your system setup prior to booting in Windows.  If you select/enable UEFI, then maybe you won't be able to dual-boot with some other OS, later;  because, some systems thereafter HIDE the option.  So that's a problem, for Win8 DOES NOT UNINSTALL, as the instructions to the upgrade here in Amazon, warned.  If UEFI is enabled, not sure you can even clone back, to get rid of Win8. For the UEFI option creates a hidden partition on your hard drive which runs first in the boot sequence -- and maybe you can't reformat that partition, either.  Real pain in the neck.
+
+NOTE: if you don't see a 'UEFI' option, you probably don't have it, so your computer will NOT be locked by Win8 installation.  Win8 is supposed to warn you it can't use 'secure boot', when you install: if it does, SMILE BROADLY, grateful to Heaven you're not religiously tyrannized from deciding how YOU want to use your own machine!
+
+NOTE 2: Apparently all Dell workstations and mobile machines beginning with the Latitude 6410 (or near that vintage), have this 'UEFI' option, and you CAN turn it off (by selecting 'Legacy', instead);  the UEFI thingy began with Windows 7, in 2009.  So if your machine is older than that, you don't have it;  if you don't have Win7, you don't have the UEFI problem;  and if you have Windows 7, you'd already know about UEFI, as that was an issue in Windows 7 installation. One final way to check:  do you have an 'MBR' (master boot record) partition?  If 'yes', then likely you DO NOT have UEFI, because then an option to 'enable' it (radio button next to 'UEFI' in system setup) would be present.  Whew.
+
+MAKE SURE that AHCI is enabled.  Again, settings are in your system setup prior to booting in Windows.  Older machines might not have AHCI, or might not have it enabled.  AHCI controls how your DVD drives work, versus your other storage (like, your internal hard drive).  Apparently Win8 glitches up if AHCI isn't enabled, as reported by some users on the internet.  Again, if you don't see an option to enable it, don't worry.
+
+===> What's great about this Amazon deal (hence at least one star) is that you get BOTH 32-bit and 64-bit disks.  FAR BETTER TO USE THE DISKS THAN TO DOWNLOAD THE PROGRAM FROM MICROSOFT.  Most installation complaints are by people who downloaded from Microsoft for the $15 or $40.  Many problems reported:  aborted installations with many retries;  12+ hours simply to download (for MS servers control the rate, not your IP); worst of all, the download was keyed to the computer used, so (example) if you were on 32-bit Vista at the time, you got a 32-bit Win8 keyed to THAT Vista machine.  In short, the MS download is CUSTOMIZED, not generic.  So if you value your sanity, get these disks here in Amazon, instead. Pay the extra $27-52 here, unless you love waste and pain.
+
+===> here, you get BOTH 32-bit and 64-bit, as just said.  So look: I can install Win8, yell at it, then uninstall via clone-back and install Win8 later on something else -- probably also test 64-bit (to test DOSBOX and Taos Computing's DOS emulator).  So I get two experiences for the price of one.  The 64-bit use might actually be worthwhile.  Will see.
+
+=====================================
+DVD/CD Read/Write/PLAY ISSUES, post-installation:
+=====================================
+
+Allegedly, if you're installing Win8 Pro from these disks instead of downloading from MS, your DVD drive will still work, afterwards.  I'm not taking any chances, but will download VLC player (which also works in Linux) before I shut down, post-install.  I actually plan on triple-partitioning the drive, with the existing OS first (which will likely be Vista), then Linux in some flavor, leaving a third partition for Win8. I will then custom install it to that third partition, in 32-bit.
+
+IMPORTANT:  Windows Media Player won't necessarily work in Win8.  Instead, to play DVDs, you'll need the 'free' Media Center.  To get that, you have to go online to MS and give them your email, wait for a 'product key' to be mailed to you, which you have to use AFTER installing Win8 but BEFORE January 31.  Supposed to be five per customer, but to get that, you have to use five email addresses. If you do NOT install the 'free' version prior to January 31, your product key won't work.
+
+SUGGESTION: Bite the bullet and pay for Media Center ($10!) after January 31, downloading it then from MS.  The downloaded PAID version will enable your Blu-Ray player;  the 'free' version will disable the Blu-Ray player.  LOL can MS give you more DISincentive to buy?  Did the people who designed this OS sit around a conference table with lattes, asking each other, 'how can we best alienate the customer, today?'
+
+=======================================================
+2.  COMPATIBILITY with hardware is also very glitchy.
+=======================================================
+
+After reading 3000 reviews here in Amazon, new egg, TigerDirect and elsewhere (i.e., in comments and in computer magazines), it seems that the following hardware is problemmatic when Win8 installs (please add comments if I missed your own hardware glitch):
+
+* HP/Compaq computer and printer hardware -- they won't allow you to back-grade to Win7, but apparently the drivers in HP when you're not YET on Win8, don't function after Win8 installation.  Lots of problems reported, here in Amazon.
+* Sony -- Sony has a lot of proprietary adjustments in their stuff, and it works or often fails when Windows installations are done.
+*Graphics Cards, Nvidia or ATI Radeon -- problems with the drivers not being compatible.
+*Touchpads -- maybe won't work post-installation.
+*PROCESSORS -- Pentium 4 won't work, but Windows 8 advisor claims it will.  Some other processors might not work, as well.  In short, your installation might abort, or after installation and shutdown you might not be able to get the machine on again, due to the processor being incompatible.  But you won't know that, nothing tells you what's the problem.
+*WEBCAMS -- Logitech in particular might not work.  Don't know if any embedded laptop webcams will work.  Driver problems.
+*ROUTERS in your house. This too is a driver problem.  Some routers really have problems with Win8, so maybe first go to your router maker's site and see if there are any known problems.  Or, Google.
+*64-bit installations are more prone to problems than 32-bit.  So if you have 32-bit now, STAY on it.  You can always change later, especially since you get both 32-bit and 64-bit installers in this Amazon-purchased package.
+*1GB-RAM machines.  Win8 is supposed to be more compatible with low memory, but Pro requires 2GB, and you really need 4GB if you want smooth operation.  It's really tough to play videos or surf with 1GB, unless you have good broadband like XFINITY.  So if you have XFINITY, reserve your 1GB machine for internet and your TV hookup, or upgrade your RAM before moving to Win8 Pro.
+*Upgrades from Windows prior to Win7 are more glitchy.  CLONE FIRST.  You can only migrate your settings from Vista, and you can't migrate anything from XP.  So that will mean lost programs, lost drivers, lost a lot of things.  When my registry died on my XP in May-June (twice), it cost me three months to rebuild the thing, for back then I didn't know about cloning.  So CLONE FIRST.  Costs $8 for Clonezilla CD (I like their $60 USB, too), and maybe $30-$100 for an external hard drive the same size as your internal drive.  WORTH IT.
+
+--->  Ask people you know, who HAPPILY installed Win8 on their machines, what brands and processors, graphics cards, etc. that they have.  Frankly, you can spend $200 and just buy a cheap netbook to try Win8, leaving your main machine alone.  Then buy the upgrade here, if you're happy with Win8 function.  If not happy, you can always sell the cheap netbook here on Amazon, or to a friend. :)
+
+Dell machines seem to be the most compatible with Win8.  So I'm buying a Dell D630 to use as my test machine.
+
+=======================================================
+3.  COMPATIBILITY with software is weird and conflicting.
+=======================================================
+
+Win8 will tell you it can't handle MS Office prior to 2010, but users tell me they can even get old Office 2000 on their Win8's.  I'll be testing it with DOS Lotus 1-2-3 version 2.01, on 32-bit Win8, and other software from 2003 and prior.  That's why I got Win8, to see first-hand how bad it is.  Most of the software-incompatible complaints come from 64-bit or Adobe and Photoshop users.  Graphics display problems, colors wrong, formatting weird, colorspace problems in particular.  Probably every utility program you had pre-Win8, won't work.  Anything which makes direct calls to the hardware or to the OS, or uses context menus in prior versions of Windows, will likely not install or cause the machine to freeze.  Same problem happens in Win7, especially with respect to programs that use the context menu (meaning: the pop-up menu when you right-click, in XP, Vista, Win7).
+
+DEALBREAKER?  YOU LOSE YOUR EMAIL CLIENT after installation. Win8 is not compatible with old Win7 mail, nor Vista Mail, and of course isn't compatible with Outlook Express.  So move your mail to full Outlook, back up, then pray.  If you only use online email composition, then you might actually prefer Win8, because if you create an MS account when you first install, it will then take you through the steps to consolidate your email: but you can't compose offline.  I hate composing online, so I hate this 'new' feature.  But Outlook 2010 might work for you.  I don't like any Outlook after 2000, so will try and install that, see if it works.
+
+=======================================================
+4.  NAVIGATION in Win8 is disorienting.
+=======================================================
+
+Remember Kurt Vonnegut's 'Breakfast of Champions'?  Where the guy was in WWII Dresden, then suddenly on a planet living in a glass orb -- watched by aliens -- having no idea or control how he'd flip from one world to the other?  Win8 works just like that book/movie!  One minute you're in the desktop, doing something normal and productive, then ZAP!  You're back in the Start Screen again!  Why?  Because something you did in the desktop, actually called forth some program in the Start Screen TEMPORARILY, after which you're supposed to return to the desktop.  But, sometimes you don't.  It's kinda like going into your bedroom to pick up the socks, then you see the plant needs watering so you go to the kitchen, then you see the dishes need doing so you wash them.. and then you forgot about both plant and socks.
+
+Guess guess ugly interface schizoid operation made for XBox kiddies who have no discernment except to poke at a screen.  Just go look at the Youtube videos on Win8, watch how they navigate and use the OS, and you'll see how it works.  It's not hard to learn, it's ANNOYING to learn and even MORE ANNOYING to use.  MS hates its customers, always wants to make them play 'guess how to find me or use me' with each new OS they put out.  And in Win8, they want to control your 'experience' to seeing EASTER EGG HUNT TILES OF MS PRODUCTS when you boot up.  Really childish.  As a result, I'll gradually move to Linux.  But I still have to buy ONE copy of this garbage to learn it, in case a client asks me how to send an email or open a file, and all he has, is Win8.
+
+=================================================================================
+5.  OPERATION of value will be its desktop, which allegedly is like Win7.  But ooops: no Start Menu!
+=================================================================================
+
+A Start Menu in prior versions of Windows was handy to organize and 'park' your program shortcuts.  YOU chose where they were organized, YOU designed the folders and icons and whatever to remind YOU what and where they were, and YOU controlled how YOU wanted to see that stuff displayed.  Totally.  Well, that productive tool -- in use since Windows 95 -- is gone, in Win8.  Seriously:  it's as if MS had INTENDED to destroy the best interface features of Windows.  So of course, you can't customize the icons and background, like before.  God forbid you want to preserve your eyesight by muted shades and graphics, rather than GLARE TILES with a GLARE background, no matter what color you choose, excepting sleepy gray!  Windows 3.1, all over again!
+
+Here, the MS chirpers will chorus that many THIRD PARTY add-ins restore your Start Menu.  Not really. There are hundreds of these programs you must TRY and then INSTALL and then USE to recover some of the functionality you had.  But now you spent effort and time searching through all these programs; every update to Win8, will maybe necessitate updating these programs, too.  So guess what? Now your day is spent on tweaking and updates.. not on working.  Did someone in Redmond call an in-house meeting, on 'How To Create World Inflation. Quickly'?
+
+So I wonder how No-Win8, will truly resemble Win7.  XP is far better than both; but Win7 happily formats DVDs; its MovieMaker 6.0 is fabulous.  Win7's Help actually helps (what a shock).  Excepting Explorer (that Win8 essentially obliterates) Win7's reorganized options are pretty decent and intuitive.  So I'm dying to see if I can override Win8's interface the way I overrode Win7, resulting in a 'classic' interface (meaning, like Win98, replete with Start Menu!) across all my (soon to be 14) Windows machines.  See my 'Vista versus Win7' thread in PC World, if you're interested in that.
+
+======================
+
+C) So my Win8 Pro upgrade will arrive in a few days, allowing me to buy a Dell D630 for Win8 installation.  Someone here in the Amazon comments said that model worked well with Win8. The Dell machine's design is fabulous -- internal hard drive, just slides out after removing two screws on the back!  Machine is for sale here in Amazon.  I made a video on it, too.
+
+Alas, the D630's memory is slow, only 800MHz.  Still, that moseying RAM fits the pokey Win8 OS:  for you are expected to SIGH or drool,  while its tiles waft lazily across the screen, just as in any tablet;  then, you again swipe, sigh, drool.. one 'page' of tiles at a time.  Oh wait: you can also type the first three or four letters of the file you want, and magically 'search' appears with the many tiles answering that description.  Hmmm.  So now you have to TYPE and SWIPE?  Sheesh.
+
+So I won't do a more personal review, for awhile.  Then my rant here will gradually suffer edit. I did nearly six months of intensive research on Win8 installation and operation, prior to buying.  Still, would love to be wrong -- if the 'right' answer is good.  :)

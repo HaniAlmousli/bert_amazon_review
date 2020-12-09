@@ -1,0 +1,13 @@
+I have been involved with computers for 22 years. I am no expert in designing or programing of computers, but I have a ton of experience using computers. In today's world, you should not even think about going online without protection from viruses, or being hacked.
+
+I am a long time user of Trend Micro's line of products, and have had nothing but the best results using their virus protection, and firewall to protect me from all threats while being online.
+
+When Trend Micro brought out this newest version of their program, I jumped right on it. I didn't feel a need to research the product, since I trusted the company 100%. As soon as I installed this program, I regretted doing so.
+
+First of all, it has no firewall protection at all. The company says that their program "enhances" the firewall available with the Windows operating system, yet refuses to give details of just how it does this. Also, many users are having trouble with lost files, and getting the program to allow known websites to be recognized as friendly.
+
+Basically this program is a dumbed-down version of their software, giving the user less protection, and next to no control of how the program functions.
+
+After I decided I didn't want this junk protecting me, I attempted to roll back to the older version of the program. It was a 3 hour ordeal trying to get the software to uninstall. Windows' uninstall program could not get rid of it. Next, I tried to download an uninstall tool directly from Trend Micro, but that didn't work either. I had to purchase a copy of the older version of the program, right here on Amazon, since Trend Micro didn't offer it on their site. That copy had a "Forced Uninstall" tool on the CD, which finally cleaned this newer version off my computer.
+
+Bottom line: Stay away.....very far away, from this program. If you want the best program, from my experience, go with Trend Micro's "Internet Security Pro" program. It's from the same company, but is a top notch program. You can get the program right here on Amazon, at a great price.

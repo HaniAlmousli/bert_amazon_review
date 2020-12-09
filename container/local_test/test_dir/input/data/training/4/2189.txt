@@ -1,0 +1,34 @@
+I hope this review serves to clarify some of the complaints that people have posted regarding Office 2008.
+
+Preface:
+After being disappointed with Leopard 10.5 -which I also reviewed- I kept using Tiger. When finally 10.5.2 arrived I began using it. It fixes many Leopard bugs. According to some websites, at least 130 bugs have been fixed. This is important since many problems with third party software may be related to other software or to the operating system. For example, Apple is aware of problems with its Sync services and Core Image. Also, some bugs have existed for many years and have not been fixed, such as a potential bug when moving data to an external device.
+Keeping these issues in mind I did a completely clean install of Leopard 10.5.2 in a brand new hard drive.
+I installed Office 2008 as well as the available upgrade to 12.0.1.
+
+First Impressions:
+Some useful features have been added, such as Elements Gallery, which may be a time saver for many people. Some features have been removed, such as VBA, and this may be a deal-breaker for many people.
+I'm keeping Office 2004 in a separate partition in order to use previous versions of Word and Excel.
+At the same time, I can still use the new versions when I don't need the VBA features.
+Lack of VBA support was announced well over a year ago, so this came as no surprise.
+
+Starting up:
+Each program took approximately 10 seconds to launch. Office seems to have a peculiar way of handling fonts, though, and launch times can be greatly effected. After installing another program that installed more fonts, and installing Extensis Fusion to manage my fonts, launch times for Office programs was approximately 150 (one hundred and fifty) seconds, instead of the original 10 (ten) seconds.
+Now it takes about a minute to launch these programs. In all fairness, the slow down is partly caused by third party software.
+
+Overall (and very brief)  impressions:
+PowerPoint works with presentations that used to crash my 2004 version. The 2004 version was practically unusable for me. This was a welcome upgrade.
+
+Excel works fine and the Elements Gallery is a good addition. It lost VBA support and the Abalysys Toolpack. I kept the 2004 version as well.
+
+Word seems to be a solid upgrade. Some third party templates do not work with 2008, so I kept Word 2004.
+
+Entourage works very well. I had to re-select the folders that I had set up for my rules, and re-apply categories to my folders. Syncing with Address Book always adds many duplicate contacts. Fortunately there are scripts to deal with this inconvenience. Hyperlinks still require a workaround, as mentioned by another reviewer. I would not rate Office with 1-star solely based on that issue.
+
+Expression Media used to be called iView MediaPro, iView Multimedia, and iView many years ago. It used to be a $25 shareware program when I first used it. Eventually it became quite expensive so I never upgraded until I received this version. So far I'm happy with it. It has worked fine for cataloging thousands of fonts and pictures, and I'm entitled to a free upgrade when version 2 comes out.
+
+Price:
+There are free Office alternatives, as well as iWork. I( still prefer Microsoft Office for the most part. The only exception may be Keynote 4.
+Microsoft offered a substantial discount under the names of The Technology Guarantee Program and the Super Suite Deal. Additionally, for one day they offered a $[...] rebate. So users could get the Mac Special Media Edition for approximately $[...]-$[...] with these offers.
+Had it not been for the offer, I would have stayed with Office 2004. I've used Office 2008 for a few days, every day, and so far have encountered no problems.
+
+Overall I'm satisfied with the upgrade. Support has been great, both by Microsoft and the MVP people. Search their forums and you'll find a lot of useful advise.

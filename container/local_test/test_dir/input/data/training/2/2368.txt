@@ -1,0 +1,3 @@
+About the only video I'm interested in working with is the video that I get from my cell phone.  I have Motorola RAZR so it isn't some obscure model no one ever heard of.  I was surprised to see that there was no support for the 3g2 file format in Ulead.
+
+I contacted Corel to make sure that they did, in fact, not support this file format.  They don't--at least not yet.  They may support it in the future as patch update (no time line was given).

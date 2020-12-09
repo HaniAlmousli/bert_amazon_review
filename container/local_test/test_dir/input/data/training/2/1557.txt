@@ -1,0 +1,5 @@
+I used Turbo Tax for many years and every year it got better and better.  Then I tried Tax Cut for two years in a row and was surprised how much clumsier of a program it was to use.  I even ran into situations where I had to override TaxCut's built in methods to get certain things done correctly.  I've never had to do so with Turbo Tax.  I finally wrote on my file folder where I collect receipts for the coming tax years "Do Not Buy Tax Cut" so that I wouldn't forget.
+
+If you are doing a simple tax return then almost any software will do, but if you have a more complex return with rental properties, investments, trusts or anything else beyond normal wage and salary income and the common deductions then TurboTax is IMO the way to go.
+
+If your needs are fairly straightforward, then saving a few bucks by getting TaxCut might be OK.

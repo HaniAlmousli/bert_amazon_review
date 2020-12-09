@@ -1,0 +1,40 @@
+Norton Security Deluxe is the next generation of last year's Norton Security. This package is for 3 devices and at the time of this review is almost twice as much as getting it for&nbsp;<a data-hook="product-link-linked" class="a-link-normal" href="/Norton-Security-Deluxe-for-5-devices/dp/B015724OVG/ref=cm_cr_arp_d_rvw_txt?ie=UTF8">Norton Security Deluxe for 5 devices</a>!! Go figure. Lesson: It pays to shop carefully for Norton products because often "more is less".
+
+The biggest changes I see in this product from last year's Norton product is the branding on the box. To be sure there are incremental improvements. Norton Security Deluxe is like the older Norton Security without  Backup for 5 devices. I think this isn't too bad. I like my security software to evolve and improve more than radically change.
+
+Norton Security Deluxe comes with licensing for 3 devices: Windows, Mac, IOS (iPhone/iPad) and Android. This should be enough for many families but maybe not all. You do not get the same features on all devices. I have Windows and IOS so I'll share my experience with these.
+
+Buying a new subscription is less expensive than renewing an existing one. This is a long pattern with Norton products and buying new can save quite a bit.
+
+Windows Setup:
+
+**NOTE** If you have Norton Security (with or without backup) installed and you get this new subscription you will need to remove your device from the Norton control panel. In theory this will uninstall the older product from your computer (but not remove the IOS app for iPhone/iPad devices). In my case I had to manually uninstall Norton Security and reboot my computer before I could install the new subscription.
+
+Installation is pushed out of the Norton account control panel. AFTER I removed old versions I was able to install Norton Security Deluxe very easily and without problems. I registered the product in my existing Norton account to activate 5 devices I could install. The download went smoothly and installation on my Windows 7 desktop was faster than with older CD based Norton products and similar to Norton Security. I did have to restart my computer.
+
+I found it interesting that the installation branding and the control panel branding is still Norton Security reinforcing my perception of a simple evolution and mostly branding changes.
+
+The controls in the GUI are simple and clear coming from Norton Security.  There are lots of on/off controls to customize how Norton works. There is a small gear icon for settings on the main screen of the GUI and many controls are hidden in there.
+
+In operation on Windows I feel Norton Security is continues to be "noisy" than pre-2015 versions; I don't feel like I'm constantly being marketed to death. It has the same light impact on PC performance as the previous version.  This is a very good thing! The initial full scan came up clean which is no surprise ince I had last year's version installed before this one.
+
+Application Compatibility Problems:
+
+Unlike last year's version I have had no application compatibility problems. Last year's version has issues with VirtualBox. Good news!
+
+Mobile Support:
+
+The IOS app is better than before, but not all that much. It has anti-theft features. It does not include any virus protection. The Anti-Theft features include:
+1) locate your phone: this placed my iPhone 6 a quarter mile away!! Also letting it run GPS in the background significantly reduced my battery life.
+2) it can ring your phone: I can just dial the number. If the phone is locked it can't be answered...
+3) it has a "scream" function: makes your iPhone put out an annoying siren like noise
+
+If the "scream" actually sounded like a scream this app would at least have some entertainment value. If you have more devices than the 5 allowed in this product, don't waste one on an IOS device! The IOS does not do much for me and the GPS locator drained my battery. I have read that Android devices have better support against malware. I don't have an android device to try this out.
+
+Conclusions:
+
+This incarnation of Symantec's Norton line of retail/home security products is pretty good. It finds things other anti-virus software misses. It does not seem to slow things down noticeably. With this version I had no application problems which is an improvement. Mobile support for iPhone/iPad is poor. The user interface is simple and there are advanced controls available if you need them.
+
+If you have last years (or older versions) of Norton installed, be sure to remove it from the Norton control panel and device before installing the new version. I could not find a way to move a device from an old subscription to a new one unless I renewed through the Norton site at a higher price. That's annoying.
+
+Because it's a great product for home users, having to reinstall if you buy a new subscription (vs renewing) and the IOS app remains quite limited I'm giving Norton Security Deluxe 4 stars. It a good product with a few gotchas.

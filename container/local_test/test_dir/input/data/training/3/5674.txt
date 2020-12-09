@@ -1,0 +1,28 @@
+First of all, you don't need to risk you money on this software. They offer full function version for 30-day trial. Corel has a 30-day satisfaction guarantee, but that is for purchase made directly from them only. So, try before you buy.
+
+Currently, I am using ScanSoft's paperport software for following manipulations:
+(1) To combing multiple documents into a single PDF file. Or remove/extract pages from a multi-page PDF file.
+(2) Rotate page(s) of PDF files.
+
+My intention of using Corel Fusion is to convert PDF files into editable documents.
+
+The Goods:
+(a) Easy to install and does an excellent job of converting documents to PDF files. The software allows me to open multiple PDFs, drag and drop certain pages among them, and then recombine them. The drag-and-drop assembly feature is excellent and easy to use.
+(b) I don't have to go through the trouble of opening up a file. I can simply drag the file or document into the program.
+(c) I can convert a batch of files into PDF instead of doing it one by one.
+
+The Annoying:
+(a) It does NOT come with any owners manual, not even on the installation disk!
+(b) The speed of file saving is slow. Also, the editing speed is slow. My PC has Intel iCore-7 with 12G memory.
+(c) Corel Fusion can only convert PDF documents into Word or SpreadSheet.
+(d) Don't try to fill in a PDF blank form with Fusion, as this is not a What-You-See-Is-What-You-Get program. Forms that appear fine on the screen will not print out correctly.
+(e) Corel Fusion uses heavy compression with no user control on the image quality. Be careful if you intend to include graphics or pictures in your PDF files.
+
+The Bads:
+(a) It does convert PDF file into Word document. But tables doesn't work and bullets has problems. All the text is there, but the formatting is gone.
+(b) It does not allow you to click on a text filed to edit it. To cut and paste text objects, you'd better do it in Word, not in Corel Fusion.
+(c) Corel Fusion provides comment boxes with large border for me to add comments, paragraph, or a signature. However, it's extremely difficult to neatly position the comment boxes in the document.
+
+All in all, at this bargain price, Corel PDF Fusion is a good choice for people want to combine pages into a PDF file, extract pages from PDF files, or rotate pages in a PDF file.
+
+However, if your need is to convert PDF files into editable files, you might need to find a better alternative.

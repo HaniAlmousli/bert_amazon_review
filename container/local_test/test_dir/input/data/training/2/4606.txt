@@ -1,0 +1,11 @@
+I decided to finally do a good job of backing up my home computers and bought a QNAP TS-110 NAS and installed a Hitachi 2 TB drive.  I already had an external SATA drive which I increased in size to 2 TB also.  I have the system working well and can share folders and have mapped network drives between the computers and the NAS.  So it is time to install Ghost 15.0.
+
+The installation works well but when I set up a backup I can't access the NAS shared folder for the back-up.  I keep getting a error: "Multiple connections to a server or shared resource by the same user, using more than one user name, are not allowed.".  It turns out that Ghost has to access the NAS using a user name that does not come from the PC being backed-up. I had to Un-Map all my network drives and reboot. I added a "Ghost" user name to the NAS (Nas-name) with its own password.  I made a new network drive Q: with the location \\Nas-name\username; Re-connect at log-on; CONNECT USING A DIFFERENT USER NAME The user name to make the connection was "Nas-name\Ghost" and the corresponding NAS password.  I then added the normal network drive connection Z: under the normal user name.
+
+OK, I have found out how to do this after many hours when they could have provided some warning and instructions in probably 2-4 sentences.  The backup completes without any errors.
+
+I now check that I can recover the drive using the Symantec Recovery Disk (SRB).  When the computer boots from the Ghost SRB it can't find the Windows network.  I worked hours searching the forums and trying differnt things.  The Norton technician also did a remote link for 1.5 hours and he still could not get it to function.
+
+So I have a backup that can't be reloaded on a clean hard drive.  So I have succeded in doing nothing after 20 hours of work.
+
+The program looks like it works well for a backup to an external SATA drive (why I gave it 2 stars instead of zero)but will not work to a NAS even though the documentation states that it can.

@@ -1,0 +1,13 @@
+I've been using Quicken for about 7 years. Until upgrading to the 2010 version I'd been running Quicken 2007. Upgrading from 07 to 10 was easy and only took a few minutes to convert my data file. All my memorized updates work, so from an ease of upgrade standpoint, they did a great job (at least under my particular circumstances).
+
+Stylistically they made a few changes to colors and fonts, which I personally think are an improvement, but that's preference more than anything. The nuts and bolts of the program have changed very little. They do let you modify your tabs which is something I've been looking for since 2002. You can now choose which tabs you want on your main start screen which is nice.
+
+The program is also more stable. My old 2007 version would semi-frequently lock up during bank-info downloads. This one hasn't locked up once, and is a lot more stable on my Vista 64-bit system. I hope it retains that stability when I upgrade to Windows 7 in a week. (I'll update my review once I am on W7).
+
+The bottom line is does this upgrade offer something substantial enough to warrant spending the money to buy it? I don't believe so. Aesthetic improvements aside, upgrading to a more stable version, while nice, would not be necessary if the program had been programmed correctly the first time around. I do like that it crashes less, but that's really an issue with the 2007 version being buggy and could have been fixed with a patch instead of a complete program replacement. I'm not a big fan of paying for new versions of programs that do basically the same things as the older version without any compelling improvements.
+
+That said, this program does what it's supposed to do, and does it pretty well overall. Do you need to upgrade? Probably not. You're not gaining any remarkable new features with this version, so if your older version is stable and does what you need it to do, save your cash.
+
+*****UPDATE 01-13-2010*****
+
+I've been using QB2010 on 64-bit Windows 7 for months without a hiccup. Intuit really improved their platform stability with this release. It's not crashed a single time vs. crashing regularly with QB2007. Also, they've released an service pack which adds support for some additional banks, as well as patching a few glitches (ones I never noticed or that didn't effect me). Overall this is a good QBs release.

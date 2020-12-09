@@ -1,0 +1,66 @@
+I've used H&R Block's tax software (formerly called TaxCut) every year since 1995. Several times when I saw a promotional deal I purchased both TaxCut and TurboTax to compare. I found that TurboTax did not do anything better than TaxCut while costing consistently more.
+
+ INSTALLATION
+~~~~~~~~~~~~~
+ If you encounter issues with display, such as not seeing selection boxes, check your screen resolution. Both Windows and Mac minimum requirement for the screen resolution is 1024 x 768 pixels or higher. At a lower resolution H&R Block software will have problem with display such as not properly displaying selection boxes. Screen resolution can be changed on your control panel by change PC's display settings.
+
+ If you are using a digital download you will need a key-code to install the software after you download it. The key-code can be located two ways.
+Option 1: After my download finished the install started automatically offering me a choice of two links "View Keys" and "Install". When I selected view key-code after a fairly long pause it displayed my key-code in a browser window.
+Option 2: You can locate it in your Amazon account:
+1) Log into Amazon
+2) Select Your Account at the top right of the page
+3) Select Games and Software downloads which is towards the bottom of the long page you see when you log in
+4) Then under H&R software entry you will see the key-code that you need to enter to unlock the software
+
+ Does H&R allow to install the software on two PCs?
+I found the answer on H&R Block web site FAQ under the topic "Installing Software on Another Computer"
+
+I quote the FAQ answer below:
+"There are just a few steps necessary to re-install the H&R Block At Home program from the CD you received in the mail. Follow the steps below to re-install the program or install it on a second computer.
+Insert the H&R Block At Home CD into your computer.
+Click the Need to Re-install? link on the menu bar at the bottom of the screen.
+The Frequently Asked Questions page will open to the first FAQ titled, "Can I install the software on a second computer?"
+Enter your activation code and last 4 digits of the credit card you used to purchase the program initially and click Activate.
+You can find your activation code in your purchase confirmation e-mail.
+Follow the on-screen instructions to complete the installation."
+
+ WHAT IS INCLUDED
+~~~~~~~~~~~~~
+
+I purchased a digital download version of H&R Block Deluxe plus State. The Federal portion of these two packages is identical, so I am cross posting my review of the Federal portion of the software for both packages .
+
+H&R Block Deluxe entitles you to 5 free federal e-files. You can print and mail as many returns as you want, there is no limit on printing.
+
+ GENERAL
+~~~~~~~~~~~~~
+
+I just finished my preliminary tax return and below are my observations. Note: the forms are not final until January 9, 2014.
+
+ H&R Block starts the interview process with an annoying up-sell pitch, recommending an upgrade from Deluxe to Premium even when it is not necessary. In my opinion, they should wait until the person enters this year's data and suggest the upgrade only if there is something about the return that can benefit from the Premium version. That would have been useful.
+
+What is the difference between Premium and Deluxe? The Premium version offers advanced tools for self-employed and rental property owners: cost basis of home sales, dividends, gifts, and inheritance assets. It has advanced schedule C guidance to maximize deductions for self-employment income. And finally it has guidance for rental property income and expenses. The rest of the Premium package is the same as Deluxe.
+
+Note that the Deluxe package has support for self-employed income as well as stock sale cost basis calculations. Last year I had to do both and I found the guidance in Deluxe package was sufficient to complete the forms.
+
+ Pet Peeve: Help is not context sensitive. For example, when you click on "learn more" about a particular topic the general help window opens but it does not show help topics for the specific topic that you were working on. Instead you need to search and know which key words to use locate the relevant topics.
+
+ H&R Block provides you some guidance for completing Form 1116 (foreign tax credit, for example foreign tax paid by mutual funds). However, you need to keep switching between whole-form view to enter data and then back to interview to read the instructions. Even though the form where you can enter data is visible at the same time as instructions you cannot enter data into it until you switch into whole-form view. This is cumbersome, but at least there is some guidance for this form.
+
+ DeductionPro (which helps you put value on your charitable donations) is integrated into H&R Block software running on your local PC. You no longer need to enter this information on H&R web site. I prefer having this information locally on my PC for better security. The change from web site to local PC was introduced last year and I was happy to see that this change is here to stay.
+
+ I don't use the default location for the tax returns due to how I set up my backup software. The H&R Block software does not initially remember this new location on the second start of the application, it told me I have no returns. I needed to pick the return manually from the File menu, as it did remember recently used files. The third time I started the software, it finally knew the location of the tax return file.
+
+ I use large font option on my monitor display and in the past years had display issues on some forms (text boxes were display overlapping each other on some forms). This year all forms displayed properly.
+
+ I usually purchase tax software as early as possible to help me with end year tax planning. However, if timing is not important to you be aware that the price on this package changes often and you can catch some great discounts. I use a nice tool that shows history of Amazon prices. If you enter "Amazon price history alert" in Google it will come up at the top, my favorite has the word camel in the name. You can set up the tool to send you an alert when you desired price drop is reached. During the last tax year season the price fluctuated between $20 and the list price of $44.99, and was on the gold deal special a couple of times.
+
+ At the end of the interview process there is a check step (which you can run at any time, but the interview ends with this check). This step flags problems (e.g. missing information) and potential audit alerts (e.g. unusual deductions) with red flags, and reminders (e.g. things you marked tentative) with yellow flags.
+
+ Does H&R has the ability to import TurboTax data from previous years?
+Yes. TurboTax files have a .tax extension. Use the Browse button within H&R Block application to navigate to the folder you need and it will import the data from TT return.
+
+ Update: Several people asked me via comments if Schedule C is included in Deluxe edition because it is not explicitly mentioned in the description.  Schedule C form is included and covered in the interview.
+
+I have been a H&R Block/TaxCut user for many years. I keep coming back because it works well for the tax forms I need to do and it is less expensive than TurboTax. If you have a question I have not covered leave a comment and I will do my best to answer it.
+
+Ali Julia review

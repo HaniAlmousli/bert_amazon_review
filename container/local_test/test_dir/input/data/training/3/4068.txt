@@ -1,0 +1,7 @@
+I'm a bit disappointed with Corel Digital Studio 2010.  It does allow the user to edit photos and videos and organize media.  The problem is that it does not excel at any of these tasks.  When there are viable free alternatives, the Corel Digital Studio seems somewhat irrelevant.
+
+I installed the program on a Windows 7 machine and it went smoothly.  The program installs a little Windows widget for easy access to your media.
+
+The image and video editors are basic, but work.  The main issue I have is that Picasa and Windows Movie Maker do the same thing, both of which are available for free.
+
+Overall, there is nothing inherently wrong with Corel Digital Studio 2010 other than the fact that there are free programs that are able to do the same thing as this software.

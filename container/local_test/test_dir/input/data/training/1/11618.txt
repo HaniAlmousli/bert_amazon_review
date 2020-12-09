@@ -1,0 +1,15 @@
+Oh, Boy, where to begin? So many problems. This is an unusable, bloated 4GB+ piece of shoftware.
+
+I'm using this program on a Windows 10 (64-bit) machine with Intel core i3 and 16 GB RAM. The program kept crashing. Each time I get the message: "Attention! The current project was saved automatically. However, internal memory structures may be damaged that do not enable correct saving. It is recommended that the movies are saved with new names for further editing. <Continue program> <Close program>."
+
+Although I'm given the options to "continue program" or "close program" the program doesn't respond to clicks on either option. Right-clicking the Windows taskbar to "Close window" doesn't do any good either. The only thing that works is the "End task" function in Task Manager.
+
+The user interface is unintuitive. Examples: (1) the drag-and-drop to add media is limited to a tiny column in the timeline interface. I found this out only by trial and error. (2) Drag-and-drop of effects (like transition) results in the effect being applied to the beginning of the clip, not where you drop the effect. (3) I haven't found a way to apply the effects to just a part of the clip and not the entire clip. I was sure there's a way, which was why I consulted the help function, which brings me to the next point.
+
+The antiquated Help user interface looks like something from Windows NT. That's not my real beef however. What I have a problem with is the help information doesn't direct you to the navigational breadcrumb you can follow to perform the function you're seeking help on. For example, a search on how to rotate a movie results in information on how to set the angle of rotation, how to set the rotational axis, etc. but nothing on how one might navigate one's way through the layers of navigational menus and buttons to access the rotate function.
+
+This next point I'm bringing up is a BIG problem. The thumbnails on the timeline is so small I can't make out what part of the video each thumbnail corresponds to. They might as well not be there at all. Inserting or overlaying an effect or sound at a precise location without the aid of [usable] thumbnails is a real pain!
+
+I want to be fair and provide a balanced view of this program. This program does some things well like sharpness, brightness, contrast, color, and other adjustments. If that's what you're using this program primarily for, it's fine. But for anything more sophisticated (like adding lots of effects to your movie), not so much.
+
+I've used Sony Movie Studio, Pinnacle Studio, Windows Movie Maker (free), and others. This has got to be the bottom of the barrel. It has stability issues (at least on my machine) and usability issues. I would not recommend this program. (Note, I'm not endorsing any of the aforementioned programs. Do your own research and pick the program best suits your needs.)

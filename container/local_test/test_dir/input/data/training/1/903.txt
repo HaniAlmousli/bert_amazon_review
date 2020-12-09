@@ -1,0 +1,9 @@
+I got Norton AV pre-installed into my Gateway 7422GX (6-month trial). It started being a real pain with those pop-up notices about "your antivirus subscription ends in x days, please upgrade", and the only options were to be reminded later, or "purchase subscription now". There was no "do not bug me again" or "do not remind me again".
+
+So obviously Symantec wants to annoy the consumer a lot in order to get their dollars. I also noticed that Norton AV was using a LOT of resources (both RAM and CPU), much more than other antivirus I have running in other windows systems (Kaspersky AV -commercial, and AVG - Free Ed.).
+
+So guess what I did?, I headed over to grisoft.com and downloaded the "Free edition" (free for home, non-commercial use) of AVG antivirus and I'm much more pleased with AVG now, it uses less resources and updates faster. AVG gets new virus definitions almost every day. The AVG resident shield also identified and cleaned two viruses (leaving the original .exe files fully functional, not just rendering them unusable and "quarantining" them like Norton AV often does).
+
+And you can't beat the price of AVG!. Short story: before spending your hard earned money on this bloated piece of AV software, try some of the alternatives out there from smaller software companies that produce more efficient code: AVG, Bitdefender, Avast!, Kaspersky, etc.
+
+I can really vouch for the free edition of AVG antivurs from Grisoft.com. Bitdefender is even leaner but the free version of Bitdefender doesn't have a resident scanner (you have to purchase the full version).

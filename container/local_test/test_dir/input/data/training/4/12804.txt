@@ -1,0 +1,5 @@
+A program that is fairly easy to use and provides some good results.
+
+I have not really experienced issues with the use of the program, but I think many of the issues others have encountered are related to computers that don't have good graphics cards and/or memory since video/photo programs are intense computer resource hogs.  With a good computer there doesn't seem to be any real issues.
+
+The effects and features have a bit of a learning curve, but I believe any savvy computer user can learn with some effort.

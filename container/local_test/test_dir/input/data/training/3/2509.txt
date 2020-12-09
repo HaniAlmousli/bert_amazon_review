@@ -1,0 +1,13 @@
+I've used two different handheld GPS units (TomTom and Garmin) and I've used two earlier versions of Microsoft Streets and Trips several years ago. I edit a consumer technology website so I feel very comfortable reviewing this product. Unfortunately, I can't give Microsoft Streets and Trips more than a lukewarm recommendation.
+
+Let's start with the installation of the the software. The installer program on the included DVD-ROM is easily confused by other startup applications ... so don't try to install this software until all of your Windows startup applications (antivirus, wireless assistants, etc.) have finished loading. Even a single background application can throw off the installation.
+
+Once installed, the trip planning software works fine, but you can do the same thing faster, easier, and for free using Google Maps or Yahoo Maps online. The overall Streets and Trips software interface isn't very intuitive so expect to stumble around trying to figure out how it works the first few times you try to use it.
+
+Once you're able to get the GPS receiver to lock onto satellites and provide directions, things don't get much better. The spoken turn-by-turn directions aren't always clear, and because of the weak GPS receiver (more on that later) you don't always get the verbal directions when you need them.
+
+The included GPS receiver/USB dongle is large but doesn't provide very good reception. I live in Cincinnati, Ohio (a reasonably large US city) and half the time I cannot get the GPS receiver to lock onto a satellite. My Garmin nuvi 360 handheld GPS gets better satellite reception, is easier to use, and the spoken directions are easier to understand. The only major advantage to The Microsoft Streets and Trips software/GPS receiver combo is that you can install it on a laptop so you don't have to carry a laptop and a GPS when traveling ... you can just use your laptop. Of course, that's assuming the GPS receiver actually gets a signal and can provide turn-by-turn directions.
+
+The software supposedly gets updates for traffic conditions, but it never seems to know when there's a major construction zone ahead ... even if it's a construction zone that has been there for several months. By comparison, my Garmin GPS almost always knows when I'm about to approach a construction zone and alerts me in advance.
+
+Bottom line, I really can't recommend Microsoft Streets and Trips 2009 with GPS to anyone unless you can't afford a stand-alone GPS device or smartphone with built-in GPS. Yes, I suppose it's nice to be able to navigate using just your laptop in the car, but the weak GPS receiver sort of kills that benefit.

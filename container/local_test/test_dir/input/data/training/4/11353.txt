@@ -1,0 +1,9 @@
+Very similar to version 13, so if you have version 13 Ultimate, this will not be a large learning curve for you at all.
+
+I like some of the new add-ins, like the ability to auto-adjust lens correction in my GoPro videos (so they don't look as fish-eyed as they are shot (GoPro 4 Silver, in my case) - this is done on a clip by clip basis, in the same way you would adjust color or other aspects of the video clips (you can turn this on or off, and there are profiles for the GoPro versions that you can download so that it works the way that it should for your camera's lens).  Other camera profiles are available too.
+
+I don't know what version this was added, maybe this version, but when you import a folder, if the folder contains pictures, and if some of the pictures are in a RAW format (think Canon CR2's - the program will now ask if you really want these converted as they are imported to JPGs so that the program can use them (it does not mess up the original RAW files when it does this).
+
+The wizard that I didn't use that much in the prior versions is still there, and works the same, but with more options, some pretty fancy.
+
+I have an i7 PC with 24gigs of RAM and a dedicated graphics card and I would say that the playback while editing is ok, not perfect, but better than prior versions; something they say gets better each version.  You need a good graphics card for that to be great, so don't expect wonders on a laptop with a builtin graphics adapter.

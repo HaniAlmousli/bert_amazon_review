@@ -1,0 +1,4 @@
+ Fuzzy Wuzzy's Summary:
+ Somewhat recommended, with reservations and only lukewarm fuzzies.
+
+You get a basic set of common photo editing functions packaged in an easy-to-use program, albeit one that runs slowly and carries a lot of overhead with it.  Installation of the software seemed to take forever (it felt like I was installing a whole suite of software!).  And perhaps because of all that overhead, the software as a whole runs pretty slow.  The user interface is slick and nicely designed.  The idea audience for this package is people new to graphics editing who take pictures with point-n-shoot cameras.  This product might even rank as 4 stars for those novices who are very new to photo editing.  But even for those people, I wonder how many of them would wish that they had more features after a few months of using this.

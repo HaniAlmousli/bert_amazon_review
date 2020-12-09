@@ -1,0 +1,7 @@
+I tried Windows Vista Home Premium SP1 to see if it was worth upgrading my home XP machine to Vista. I just can't find any compelling reason to upgrade to Vista. I have I gig of memory in my home machine and with XP it runs fine. With Vista I have to turn off the Aero graphics due to limited memory on my machine. Once the Aero graphics are turned off the system runs close to the speed of XP but you loose the major feature upgrade of Vista which is the improved graphics.
+
+I have a MCSE so I'm very familiar with Microsoft OS's but I just don't find Vista to be very intuitive. Seems to me that they put pretty front ends on the same interfaces that are running once you get through the new front ends on system preferences and configuration. I find it harder to move around Vista and find things, and I have given it a good chance to become familiar with but still find it non intuitive.
+
+I've had issues with the wireless on Vista. Easy to connect to my linksys but the connection keeps falling off and and then adds a new connection with a new name to the wireless list. I have had no issues with XP or my Mac 10.5 on my linksys router. Not sure why Vista is struggling but it has become a pain to deal with, especially when someone non technical is using the laptop and I'm not home and the connection drops.
+
+So, if you are an XP user I wouldn't waist the money on the upgrade. Stay with XP unless you are looking to purchase a new PC or laptop and then you will be stuck with Vista whether you like it or not.

@@ -1,0 +1,9 @@
+I was a Quicken 2010 user and it kept nagging me to upgrade.  So I did.
+
+On the plus side it didn't break anything for me.  All my budget stuff and my custom reports seem to work fine.  On the other hand it also did not fix some really truly annoying problems I have with the software.
+
+1) There are some banks that really don't work with Quicken.  I sincerely wish that Quicken would provide more details on how and why a bank's one-step update has failed.  Yes, I know that is a lot of work but that is why I'm paying for the software.  For example ING Direct simply will not work with Quicken.  They're a huge bank.  You'd think Quicken would have detailed updated instructions on their website.  You'd be wrong.  All they have is some outdated stuff from something called mint.com.
+
+2) I have a credit card and a checking account at the same bank.  When I make a payment in my checking account to my credit card quicken treats them as two separate transactions.  What?  Why?  Can't they make the software smart enough to at least ask me if two amounts of the exact same amount in a credit card account and a checking account are related.  That is like financial software 101 and Quicken fails it every time.  It really irritates me.
+
+I love the way Quicken handles investments.  And there is a lot of power in the budgeting tools as well as the flexibility in setting up customized reports.  I really like that.  But those two problems mentioned are enough for a minus 1 star each.

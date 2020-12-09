@@ -1,0 +1,32 @@
+If you are still using Office 2007 or older then this is a upgrade to consider but there are a few issues with this version of office. The installer seems to run in silent mode so you may find yourself trying to run the installer more than once.  Also, when applications start up they are SUPER SLOW.  Probably because they are connecting to the web.  Bit it can be annoying.
+
+There are a lot of usability tweaks that make this much easier.  A lot of the bigger software company's including Microsoft are moving to a Monthly/Yearly subscription licensing model.  So this may be the last version of Office you can buy outright.  Other than being able to edit PDF files, there aren't a lot of compelling reasons to upgrade from Office 2010. If you are considering buying this for your kids to use for school I think it's a decent investment because they will probably use this software once they get to College and the workforce.
+
+===========2013 Issues ===========
+
+===========2013 IMPROVEMENTS================
+
+* Toolbar Style improvements to make the menus less distracting and consume fewer computer resources
+* Saves to SkyDrive by default do your files are saved online (see tip to change below)
+* Touch-screen and tablet PC friendly
+* WORD 2013 -> "Read Mode" lets you read Word documents like a e-Book Reader (how come they didn't think of this sooner?)
+* WORD 2013 -> Save and Edit PDF files. "PDF reflow" can open and edit PDF files.
+* WORD 2013 -> Easier table editing
+* WORD 2013 -> Easier bibliography management (e.g. APA, MLA, etc)
+* EXCEL 2013 -> View two Excel spreadsheets "side by side" by snapping them to either side of the screen
+* EXCEL 2013 -> "Recommended Charts" tool makes selecting graphics for your data more intuitive
+* EXCEL 2013 -> "Quick Analysis" tool makes formatting your data simple with an intelligent preview
+* POWERPOINT 2013 -> Navigation grid in Presenter View makes navigating slides easier
+* POWERPOINT 2013 -> 16:9 Templates since Widescreen is now the norm
+* POWERPOINT 2013 -> Eye Dropper tool for color matching
+* POWERPOINT 2013 -> Embed online content
+* ONE NOTE 2013 -> Embed Excel Spreadsheets
+
+==========================================
+
+===============TIPS=======================
+TIPS
+Save to Documents by Default: Click on File and click on Options. Click on Save in the left-hand pane and then check the box that says "Save to Computer by default".
+Save Document to Dropbox or Google Drive: Click on File and click on "Add a Place". Choose your option and follow the wizard.
+Skip the "Start Screen" and just open a blank document instead: Click on File and click on Options. Remove the check next to "Show the Start screen when this application starts"
+==========================================

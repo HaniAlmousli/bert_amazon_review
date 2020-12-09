@@ -1,0 +1,39 @@
+<div id="video-block-R32K8LO2C2CRSU" class="a-section a-spacing-small a-spacing-top-mini video-block"></div><input type="hidden" name="" value="https://images-na.ssl-images-amazon.com/images/I/81RBr5E33TS.mp4" class="video-url"><input type="hidden" name="" value="https://images-na.ssl-images-amazon.com/images/I/41Ih%2Bk1WiNS.png" class="video-slate-img-url">I'm incredibly impressed with the accuracy and speed of Dragon Dictate 3, after testing on a 2009 Macbook Pro with dual cores  and 8 GB RAM and a 2008 Mac Pro with 8 cores and 12 GB RAM, both running 10.7.5 Lion.  As far as I could tell, at most one core is used by Dragon Dictate, though.
+
+The attached video shows the speed of recognition after voice training by reading the phrases in just the first and simplest voice training scheme.  I read some paragraphs from an advanced equine anatomy text and everything was typed perfectly.  I was truly amazed, not just in comparison with Apple and Google internet-based recognition (which do not involve training) - but in comparison to the last time I evaluated speech recognition using a trained product, several years ago.
+
+The pluses for me include:
+
+1.  A profile is created for each user-microphone combination.  This profile can then be voice-trained by reading scripts to improve accuracy.  Five script scenarios are included, and all five can be done if one wants to really tune things.  I found amazing results after doing just one script.
+
+2.  Individual words can be added and trained, so that names and technical terms will be recognized accurately.  This is easily done via the Vocabulary Editor.
+
+3.  I can speak really quickly and the result is still accurate
+
+4.  Dictation can be into pretty much any application.
+
+5.  Voice commands can be used to control apps, but I have little personal interest in that.  It would be extremely helpful for someone with limited eyesight, coordination, or other physical limitations.
+
+6.  A variety of microphones, including smartphones, can be used for dictation.  Sound files from phones and voice recorders can be transcribed.  A corded USB microphone is included in the box.
+
+7. Efficient voice selection and correction of text
+
+The negatives for me include:
+
+a.  Transcription of a sound file (from a voice recording) can only proceed if a profile (trained voice/microphone pair) is loaded.  Dictate will ONLY load a profile if the corresponding microphone is connected.  Tech support says this is as-designed.  But, it is incredibly stupid when the microphone is neither needed nor used during a transcription process.  The effect is that if you have a sound file containing someone else's voice, and they've trained a profile with a microphone that you do not have, you cannot transcribe the file.
+
+b.  Special vocabulary is saved per-profile, so you have to re-enter all special words (and then re-train) for each microphone that you might use.
+
+c.  The user interface seems really illogical.  I've attached an image to the product at the top of the page showing that there is a red 'Stop' octagon when the microphone is off.  Clicking it does not stop dictation ... it STARTS it.... turning the symbol to a green circle.  The green then means 'go' ... speak and Dragon Dictate will transcribe or respond to commands.  Clicking the green circle restores the red stop sign.  This seems backwards to me, but that's just me:  I would think that clicking the stop icon would STOP recording and clicking the green circle would START it.  If thinking of status lights, most recorders have a red light when they are recording / broadcasting and no light when inactive.  I can't get my head around what Nuance was thinking here.
+
+d.  A variety of actions in the tutorial would not function, particularly spelling mode.
+
+e.  It is challenging to type words that are also Dragon commands.  For example, whether I pause before and after "new line" or say it all together within a sentence, the words are never types ... instead a line break is always created.  I can fake it by pausing on either side of "new" and then either side of "line", but the instructions say that this is unnecessary.  Dracton Dictate has so many built-in commands, that you never know which ones will be obeyed versus typed, so you need to watch your output as you speak until getting used to it.  Personally, I'd like the ability to create a profile in which I disable all commands I never intend to use.
+
+Bottom line:
+
+Useful?  Depends on your typing skills vs verbal skills.  I can type extremely quickly and (usually) accurately and compose best while typing.  Others I know, while reasonable typists, think better when voicing their thoughts aloud, and one friend is particularly interested in Dragon Dictate to get some rough drafts onto paper because of her vocal process.  For those who are slow or poor typists, or who have some physical limitation, I think Dragon Dictate is an excellent value.  For those on Mountain Lion, which includes free internet-based dictation from Apple, the choice will be more personal.  The Apple dictation requires a live internet connection and is not voice-trained, and hence is less accurate; it also does not support voice correction or voice command.  There are audiences for the free Mountain Lion feature as well as for the more powerful Dragon product - I'd suggest first trying the free Mountain Lion feature and if it satisfies your needs, great; if not, take a look at Dragon Dictate 3.
+
+UPDATE 11/30/12:  I would take a star off this review based on the absolutely horrible Nuance customer support.  I've never encountered a more useless system - slow web response,  keeps invalidating my support account, preventing access followed by inability to re-activate the account with the logged cases...and staff which give stock responses that do not address the question asked.  Terrible customer experience leaving me feeling pretty negative about Nuance as a company.
+
+Latest tech support response (unbelievable to me):  Asking them why the built-in microphone on Apple's LED Cinema Displays is not recognized by Dragon Dictate, this is the response:  "Dragon Dictate requires a mic that has a type that is USB. Go to System Preferences > sound > input. What is the "Apple LED Cinema Display" connection "type?". If it is not USB, What type is it?"  In other words:  they did not even test Apple's hardware for a Mac product.

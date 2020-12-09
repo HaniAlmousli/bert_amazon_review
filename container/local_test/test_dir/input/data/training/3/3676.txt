@@ -1,0 +1,11 @@
+Trend Micro Antivirus + Antispyware 2009 is not a complete security suite for your computer. It is an antivirus with an antispyware component, but is lacking three important things.
+
+1. An email blocker to stop spam.
+2. A blocker to stop malicious downloads for websites.
+3. Alerts for unsafe websites.
+
+While not a resource hog, Trend Micro does slow down basic Internet surfing somewhat. I found it's updates took a bit longer to receive and install than AVG, Kapersky and Vipre too.
+
+After swearing off Norton and McAfee for their resource hogging properties as much as anything, and then off BitDefender for it's glitchy performance, I've tried many other antivirus programs. This one is mediocre and not feature-rich.
+
+My advice: shop around and compare features. Price differences are minimal, and some offer many more features for about the same price.

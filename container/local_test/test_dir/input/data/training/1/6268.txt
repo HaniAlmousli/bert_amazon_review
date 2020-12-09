@@ -1,0 +1,3 @@
+Fix-It utilities seems to do a fine, if temporary, job of speeding up network browsing time and PC performance issues.  But everytime you want to fix a problem, you are asked whether you want to register the software.  If you don't, the program closes.
+
+No program you pay for should force you to register in order to use it, especially when cnet.com puts it in the center of the pack, ranked below some shareware programs.

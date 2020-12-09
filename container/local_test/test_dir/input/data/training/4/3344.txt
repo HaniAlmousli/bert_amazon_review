@@ -1,0 +1,19 @@
+PhotoPlus X2 is a very good photo editor. It is operates in a similar manner to Photoshop in many aspects though it is not as powerful as CS3 or CS4.
+
+PhotoPlus X2 is similar in features and power to Paint Shop Pro Photo X2 Ultimate.  Both programs are more powerful than Photoshop Elements versions 6 or 7.  An additional bonus of PhotoPlus X2 not offered with Paint Shop Pro is compatibility with 3rd party Photoshop plugins.
+
+Pros:
+
+Basic editing such as color adjustment, sharpening, lens filters, cloning etc are easy to find and use.
+
+Photo resizing is excellent - the best that I have seen!  (I am referring to taking a small photo and doubling it in size.  Most programs leave the photo in a fuzzy condition.  PhotoPlus X2 somehow doubles the photos with less fuzziness.)
+
+The lens vignette function is really a nice feature to have.  If you use a polarized filter, often times the sky on one side of the photo will be much darker than the other side.  The lens vignette function largely eliminates this problem.
+
+Cons:
+
+The sharpen slider in the Quickfix studio works in chunks rather than in a linear fashion - 0,50 etc.  You must type in a sharpen amount in the box next to the slider and then sharpen in a linear fashion - 28,29,30,31 etc.  Serif verified this bug in Sept 08.
+
+The makeover studio requires several steps similar to Adobe Photoshop - creation of editing masks.  Paintshop Pro Photo X2 Ultimate thankfully does not require the creation of masks to do makeover tasks.
+
+All in all an excellent photo editor that will generally run quite nicely on older hardware - Pentium 4, 3ghz with 3gb of ram.

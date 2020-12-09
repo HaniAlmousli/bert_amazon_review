@@ -1,0 +1,7 @@
+Over several years, I have successfully and, for the most part, found this program easy to use and quick for the online filing of federal taxes.  This year, after having completed and submitted my 1040, I discovered I had left out some investment gains and needed to submit a correction and decided to use H&R's included 1040X procedure to submit this correction. This turned into a bit of a blessing.
+
+In entering the additional investment gains I had left out, I discovered that H&R had incorrectly calculated my investments gains by including gain information from a previous tax year. In addition, the programs instructions for filing a corrected1040X, are fuzzy at some points which led me into obviously erroneous tax refund issues. Email and phone contacts were courteous but not helpful.
+
+ As it turned out, when I agreed to allow the H&R to import my 2013 investment data into the program, the program failed to delete some of my 2012 investment data from the prior years tax return. Nothing like paying taxes twice on the same earnings!
+
+The imperative here: the H&R investment data importing feature for 2014 really needs your careful attention if you have or should you choose to use it.

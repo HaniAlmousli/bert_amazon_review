@@ -1,0 +1,136 @@
+#!/usr/bin/env python3.6
+
+
+from __future__ import print_function
+
+import os
+import json
+import pickle
+import sys
+import traceback
+import numpy as np 
+import tensorflow as tf
+import time
+# import logging
+
+from SentimentPredictor import SentimentPredictor
+from data_loader import get_tr_va_te
+import helper 
+
+# prefix = '/home/hani/Repos/bert_amazon_review/container/local_test/test_dir' 
+prefix = '/opt/ml/'
+
+input_path = os.path.join(prefix, 'input/data')
+output_path = os.path.join(prefix, 'output')
+model_path = os.path.join(prefix, 'model')
+param_path = os.path.join(prefix, 'input/config/hyperparameters.json')
+
+# This algorithm has a single channel of input data called 'training'. Since we run in
+# File mode, the input files are copied to the directory specified here.
+channel_name='training'
+training_path = os.path.join(input_path, channel_name)
+
+
+# The function to execute the training.
+def train():
+    print('Calling the training Process....')
+    try:
+        # Read in any hyperparameters that the user passed with the training job
+        with open(param_path, 'r') as tc:
+            trainingParams = json.load(tc)
+
+        print('Loading Data....')
+        # In this case, test_ds is empty. For real situation, it has to be populated
+        train_ds,val_ds,test_ds = get_tr_va_te(input_path,int(trainingParams.get("batch_size",32)))
+        print('Preparing cost function and model....')
+        loss_function = helper._loss_function
+
+        train_acc,train_loss,valid_acc,valid_loss = helper._get_metrics()
+
+        steps_per_epoch = tf.data.experimental.cardinality(train_ds).numpy()
+        optimizer = helper.get_optimizer(int(trainingParams.get('epochs',5)),
+                                steps_per_epoch,
+                                float(trainingParams.get('initial_lr',1e-3)))
+
+        classifier = SentimentPredictor(float(trainingParams.get('drop_out_rate',0.1)),
+                                        int(trainingParams.get('n_classes',5)),
+                                        trainingParams.get('tfhub_handle_preprocess',"https://tfhub.dev/tensorflow/bert_en_uncased_preprocess/1"),
+                                        trainingParams.get('tfhub_handle_encoder',"https://tfhub.dev/tensorflow/small_bert/bert_en_uncased_L-4_H-512_A-8/1"))
+        print('Preparing Checkpoints....')
+        checkpoint_path = os.path.join(model_path,"checkpoints/train")
+        ckpt = tf.train.Checkpoint(classifier=classifier,
+                                optimizer=optimizer)
+        ckpt_manager = tf.train.CheckpointManager(ckpt, checkpoint_path, max_to_keep=2)
+
+        
+        # used to build a specific graph pattern
+        train_step_signature = [
+            tf.TensorSpec(shape=(None, ), dtype=tf.string),
+            tf.TensorSpec(shape=(None, ), dtype=tf.int32),
+        ]
+        @tf.function(input_signature=train_step_signature)
+        def train_step(inp, tar):
+            
+            with tf.GradientTape() as tape:
+                predictions = classifier(inp)
+                loss = loss_function(tar, predictions)
+                
+            gradients = tape.gradient(loss, classifier.trainable_variables)    
+            optimizer.apply_gradients(zip(gradients, classifier.trainable_variables))
+            
+            train_loss(loss)
+            train_acc(tar, predictions)
+            
+        @tf.function(input_signature=train_step_signature)
+        def valid_step(inp, tar):
+            predictions = classifier(inp)    
+            valid_loss(loss_function(tar, predictions))
+            valid_acc(tar, predictions)
+
+        print('Starting model training....')
+        best_val_loss=np.inf
+
+        for epoch in range(int(trainingParams.get('epochs',5))):
+            start = time.time()
+            helper._reset_stats([train_acc,train_loss,valid_acc,valid_loss])
+            for (batch, (inp, tar)) in enumerate(train_ds):
+                train_step(inp, tar)
+                if (batch+1) %100==0:
+                    print('{}/{}'.format(batch+1,steps_per_epoch), end="\r")
+            
+            print ('Epoch {} Loss {:.4f} Accuracy {:.4f}'.format(
+                epoch + 1, train_loss.result(), train_acc.result()))
+       
+            if (epoch + 1) % int(trainingParams.get("validate_per_epochs",1)) == 0:
+                print("Validating model...")
+                for (batch, (inp, tar)) in enumerate(val_ds):
+                    valid_step(inp, tar)
+                
+                print ('Epoch {} ValLoss {:.4f} ValAccuracy {:.4f}'.format(
+                epoch + 1,valid_loss.result() , valid_acc.result()))
+                
+                if valid_loss.result()<best_val_loss:
+                    #Saving the model since it has better validation loss
+                    #note: This is just an example but needs more work in order not to get different results when batch changes
+                    best_val_loss = valid_loss.result()
+                    ckpt_save_path = ckpt_manager.save()
+                    print ('Saving checkpoint for epoch {} at {}'.format(epoch+1,
+                                                                    ckpt_save_path))
+            print ('Time taken for 1 epoch: {} secs\n'.format(time.time() - start))
+
+        print('Training completed .....')
+    except Exception as e:
+        # Write out an error file. This will be returned as the failureReason in the
+        # DescribeTrainingJob result.
+        trc = traceback.format_exc()
+        with open(os.path.join(output_path, 'failure'), 'wb') as s:
+            s.write('Exception during training: ' + str(e) + '\n' + trc)
+        # Printing this causes the exception to be in the training job logs, as well.
+        print('Exception during training: ' + str(e) + '\n' + trc, file=sys.stderr)
+        # A non-zero exit code causes the training job to be marked as Failed.
+        sys.exit(255)
+
+if __name__ == '__main__':
+    train()
+    # A zero exit code causes the job to be marked a Succeeded.
+    sys.exit(0)

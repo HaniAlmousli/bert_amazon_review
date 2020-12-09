@@ -1,0 +1,33 @@
+I've been a TT Business user for many years and at this point, I am COMPLETELY FED UP WITH TURBO TAX BUSINESS - from a PRICING, FUNCTIONALITY AND UNRELIABILITY standpoint.  I just finished two 1041 Trust returns and had to report two major bugs to the Turbo Tax forum.  These were bugs in the GUI design or in the underlying code that drives calculations and fills in worksheets, or prevents you from doing so, in some cases.  I can back this up with comments from the TT forum acknowledging that I, as a former software tester, did find bugs.
+
+Worse, Intuit just rolled out a software update to fix some of their bugs last week.  This is either good or bad depending on your point of view - and more importantly whether you already filed your return derived with the code that still had bugs in it!
+
+Intuit/Turbo Tax got a lot of heat from their customer base with their sneaky repackaging and repricing schemes, and deservedly so.  I had already purchased my copy of TT Business and TT Premier, and am Mad as HELL that I have to buy two of the most expensive packages they sell, just because I own a small business and have to file a 1041 for my trust and an 1120s for my business.
+
+I would rather just buy TT Ultimate in one package that has everything in it, and pay a $199 price and be done with it!  Instead, you start out each year playing the "pick your package" game with the TT software, which is getting OLD!
+
+Even that would not be intolerable IF THE SOFTWARE WAS NOT RELEASED TO THE PUBLIC WITH GLARING BUGS AND GUI problems.  Here are just a few that I encountered that YOU need to be aware of if you are buying TT Business, especially if you need to do a 1041 for an estate or trust:
+
+1.  MOST IMPORTANT:  TurboTax Business WILL NOT IMPORT YOUR Consolidated 1099 from ETrade, Ameritrade, Fidelity, Scottrade or ANYOTHER BROKERAGE Partner.  It is not possible to import a 1099 into TT Business.  NO SUCH FEATURE EXISTS.  I even had Ameritrade staff tell me it did, only to find out it did not on the TT forum website.  What this means is that, if you buy and sell a lot of stocks or bonds, you will have to enter EVERY DETAIL OF EVERY SINGLE TRANSACTION, one-at-a-time, including Purchase date, purchase price, Sale date, sale price, and description.  LOADS of fun.  Mine took about 4 hours!
+
+Now, to be clear, if you buy Turbo Tax Deluxe, you can import your 1099 form for your brokerage.  But for $129 for Business, YOU LOSE THAT FUNCTIONALITY???  DOES THIS MAKE SENSE TO ANYONE?
+
+You cant imagine the tedium of having to cross-reference an incomplete 1099 with a Gainskeeper Report to get all the data entered into Turbotax.  Then, there is the proof-reading of the manual entry of all that data.  Figure 6-8 hours total... LOST.  Thanks TurboTax.
+
+2. There were bugs that cropped up during the completion of both 1041s we had to do.  A software update from a few days ago fixed part of the problem, but another part remains.  In short, DONT EVEN THINK ABOUT trying to do miscellaneous itemized deductions, as the code for the Miscellaneous Itemized Deductions Worksheet is mangled and it creates an error during final Error Check if you have any entry of any kind in this category.  Either put the deduction somewhere else, forgo it altogether, or buy another software program.
+
+3.  If you are doing a 1041 and there are any foreign stocks in your account, such as BP or Vodaphone or any Canadian companies, then please be aware taht Form 1116 for Foreign Tax Credits is screwed up, too.  There is a workaround, but when you go through it the first time, don't expect it to work as it should.
+
+4.  In prior versions of TT Business, you could shift into Forms mode and click on specific cells in the forms where calculated values appear, and then right-click and look up the Data Source for the value found in that cell.  This was a helpful feature in tracking down the ever-present bugs in TurboTax software so that you could find a way to complete your return in a timely fashion.
+
+Well, not any more and not very much.  The developers at Intuit are either too busy, too lazy or just don't care, and they left out the data source info on almost every single calculated cell on almost every worksheet, at least as far as 1041 trust returns and related forms are concerned.  To be accurate, there were a few rare instances where the data source was filled in, but in most cases, either NOTHING appears (as if the option were greyed out), or what does appear in a pop-up is useless and meaningless.
+
+5.  Last but not least, the constant issue of poorly designed GUI text and explanations.  Brevity may work in text messages, but if falls short in a tax return environment.
+
+The ONLY GOOD THING ABOUT TURBO TAX BUSINESS IS THIS:  I get to spend a lot of extra time each year on the learning curve of the latest IRS tax forms and instructions, as I spend more time on their site trying to figure out WHY Turbo Tax's latest software is generating an error or not working properly, than I do entering data into the software.
+
+THIS SOFTWARE IS PRICEY AND IS SUPPOSED TO WORK SEAMLESSLY SO THAT AN INTELLIGENT PERSON CAN ENTER THEIR DATA AND GENERATE AN ACCURATE TAX RETURN.  INSTEAD, WITH THIS YEARS SOFTWARE, YOU CAN COUNT ON SPENDING DOZENS OF EXTRA HOURS TRYING TO FIGURE OUT WHY ITS NOT WORKING.
+
+Worst of all, I shopped around and bough this software at a discount price of $129 and now it has gone down in price.  As for me, I WOULD LIKE A REFUND.  I am completely fed up with the poor quality of TT software.
+
+In fact, if it weren't for the kind assistance of some good hearted folks on the TT User forum, who are probably working for free, I would not have been able to complete my returns or have any faith in their accuracy.

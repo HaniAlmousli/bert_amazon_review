@@ -1,0 +1,15 @@
+I'll be honest: I don't play a lot of BDs on my PC because I have a decent BD player, and my desktop isn't the place where I usually end up watching movies. That said, I have to express my belief that CyberLink has somewhat improved their PowerDVD Ultra suite since previous versions, and if you're in need of a good media software suite, CyberLink's is something to consider.
+
+Not only does it handle the disc-based media, but it also scans for local media on your hard drives, and plays back just about everything. I was a tad disappointed with their movie title and information detection-- The CyberLink version just isn't as good at it as those devices and apps that search the IMDB or TMDB, frequently getting titles, descriptions, and box art wrong. This is because they use their own service instead of relying on the established ones on the Internet, and it translates to being a weakness in their software. I had to fix a lot of movies' info after the software did its initial scans.
+
+The 3D conversion seems spiffy, but if I'm honest I'm not a fan of 3D movies, and so all I can really say is that it did seem to work to some degree, but that your mileage may vary. Some movies work better than others.
+
+CyberLink is fairly generous with cloud offerings, and they play nice with DLNA. No complaints here.
+
+However, the software did run a little slow at times, and I'm sure these times were when PowerDVD was connecting online... It seems like many actions in PowerDVD require it to check something online, and that bogs it down a bit.
+
+Playback is clean, crisp, and as you'd expect of commercial media software. However, as noted it starts up a bit slow, and I really didn't see any major advantages over freeware like VideoLan when it comes to local media in various formats.
+
+CyberLink PowerDVD's best feature is its ability to play Blu-ray Discs on your Windows PC, because Microsoft doesn't include that ability in the Windows OS (licensing, etc. prevents it). If you're a laptop warrior and need to play BDs while traveling, CyberLink PowerDVD is probably your best option. It handles menus, sub-menus, added features, BD Live, and all the other functions you've come to expect of the BD format.
+
+So my final rating; Three stars for a desktop PC where BD playback is secondary to your needs, but that bumps up to four stars if you're in need of decent BD playing suite for your laptop.  The two stars I docked were for the poor data matching for movies, and for the slower loading speeds.

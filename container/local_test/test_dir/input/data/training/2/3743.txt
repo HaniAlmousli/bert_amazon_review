@@ -1,0 +1,49 @@
+[These comments are based on my continuing nightmare of lousy experiences with Quicken Deluxe 2008. This software, which has been getting continually worse since 2002, couldn't have possibly improved since then ... ]
+
+For me Quicken 2008 was a forced/hostage upgrade from Quicken 2005. You "have" to upgrade since they've cut a deal with the financial institutions to cut off your online access with the institutions if you don't upgrade every three years. Just as found when I was hostage upgraded in 2005 from 2002, there's nothing more than a cosmetic face-lift, no meaningful fixes/improvements -- but there's even more bugs, problems and aggravation.
+
+* Product now will not connect properly to Fidelity; no problem under 2005.
+
+* Took forever to figure out how to turn off a "reminder" function ... that kept reminding me to pay bills already scheduled to be paid using the auto-pay function. 2005 did the same thing and it's not been fixed.
+
+*You can turn off the product registration nag screen ... if you Google to find out how. Product does not have to be registered to use it.
+
+* Un-reconciles accounts six months back every once in a while. I've been assuming that's being caused by a few bytes of bad data that occasionally comes from the financial institutions ... that the Quicken people have not properly coded so as to filter out. This bug also surfaced in 2005. Two weeks into 2008, I've seen it again already.
+
+* You can't turn off the "free update/revision" nag screen unless you take the update. No such nag screen in 2005.
+
+* When connecting, the completion screen used to show which accounts had new transactions to match and had convenient buttons next to each to take you directly to the account. Gone in 2008. Now I have to look through every account each time to see where transactions might have been retrieved.
+
+* Icons everywhere attempting to peddle other unwanted Quicken products. One of the 'product improvements' in 2008.
+
+* Doesn't handle stock distributions correctly (since they were not actually paid for); keeps generating error messages when you enter the correct posting of no cost incurred. Same problem in 2005.
+
+* Tricky screens/checkboxes/prompts that try to bait you into using/enrolling for QuickenDot services when you don't have to or need to. Users that did so now post complaints they can't undo it and that the QuickenDot server is constantly down, causing problems/delays when trying to connect to other accounts using a one-step update.
+
+Yet another company that's grown totally complacent about product quality while wallowing in its assured-for-the-moment revenue stream. It will bite them hard in the long-run. Postings indicate similar complaining regarding the major competitor product, Microsoft Money. If history is any lesson, there's no reason to suspect that these software products will ever get better under these conditions. Some other product will have to steal their customer base before they wake up and smell the coffee.
+
+If you are not already committed to either of those two products, take a good long look at open source software such as GNU Cash.
+
+[Update: April 15, 2008] Does now connect to Fidelity ... occasionally. When I opened the portfolio area today, the entire computer screen flashed with confusion and the product crashed. 2005 never once crashed. Still flashing but no subsequent crashes. Who knows what happened. Not me. Apparently not Quicken programmers either.
+
+[Update: July 12, 2008] Connects to Fidelity now more or less on regular basis. Software still flashes/flickers routinely. Also slow to load, apparently trying to read every single record into RAM, regardless of age. Pop-up screen this morning stating "We've noticed you are not downloading your current Quicken Visa/MasterCard transactions, click here to ..." I don't have one. Obviously a deceptive come-on intended to trick users into the application process for a Quicken credit card. Nice. Still constantly beg-screens me to take the latest software update.
+
+[Update: October 18, 2008] Just downloaded this week's financial transactions and Quicken wiped out four months of reconciliation on one of my credit cards ... again.
+
+[Update: January 10, 2009] Tried to change the amount of an annual repeating payment. Refused to accept the change with the error message "You must make this change and sign on no later than six days before scheduled payment." Payment was set for April 4, 2009, almost three months in the future. I had to delete the payment, log on to make the deletion take effect, then enter the payment all over again for the new amount, then log on again to make that payment take effect. And when I tried to log on I rec'd an error message stating an Internet connection was not detected (a message I get rather often despite my always-on broadband). Luckily I can choose the "Ignore" button and it will go ahead and connect. Quicken programming staff = worthless carpetbaggers.
+
+[Update: March 5, 2009] Wanted to stop an ongoing monthly repeating payment where the next scheduled payment was already in place in my register for March 27. I edited in a change for "how many times" from "unlimited" to "1." In other words, I wanted to pay on March 27 for the last time. When I logged on to the bank the first time, Quicken canceled the March 27 payment.  Now doesn't that take the cake--Quicken accounting/finance software programmers are unable to count up to one. And, as all too often anymore, the screen went wacko while I was logging onto the bank.
+
+[Update: March 8, 2009] Quicken just UNreconciled one of my credit cards (again) back to the October, 2008 close. Luckily, its a card I don't use much. I suppose this has something to do with Quicken software coders not understanding the start of Daylight Savings Time.
+
+[Update: March 27, 2009] The repeating payment change I referred to at March 5, 2009? The saga continues. When I tried to enter the NEW repeating payment, it wouldn't take. I entered it, connected to the bank and nothing happened. The payment did not show in the list of repeating payments or in the register. I tried deleting the payee entirely to start over, but Quicken wouldn't/won't let me delete that payee at all. It claims it cannot be deleted because there is a repeating payment in effect ... that would be the payment that is ALREADY canceled. Which means I can't cancel it so I can't delete the payee. To set up the new payment I ended up having to create an entire new payee to make the new payment 'take.' I had to put a dash in the middle of the account number to create the new payee since Quicken won't allow two repeating payments with the exact same account number. And I am still stuck with the old payee on file which I cannot delete at all. I had to call the bank twice just to make sure the durn payment is actually going to be made on time ... and made only once ... and for the correct amount. You would think there would be a way to force deletion of a payee. Then again YOU are thinking, Quicken programmers on the other hand are off somewhere slurping down a latte.
+
+[Update: April 2, 2009] Have an established monthly recurring payment of $[...] and would like to change it to $[...]. Enter the Online Center, click on Repeating. There it is. Click on it then select Edit. Change the amount from $[...] to $[...]. Save the change. Seems simple enough. Log on to the bank. Result: (1) Quicken cancels the next pending payment, on April 19, of $[...]. So far so good. (2) Quicken enters a pending payment into the checkbook register for $[...] dated May 19. Huh? What happened to my April payment? God only knows what will happen if I tinker with this recurring payment any further. I will write a paper check for one month ... and hope for the best. A[...]
+
+[Update: July 14, 2009] Quicken is popping up a screen telling me I am overdue on a July 10 payment to a vendor for $[...]. The register shows the payment was made and cleared on July 10. And it's reminding me to schedule another future payment ... that's already scheduled. It's the same durn thing I was talking about in bullet # 2 at the top of the review, apparently it's a zombie bug that has now risen from the dead. Still begs me to take the Quicken software update constantly.
+
+[Update: September 15, 2009] Quicken has suddenly started reminding me ... once again ... that certain bills are overdue, even though they've already been paid using the automatic monthly payment function. It asks me if I want to delete, pay or skip. I can only guess what havoc might occur if I delete or skip ... so I just keep waiting for the nag screen to eventually go away.
+
+When Quicken goes under, I'm going to wear a pink tuxedo to the funeral.
+
+NOTE: I have posted a copy of this review under "Quicken 2010 Deluxe" and I will add any further comments and updates to that post.]

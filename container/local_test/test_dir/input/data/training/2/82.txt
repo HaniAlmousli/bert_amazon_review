@@ -1,0 +1,17 @@
+This Windows "program" is a hodge-podge amalgamation of a variety of eBooks, PDFs, and help guides without integration and coordination.  Confusion was the only consistent theme in this application.  Put out by Quicken, the documents are actually created by Nolo, which is a trusted source of legal information.  I'd suggest buying their books instead.
+
+The program includes sections on: Buying or Selling a Business; Contracts for Goods and Services; Corporate Minutes and Consents; Forming a Business; Hiring Workers; Leasing Space; LLC Minutes and Consents; Managing Finances; Buying and Selling Real Estate; and Tax Forms.
+
+In these sections, instead of giving you a handy Microsoft Word Document that you can fill in obvious blanks on, the program makes you go through a step by step interview and often doesn't remember the information you enter from one form to another so you must enter your name, the name of the business and so forth all over again.  Nor does it integrate with any contact managers so you can easily fill in from there.  When your interview is complete, the document saves only in text or RTF format, which are highly compatible with most programs but at this point, .doc is pretty standard.
+
+Many of the items in these sections are simply Adobe Acrobat forms without the ability to edit or annotate them unless you have something besides Acrobat reader.
+
+Included in the program are "checklists"  that are very short guides on very weighty subjects such as "How to Form an LLC" and "How to Set Up Tax Reporting and Accounting".  All these checklists do though is point you to other Nolo books or websites and are unable to offer any advice in and of themselves.  In other words, pretty much worthless.
+
+Most frustrating to me was the business library which were simple PDFs (or Windows antiquated "Book Reader" format of:  Starting & Running a Small Business; Tax Savvy for Small Business; The Manager's Legal Handbook; How to Write a Business Plan; and Business Loans From Family and Friends.  Unfortunately, these books were previous versions and the newest versions of these books (despite the 2011 in the title of the program) are available elsewhere.
+
+Additionally, also included with the program is a printed book called "Your Little Legal Companion" that has absolutely nothing to do with business and contains basic personal legal information that borders on the silly such as "Moving in with your Lover" and "Getting Old." These tidbits of advice had little substantive or legal value and were more like a sidebar from a Sunday newspaper magazine than anything that could be used for real reference or planning.
+
+Upon registering the book, Nolo will send you a PDF of their book "101 Law Forms for Personal Use".  Again, this is just a PDF and not any templates that can actually be used within a program.
+
+Combined together the program is a good value for all that you are getting.  However if you don't really need all that or want the current versions, I recommend purchasing this collection of eBooks and PDFs individually.

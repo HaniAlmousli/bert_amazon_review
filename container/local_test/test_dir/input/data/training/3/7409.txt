@@ -1,0 +1,37 @@
+I'm having a hard time finding a good fit for Cyberlink's PowerDVD 13 Ultra software in my home. I ordered this software to specifically use in my home theater setup that includes a 65" Panasonic Plasma, Denon AV receiver, a WDTV Live Hub, PS3, and a networked PC running a raid array containing my DVD/video library, music, pictures and the like. This is my first interaction with PowerDVD since the early 2000's when it came pre-loaded on my Compaq desktop. Clearly Cyberlink's intention is to make PowerDVD the centerpiece of your home theater experience. This software is complete overkill if you're just looking to playback Blu-ray's, DVD's and do some streaming on a laptop and is really geared toward the serious home theater owner.
+
+--------------------
+SETUP:
+
+Installing the software on my Windows 7 desktop is about as easy as it gets and is standard fare. Pop in the disc, follow the on-screen guide and finally use the included product code to register the software with Cyberlink. To their credit Cyberlink actually included a full manual in the box with their software which is something that is becoming increasingly rare with software. This makes looking up features, answering the, "what does this button do?" questions very easy. After setup and launching the software it performed a quick scan of my hard drives and indexed my media files as well as presenting a number of video tutorials about the software.
+
+--------------------
+FEATURES:
+
+Oh boy, there's a lot to cover here!
+
+First, I suppose is the myriad of supported movie formats including: BD-R (various specs), BDROM Profile 2.0 (BD-Live), BDROM Profile 5.0 (BD-3D), AVCREC, AVCHD, DVD-Video, DVD-VR, DVD+VR, VCPS, VCD, SVCD, CD. There are even more supported video formats (I'll list some of the more popular one's only): AVC, AVI, DIVX, H264, MKV, MOV, MP4, MP4V, MPE, MPEG, MPG, TIVO, WM, WMV. Music formats include: AAC, AC3, ADTS, APE, AOB, DTS, FLAC, M4A, MID, MKA, MP2, MP3, MPA, OGG, RMI, WAV, WMA
+
+For a full listing of supported formats (movies, video, music & pictures): [...]
+
+TrueTheater HD:
+Cyberlink touts this as their DVD upscaling and Blu-ray enhancing software. I've used various upscaling DVD players over the years and the effect here is similar. Don't expect Blu-ray quality out of TrueTheater and honestly I'm okay with regular DVD 480p quality for my older movies.
+
+TrueTheater:
+PowerDVD features a variety of other enhancement features like TrueTheater Motion that tries to smooth video by enhancing the frame rate. TrueTheater Stretch that stretches a 4:3 frame to 16:9. TrueTheater Denoise & Stabilizer that are geared toward home movie takers. In short a lot of features that you may never use unless you are really, really into tinkering with video quality and getting the absolute most out of your videos and movies.
+
+For my uses I focused more on the ability to playback Blu-ray discs, video files on an internal raid and external NAS. With these functions PowerDVD performs fantastically.
+
+--------------------
+POTENTIAL BLOAT:
+
+There is a lot to this software. So much "extra" stuff that I'm tempted to call it bloat. YouTube, Flickr and the now standard Facebook plug-in are alive and present here. I have no interest in connecting to Facebook on my home theater as I already have a myriad of devices that do the job better. The YouTube integration is admirable but still works better from a browser. Flickr is the interesting feature in the chance that you store a lot of photos on that site and like to view them on your PC/home theater.
+
+I also did not utilize the 3D or the 3D conversion of 2D content features as it's not something that's appealing to me. Similarly I did not try out the 4K features as I don't have compatible content.
+
+Cyberlink also offers apps for Android & iTunes compatible devices that allow you to stream content and have basic remote control functions. Again a feature that I didn't use because of redundancy with apps/programs that are already in place in my home.
+
+--------------------
+Closing:
+
+PowerDVD is really geared toward someone looking for an all-in-one solution and doesn't want to bounce around from different media players for different content. For folks who already have established processes and software that you use and are familiar with PowerDVD will offer less value and thus be a harder buy at its premium price.

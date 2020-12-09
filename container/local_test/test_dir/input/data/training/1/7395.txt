@@ -1,0 +1,36 @@
+I should have known there was going to be problems with this program because I build many computers a month. Many months ago when I did my first install, I could not activate the software after I entered my product key, because there was no activate button. I had to call customer support to find out how to activate the software. I had to hit the ALT key + N, then I could not close the activation screen. I had to call them back,only to find out that I had to hit the ALT + F4 key to close the activation screen. This is not a major problem then, but is now, because about 6 months has passed, and it is still not fixed!  I know this, because I recently downloaded the latest Version of Pure, and the same problem still exists.  Thereafter my installations on my laptop and desktop and many new builds, I noticed my WIFI on my laptop had an exclamation point and limited connection (NO CONNECTION AT ALL). This has gone on for months, and I went through 2 Uverse modems, and several calls to HP, and a new Ralink WIFI card, to no avail. I finally got lucky in a Google search late one night where the guy had the same problem until he disabled the Kaspersky NDIS 6 filter in WIFI Properties. Kaspersky sent me new settings which they said would fix the problem, and of course it DID NOT! They then sent me report maker to send in a report about my system and their Virus program, which I did. Then I get this email from them wanting to close the ticket without a fix, because they had not heard from me. It was Kaspersky Support - Follow-up: 315405243. Well that is not the end of it.  My desktop is hard wired to the network. I brought it out of the sleep mode only to find that wonderful yellow exclamation point on my hard wired connection. Of course, I knew immediately that it was the Kaspersky NDIS 6 filter, which I immediately disabled, and that ended the dropout problems on both computers. I have been installing this program on many of my new builds, and now I have to go back and correct this problem on all of them, because Kaspersky can't seem to find a fix to either of the above problems, and I do not know what exactly it is that this filter does. Because of their poor customer service, and their total lack of interest, I do not recommend this program to any user running both Windows 8 or 7. Kaspersky, you have lost a long term customer. I have switched to Vipre Internet Security 2014, totally because of your lack of interest, poor support and no fixes for long term problems.
+
+This is a copy of my answer to their last email to me.
+
+Subject: Re: Kaspersky Support - Follow-up: 315405243
+From: Dale xxxxxx (xxxxxxxxxxxxxxx)
+To: customerservicesolution@kaspersky.com;
+Date: Sunday, November 10, 2013 8:57 PM
+It really does not matter to me now if you fix the WIFI dropout problem
+with your NDIS 6 Filter, and having to hit ALT +N to activate the Pure
+software, and because of your lack of interest in repairing these issues, I
+have uninstalled the software and switched to VIPRE. So as far as I am
+concerned, you can close the ticket, and you have lost a customer for
+good. You know, these issues have gone on for months with no
+resolution, and I build 20 to 25 extreme machines per month. Since you
+obviously have no interest in repairing you software, I will make sure
+this issue gets around the industry.
+Dale xxxxxxxx
+(xxx) xxxxxxxxxxxx
+From: Kaspersky Lab Support <customerservicesolution@kaspersky.com>
+To: dalexxxxxxxxxxx
+Sent: Wednesday, November 6, 2013 3:21 PM
+Subject: Kaspersky Support - Follow-up: 315405243
+Hello Dale,
+We have not heard back from you regarding your request.
+If you have any further questions or concerns, please update us by replying to this email or
+through the My Kaspersky Account website.
+If your issue has been resolved, please take our brief survey. We will automatically close
+your request in a few days.
+[...]
+0C?INC=315405243
+This is an automated notification.
+Best regards,
+Print [...]
+
+Dale in Texas

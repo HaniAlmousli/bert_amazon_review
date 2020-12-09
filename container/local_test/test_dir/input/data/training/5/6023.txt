@@ -1,0 +1,27 @@
+I upgraded from Corel Visual Sudio X3 to see how they had improved the program. I find this to be a worthy upgrade, well worth the money. The program makes it simple to create very nice looking video projects. It may take a bit of time for a new user to master the controls, but for anyone already used to the Corel studio programs, the transition will be effortless.
+
+It would be impossible to teach someone how to use the program in an Amazon review, so here are the basics of how it works. The Studio allows one to import files from a camera (or open them from a disk file, which is my preferred method). Then you drag the video clips from the "library" (a space on the screen where the files are listed) to a "timeline", which is an area that will allow the user to view each individual frame of the film. Dragging another clip puts it after the first (or before or wherever desired), thus creating the film. Below the film one can drag in clips (for a picture in picture effect), Titles, voice overs, and music clips. With time and patience (learning the software), even a novice can produce good video clips. The software comes with a lot of sample clips, as well as video effects, sounds, and title effects. After the project looks good inside the program, there are various ways to "share" the video - create a disk, upload to web, export to a mobile device, etc. I have only used the disk create option, to put out videos of my family vacations and school plays.
+
+The help documentation is on line, and works nicely. I found it to be descriptive and useful.
+
+The "Burn Disc" options has been updated. I had a bit of trouble figuring out how to get the menus right, but it actually is far more powerful than before, if a bit harder to use.
+
+New Features:
+
+- Unlike X3, which had fixed areas of the screen, this version allows one to change the size and location of each of the various panels (like the timeline or preview area), to allow for use over a larger area. This is great for dual screens, like I have. It really frees up the workspace and makes this version much better to use if one has the displays available (and dual screens are best for any kind of video project). It took me a couple of minutes to figure out how to set everything back to the previous view (it's under the Settings / Layout Settings menu); if one wants to drag those windows back into a single monitor, there is no "snap back" to allow one to see the various panels - they overlay each other. But that is not a big problem.
+
+- The library panel (which contains all the raw video, audio, and pictures for the project) now has the capabilities to be organized by sub-folders, and has quick settings to filter out certain media types. The effect is that it is much easier to find the desired file in the library.
+
+- Time lapse. Provided you have the pictures taken over a period of time, you can put all the pictures in a directory and easily have the program combine them into a single sequence, which can be saved into a video for viewing. It is fairly basic, with only a couple of options, but it does provide a fast way to get multiple picture sequences into the program, which can then be used in the project.
+
+- An enhanced audio mixer view allows more capability in editing and adjusting the sounds of the video, including the capability to control surround sound.
+
+- Stop motion production allows the user to connect to a video camera and capture the images from the stop motion project directly into the program, either manually or at a time interval. This would make it simpler to create a stop motion video from a laptop. It is also possible to import the images instead of taking them in real time.
+
+- Save files in zip format from directly inside the program. This makes it nice when transferring files.
+
+- You can export the project as a template, which means that the next time you need to do a similar project, you can use that template to quickly replicate the environment. This is very useful for me because I do a lot of the same format for my kids school plays.
+
+About the only drawback I find with the program is that it will take a while to master for the new user; because of the powerful capabilities of the program, there are a lot of options. But that is just the way this sort of software works.
+
+Highly recommended for the home video producer.

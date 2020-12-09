@@ -1,0 +1,22 @@
+At the moment Vista Home Premium is running on my PC and several others in my family, all preinstalled by the manufacturer.  I pre-ordered Windows 7 Professional upgrades for each back when they were being offered for a big discount.  Today the W7 upgrades arrived and only then did I discover - as apparently many others have too - that "upgrading" from Vista Home Premium to W7 Pro actually requires a "clean install" instead of an in-place upgrade, necessitating a LOT of manual work to save the data from each, install W7, and then MANUALLY REINSTALL ALL APPLICATIONS as well as the data.  And for some bizarre reason known only to Microsoft, this rude surprise only applies to certain combinations of upgrades.
+
+Printed on the box:
+"This version of Windows 7 is designed as an upgrade to Windows Vista. If you are upgrading from Windows XP, you will need to back up your files and settings, perform a clean install, and then re-install your existing files, settings, and programs."
+
+OK, so they make it clear that you have your work cut out for you if you are upgrading from XP, but upgrading from Vista should be - well - an upgrade. But it is not, except for a few very specific versions of Vista.  See the Microsoft site for the few lucky cases.
+
+This restriction makes no apparent sense, especially since I am upgrading to a "better" version of Windows, and I can find no explanation from Microsoft.  I find it most disheartening to say the least, because it will require hours and hours of work that I was not expecting - and that assumes that I can even find all of the install disks and downloads, plus be able to recreate all of the configurations and customizations.
+
+I am reasonably computer literate so I expect that I will be able to get through this onerous task - eventually - but there is no way on this planet that my wife would be able to do this by herself, and she will not be alone.
+
+Die-hard computer hobbyists who don't mind spending endless hours just tinkering with their computers to make them work to the pinnacle of perfection might find doing a clean install to their liking, but I do not.  I have a computer because it is a tool to accomplish work other than maintaining the tool itself.
+
+I hope that some day the pain of my having to do multiple clean installs of W7 on my family's computers will all be the past, but for now it remains in the future, and I do not know for how long because I will only be able to do it when I have many hours available during which I have nothing else to do and during which time I can afford to have my computer down.  And of course, nothing will go wrong in the process.  Thank goodness cars don't work this way!
+
+I am very, very disappointed in both Microsoft and Amazon for not mentioning this little detail amidst all of the glow about the benefits of W7, and I strongly recommend to those who are contemplating purchasing the W7 Professional "Upgrade" to now be aware of this inexplicable hole in the Windows upgrade matrix and seriously consider whether you have the knowledge, time and patience necessary to deal with this.
+
+UPDATE:
+
+I have now completed the "clean install" upgrades on several machines. The whole process works well and reliably - it just takes a long time (4+ hours including the time to save the original data to a USB drive and then restore afterwards).  The Easy Transfer utility provided by MS really works well and is the highlight of the process because it saves all of the user data and settings from the pre-Windows 7 machines and restores everything perfectly after the clean install of Windows 7.  Without this, the upgrade would have been much more work, and much riskier.  I have seen companies advertising migration products of their own, but you don't need them because MS's free utility does everything you need.
+
+Now that the upgrade experience is behind me I am happy it is done, but I still stand by my original assessment, i.e. that this product is misleadingly labeled as a "upgrade" when that term only applies to the pricing and not the amount of work required to actually DO the upgrade in most cases.

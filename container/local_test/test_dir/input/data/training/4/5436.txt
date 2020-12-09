@@ -1,0 +1,9 @@
+Autodesk products have never failed to impress me, and the same holds true for AutoCAD 2012, although I must say that the improvements in this version seem to be more incremental than "new".
+
+The PDF and DGN input/output tools have been updated, and make collaboration a lot easier than before, but I was hoping that this version would include at least some basic 3D elements.  Unfortunately, not.  So be aware, this is a 2D program only.
+
+But as far as 2D CAD programs go, this is still far and above the best. The menus are extensive, and perhaps overwhelming at first, but after you've worked in the program a while you'll see that menu layouts and positioning are quite logical, making it relatively easy to find a function when you need it.
+
+One of the "new" features is the ability to access your designs on a mobile device.  I'm not sure I would want to try and view a design on a smartphone, so I'm not quite sure what advantage this affords.  However, on an iPad, perhaps you can get a good enough overview of a project to show a client remotely.  I didn't try this feature, but it appears more of a "me-too" bell and whistle than a truly practical feature.
+
+From a practical standpoint, this software is an excellent tool for engineers and designers to use in the creation of 2D plans, and provides a tremendous amount of flexibility to quickly create solid designs that facilitate accurate final plans.

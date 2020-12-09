@@ -1,0 +1,5 @@
+I installed this on my Asus netbook, and my Android tablet running Froyo. Both less than 12 months old, and neither one used much on a regular basis.
+
+The Netbook:  This software, during the installation process, tries to make you think it's found threats on your computer, when I know for a fact my netbook had nothing wrong with it.  It's a scare tactic to make you think you NEED McAfee (and no other brand) to make your PC-life better and stress-free.  I didn't care for this.  The installation was smooth and problem-free, but seemed to slow the Atom processor down just enough to be annoying.  I uninstalled it, and went back to Free AVAST. I also wish a CD would have been included but I can see where that would only be useful for PC's with a CD drive and that's not the market-share McAfee is seeking with this security suite.
+
+The Tablet:  The one thing it did was cause my tablet to lock up. I didn't want to bother trying to figure out the cause so I restored the tablet back to the default. IMHO tablets don't need an anti-virus.

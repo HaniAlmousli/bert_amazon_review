@@ -1,0 +1,5 @@
+If you want to control every 1 and 0 that your computer has to deal with, this program is not it.  It's not the most powerful nor the most comprehensive or trustworhty applicaiton, for that you would want Kasperksy AV/Anti-Hacker, which will let you control every little detail, with power, precision, and reliability (the only catch is it will use up a lot of memory).
+
+However, I must say, that for the average, every day Joe and Jane, this isn't a bad program.  If you want to have a simple, easy to use interface, and as long as you don't prowel around "iffy" web sites, don't download too many untrusted files/sources, and don't open emails from Nigeria, this will do enough to protect you from standard web threats.
+
+Also, Mcafee's AV is probably (comapred to Kasperksy, Norton, Trend-micro) one that uses the least system resources, and hence your computer works well while it is active.

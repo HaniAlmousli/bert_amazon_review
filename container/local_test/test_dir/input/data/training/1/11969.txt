@@ -1,0 +1,3 @@
+I hate doing this to the vendor, but it is clear from my experience and other reviews that there are major issues with this software. Even when you use the download option instead of the DVD, the install fails. I've tried it on three different machines, and all I get is a 5 minute wait and then an error about pre-requisites.
+
+I'll attempt again when/if there is a new update.

@@ -1,0 +1,7 @@
+Kaspersky Products were always in the top 3 computer security products that I would buy.
+
+I have been running Pure for a while now and I must say that I am somewhat impressed with it. One of the most important things for me in a computer security product is the footprint. If the program slows the machine down to a halt because it hogs resources than what is the point ???
+
+Pure has a small footprint and runs pretty well on older machines. The protection it offers is decent, as expected from a Kasperky product.
+
+Overall, I prefer Norton Internet Security to this. The newer versions of NIS have a smaller footprint than Pure, are less intrusive and annoying and are easier to configure.

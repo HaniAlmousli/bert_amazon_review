@@ -1,0 +1,33 @@
+If you're reading this I'm guessing that you're not a techie.  As far as I have been able to determine, no self-respecting techie will touch this programme with a ten foot pole, but it does have its uses as a self-updating cure-all for small home systems.
+
+The thing is, Microsoft has enemies, and due to the dedication of this group, the company has developed its own security system to protect customers against viruses, Trojans, spyware, phishing and all the other bad stuff coming at you through the internet.
+
+Live Onecare is actually a combination of lots of stuff that's already on your computer, plus a spyware detector and a firewall, all nicely set up in an idiot-proof interface. Basically, it's a simple way of protecting your computer and keeping junk off your hard drive, now in a self-cleaning and self-updating model.
+
+Pros:
+1. If you're not familiar with your computer's system tools, this programme makes things like Disk Defrag, Disk Clean-up and Backup easier to find.
+2. Automatically updates once you're connected to the internet
+3. Can be installed on three computers with one Windows Live ID
+4. Works as your own personal IT Department, fixing some problems before you know that they're there.
+
+Cons:
+1. Seeing that this is a Microsoft programme that repackages and organizes existing Microsoft software to help Microsoft customers with Microsoft problems, it should be available as a free download for those who need it.  The annual charge is nothing short of super-highway robbery.
+2. Existing anti-virus and firewall programmes have to be removed before installation.
+3. It doesn't pick up new viruses as fast as other programmes like McAfee and Symantec
+4. It doesn't protect network servers, if you happen to have one at home, that is.
+5. No anti-spam protection
+6. The plastic packaging is like a firewall, resisting entry by intruders like yourself.
+
+Conclusion:
+1. If you're a techie you don't need this
+
+2. If you're not a techie:
+a. Ask someone to show you the Accessories - System tools menu
+b. Keep your existing anti-virus software up to date
+c. Don't download files attached to e-mails from untrustworthy sources (strangers aren't sending you greeting cards, and Jessica Biel probably isn't really nekkid either)
+d. Stop frequenting those adult sites
+e. Do all of the above and you don't need this.
+
+3. If you're really not into computers and you just use yours for e-mail, writing letters, and shopping at Amazon, you might find this programme useful as a one-stop hassle-free service center.
+
+Amanda Richards, March 19, 2008

@@ -1,0 +1,32 @@
+The Professional version of Windows 7 is geared primarily for businesses.  This version is best suited for a company to apply to its employees' desktops, or for a home user who regularly uses their machine to connect to their company network.  This is the purpose for the Domain Join feature that is missing in Windows 7 Home:  most personal home networks are not architected and managed via Active Directory and a Domain Forest, for example.
+
+While some home users may want to purchase Windows 7 Professional in order to use "Windows XP Mode", you should be advised that this mode will only operate on hardware that is new enough that it can support "Virtualization Technology":  without this requirement, you will not be able to use the "Windows XP Mode" feature.  Thankfully, Windows XP Mode is also not the same as "XP Compatibility Mode" - you can still use Compatibility Mode in all versions of Windows 7.  What XP Mode does is create a virtual machine that runs XP under the covers within your Windows 7 environment.  As a result, it is more recommended for cantankerous programs (say, running Office 2000) than it is for 3D gaming:  you are running a machine OS within a machine OS and this does affect performance.
+
+The third feature added to Windows 7 Professional is the ability to make backups of your system.  This is a useful feature, especially for a business that has multiple users to manage--but for the home user this can also be done with free, easy-to-use tools such as Macrium Reflect.
+
+Some very important things you need to know about upgrading:
+
+1) There are two types of upgrade:  "in-place" (where a Vista machine upgrades to 7 and you get to keep all your programs) and "clean" (where you lose all your old programs and settings).
+2) Anyone going from XP to 7 will have to go "clean".
+3) Anyone going from a different Vista to 7 (for example, Vista Home up to 7 Pro, or Vista Ultimate down to 7 Pro) will also have to go "clean".
+
+If you have to do 2) or 3), all is not lost--I'll explain in a moment.
+
+Before you even buy 7 for your machine, stop by Microsoft's website for two things:
+
+a) download and run the Windows 7 Upgrade Advisor.  Run it with every device connected to the machine that you'll ever want to use in 7.  It'll thoroughly examine your machine for any roadblocks and give you good advice about upgrading.
+b) Go to the Windows 7 Compatibility Center and double-check anything that came up negative in the Upgrade Advisor (or didn't show up at all).  This site lists detailed compatibility info on a LOT of different devices.
+
+Anything major, like a video card or sound card driver, I'd recommend also checking via the manufacturer's website to be sure a driver is available for it (and go ahead and download the driver while you're there).  This almost burned me on two of the machines that I upgraded.
+
+c) Last, make a backup.  The free tool mentioned earlier (called Macrium Reflect) can do this for you.
+
+Do you have to do a "clean" install, but just want to carry over your user accounts and settings?  Microsoft makes a program called Windows Easy Transfer that's already in Vista (and can be downloaded from Microsoft for XP) that will export your accounts and settings and let you import them back again.  It's very easy to use and does a good job of putting your accounts back together again, even going from XP to 7.
+
+Do you have to do the "clean" install, and you don't want to reinstall all your programs?  Laplink has an offer ($19.95 to download from them, $9.95 as a boxed product here) that will let you use a special version of their program "PC Mover" to upgrade one machine one time.  Read the documentation in detail because there is a specific order in which you have to perform the steps for it to work.
+
+The most important thing to doing a "clean" install is that in the Upgrade setup you choose "Custom".  Windows will take all of your major files and place them in a folder called "Windows.old".  PC Mover and the Easy Transfer program both rely on this folder to reconstruct your system from, so this is VERY important.
+
+I wish I had more space to go into detail here...bottom line is, Windows 7 Professional makes sense for those needing to manage complex networks or run older programs that might not work in Windows 7.  However, the average Home user will do just fine with Windows 7 Home:  it's not as stripped-down as it was in the days of XP.
+
+If you plan ahead a bit, upgrading to 7 will go very easily (and if it doesn't, you'll have something to fall back on).

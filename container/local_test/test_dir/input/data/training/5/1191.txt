@@ -1,0 +1,15 @@
+I own a prior NAS from QNAP (a TS409 purchased about 2 years ago).  I have had little to no problems with the NAS device, and when I did have 1 problem updating the firmware, QNAP tech support was top notch.  They remoted into my NAS and fixed the issue.
+
+When I decided to purchase another NAS device (extra speed, more storage), I could not find a better product than this QNAP.  You can find CHEAPER devices from synology, or thecus, but I feel this device is one of the best.
+
+The build quality feels excellent.  When it arrived, it feels and looks like a serious piece of IT equipment (which it is).  The front panel makes it easy to setup.
+
+I had no issues mounting my drives (also purchased through amazon), and performing the setup.  There are a lot of options with the firmware of this device!
+
+It can be setup to email or sms txt message you if there is a problem with it, it has several different built in software applications (like ITUNES server, and bittorrent downloading software), and is expandable with applications you can install through the firmware separately.
+
+It IS a lot of money, and you could build a computer for less money, but at full load this device uses much less energy than a computer, is quieter, and QNAP is always updating the firmware with new features.
+
+They even updated the firmware for my old NAS with most of the new features of the newer ones, so they do not just abandon the old devices until technology has fully passed them by.
+
+Highly recommend this product.

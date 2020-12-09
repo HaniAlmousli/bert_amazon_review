@@ -1,0 +1,14 @@
+I prepared returns for C corp, S corp and LLC. The S corp could not be e-filed because of bugs in the program but no trouble with the C and LLC.
+
+If one accepts that e-file won't work (or else won't work well) for S corp, then the disappointment won't be as great. Here's a list of most of the bugginess I experienced with the S:
+* Would not provide a form that I needed, one of the basic forms.
+* Gave me an error for my zip code, saying it's not in my state, although it is.
+* One of the forms was mislabeled, a weird thing to happen and a software problem.
+
+But I e-filed the C and LLC, and I paper filed the S. So one can make the program work.
+
+Also, I was able to upload my last year's tax filings which I had saved on my hard drive and were from the same H&R Block tax software. There was no trouble whatsoever with that, and I was actually most worried about that.
+
+All in all, I would buy this tax software again and probably will next year. I dislike that I can't use it on another operating system other than Windows, but then again it's not highly priced when one has several returns to prepare.
+
+It's not the easiest tax software to use, giving warnings that are sometimes unhelpful and cannot be "fixed." But it's not that difficult either except of course that I could not e-file the S due to some software bugs. I would not recommend it to a true friend nor would I try to dissuade anybody from using it at their own risk as we do whenever we use inexpensive tax software that's targeted to nonprofessionals.

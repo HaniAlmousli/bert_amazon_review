@@ -1,0 +1,7 @@
+Word is one of those products which has become a victim of its own success, and automatic features that are more annoying than the conveniences they were intended to be. Another issue is the almost non-existent backwards compatibility with previous versions, meaning that only the simplest layouts are likely to successfully transfer across versions. And it doesn't seem to matter whether you save as a rich text file (.rtf) or a previous version of Word.
+
+To get around these problems, I switch all the auto-format features off, and ship anything that needs to be accurately conveyed as a .PDF (Adobe Acrobat), which Word is highly integrated with. Macros work okay, but are best written up in the macro editor. Text for use outside of Word is best saved as a plain Text file, and any formatting done within the destination application. Framemaker, for example.
+
+Word is a good word processor and is not a DTP application to any useful extent. And used in its word processor mode, it does compare more than favourably with any alternative that I have tried. And that's quite a few. The font options and quality of rendition is particularly good. It's also a good idea to visit and subscribe to word tips, who have a huge amount of advice about Word in general and macros in particular.
+
+All in all, there's not too much to complain about if the aforementioned is observed. Users requiring a more sophisticated product should consider Adobe's Framemaker.

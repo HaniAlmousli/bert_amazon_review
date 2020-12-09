@@ -1,0 +1,27 @@
+This is Microsoft Office Home and Business 2016.  What you get with this is a product key for one copy of Word, Excel, PowerPoint, Outlook, and OneNote.  You do not get Publisher or Access.  In addition, this product key is only for one PC, not for use with a tablet or mobile device.  Skype and the 1TB OneDrive cloud storage option are also not included.
+
+The intended user of this product would be the owner of a single PC in need of an Office suite.  A benefit of this product is the lack of a subscription based model meaning there is no expiration date.
+
+To download the product, you need a Microsoft Account.
+
+So my installation target for this was a brand new HP All-In-One, a higher end model with plenty of disk space and a current generation CPU and 16GB of RAM running Windows 10.
+
+Installation was relatively painless and I had no issues, thankfully.  I did note all of the problems people have reported with downloading.
+
+Everything seemed fine at first but I started to have major issues with Outlook hanging upon startup (not crashing).  Running Outlook in safe mode didn't work either.  To make a long story short, I finally solved this issue myself by noticing that I had incorrectly typed the password for my POP3 email server.  Believe it or not, correcting this password ended the startup hang.  I'm a software developer by trade and seeing this lack of error handling in a commercial product is alarming.
+
+I had a bunch of emails saved in Windows Live Mail which I wanted to import (with no access to the Live Mail application, only the saved data) - no easy way to do this.  It took me quite a while to determine how to do this.
+
+As for the rest of the suite, Powerpoint seems relatively unchanged as does Excel and Word.
+
+For Enterprise users, there is a built in collaboration feature in Word 2016 which would be useful.  There is a tweak to the help system up in the ribbon bar which states "Tell me what you want to do..."  This is essentially a quick search feature.  I also noticed a right click context menu addition called "Smart Lookup" which allows you to highlight a word and select Smart Lookup.  A Bing-powered search engine lookup features a definition of the highlighted word.  For writing mathematical equations, there is a feature called Ink Equation in which you can jot equations by hand (touch device, stylus, etc).  This is an improvement over the earlier Equation editor.  Other than that, the only improvement I saw was with Shapes (more presets, perhaps).
+
+I am a frequent user of Excel so I was eager to learn what changed in Excel 2016. There are some new chart types, as far as I can tell they are Treemap, Sunburst, Histogram, Box & Whisker and Waterfall.  I could see myself using Histogram.  There are other changes common to all of the Office apps such as sharing and the stuff I mentioned about Word.
+
+One thing to mention is that Office365 subscribers get feature updates which will not be available to the users of this product.
+
+My evaluation of Office 2016 Home & Office is that it is intended for a specific audience.  Most users will get more out of Office 365 these days.  I guess I would expect a lot of improvements (both speed, stability and feature-wise) from a major new release.  I don't really see all that many groundbreaking improvements here.
+
+I really miss the days of having a CD/DVD to install a product like this versus a cumbersome and slow download process.  Entering a product key and selecting Activate used to work fairly well.
+
+Overall, if you have a new PC and have not used Office 365 before, this is a good option for getting a current Office suite.  I didn't have download and activation issues but many have.  The hanging with Outlook was not a nice touch and left me wondering if this product has been properly tested and debugged prior to deployment. I would suggest Office365 (yes, even with the subscription expy) so you at least get current updates to features.  The other thing I dislike about this is the "use only on 1 PC" thing.

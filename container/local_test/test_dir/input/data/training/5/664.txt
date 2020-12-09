@@ -1,0 +1,3 @@
+21 Mbpbs  with T-Mobile 3G,  need to tape pin 20,  and flash Thinkpad with non-whitelist bios.  I also want to test it under MAC OSX, it has driver and software for MAC OSX from vender's web site
+
+Works perfectly under both Windows 2012 Server and Apple Mavericks 10.9.2

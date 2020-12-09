@@ -1,0 +1,11 @@
+While somewhat complex to use, if a hard drive or software catastrophe overtakes your system, Acronis True Image will do exactly what it advertises it will do. It will completely restore your operating system, programs & files to the time and date that you last saved an image of your drive with Acronis. If you have a software failure, Acronis can have your system up in running in minutes. If you have a hard drive failure, you need to find another similar hard drive and then in minutes you can again have a working system. Acronis 11 performs other tasks but this review only addresses one critical issue: full system image backups.
+
+The downside of the program is that the menus are not intuitive and can be confusing and at first, a bit frustrating. You absolutely must create & test the Acronis recovery disk to be sure it works and that this recovery disk and your computer will read the hard drive on which you have saved a disk image. You absolutely must validate each disk image you create and then mount it to test that the saved image files are readable. And you must save complete or updated hard drive images frequently, I do it monthly, so you have the data you need is saved in case you need it.
+
+If your system fails and your saved image is 6 months old, you have lost 6 months of data unless you have saved it on some other restorable media.
+
+If you do the musts listed above, you can breath easy and be confident that all will be well with your software treasure if you system fails.
+
+Like I began, its a bit complex, you need to take time to understand how the Acronis program works. If you blindly go through the steps and don't do the tests, you setting yourself up for completely unnecessary pain and depending on your temeperment, unconsoleable anger.
+
+Two years ago, during a Windows XP upgrade, the drive Master Boot Record on the C: drive was wiped out along with other system files. 10 minutes later using an Acronis disk image, I was up and running, smiling and coming down from high anxiety. Take the time to do the work and Acronis will save what you cannot afford to lose. And of course, there maybe other programs that will do this as well. I know that this one does this one absolutely critical task for me.

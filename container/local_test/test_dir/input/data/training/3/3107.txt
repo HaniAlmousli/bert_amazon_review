@@ -1,0 +1,9 @@
+This product is obviously intended to compete  with&nbsp;<a data-hook="product-link-linked" class="a-link-normal" href="/Adobe-Acrobat-8-0-Professional/dp/B000IBFP1K/ref=cm_cr_arp_d_rvw_txt?ie=UTF8">Adobe Acrobat 8.0 Professional</a>, which has serious flaws. Having tired of Adobe's vaporware, I went to Nuance's website and downloaded this version of PDF Professional 5.0, only to find that it lacks support for scanners. (This is strange because Nuance's flagship product, Omnipage, does include support for scanners.) You can work around this problem by using the scanner program that comes with Windows, saving the file as a TIF file and then loading it into PDF Converter, but that's a pain.
+
+PDF Converter also appears not to be able to insert headers and footers (despite Nuance's claim to the contrary in its early promotional materials) and its compression capability is lame.
+
+It does, however, include features for inserting, extracting, replacing, deleting, cropping and rotating pages, which I had been having trouble with in Adobe. It also carries over hyperlinks from original documents (see Comments, below).
+
+All in all, probably worth purchasing, but you're likely to purchase Acrobat when, or if, Adobe gets its act together.
+
+UPDATE (08/06/08): I have used Acrobate 9, which just came out, for several days. The problems that I encountered with Acrobat 8 all appear to have been corrected.

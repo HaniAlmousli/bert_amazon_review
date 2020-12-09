@@ -1,0 +1,7 @@
+If you look at the definition of bloatware in the dictionary, there should be a picture of this product. This security suite hogs the computer's resources and wraps itself around it so you can't get rid of it easily. In essence, this software is the worse virus that ever hit my PC. I was shocked when I counted almost 100 threads belonging to this internet suite when the PC was idle. 100 threads!!! Especially if you have an older PC, or one with not a lot of available resources, this software will slow it down to a crawl.
+
+Another issue is when Live Update fails or does not complete for whatever reason (PC crash, reboot, out of disc, internet connection disrupted, etc), there is a chance this software suite will start behaving unpredictably. This is ironic since this is the software suite that is supposed to be protecting your computer, yet it cannot reliably update itself when there are problems during the update.
+
+Perhaps their notion of protection is to slow your PC down to a grind, so if a virus or hacker manages to break through, it will be so slow they won't be able to do a lot of damage - this is my attempt at humor :-)
+
+But to be fair, this suite seems to work most of the time. I did not have any viruses or firewall breaches - at least as far as I can tell. It has some level of customization and control, although you cannot turn off some of their annoying reminders. With rebates and bundles you can get it at a low price, but as always with mail-in rebates, you have to keep copies and records in case it is not received or lost in the mail.

@@ -1,0 +1,9 @@
+Program refuses to install.  Hangs up and stops at about the 80 % point.  My machine is a pretty vanilla Windows 7 X64 with an AMD processor.  I've not had any other programs (of about 25 or so) that fail to install.  Typical lousy Acronis product.
+
+Update:  Tried the trial download of the latest version, still won't install.  The "fix" suggested by Acronis support does not work.  Giant waste of time and money.  If they would just write a program that didn't rely on a large number of Microsoft add-ons and libraries, it might work.  As it is, there is always another reason why it won't install.  Fix one, and another shows up.
+
+Poor program to begin with, and this version will just waste your time.
+
+Suggest something else unless you have a fondness for pain, or need a new hobby.
+
+If you are dead set on using this, I suggest that you download the trial version and see if it will work on your machine.  If it does, and you actually like it, you can by the program and just enter the product key (which is a 64 DIGIT ALPHANUMERIC CODE!!!!!).

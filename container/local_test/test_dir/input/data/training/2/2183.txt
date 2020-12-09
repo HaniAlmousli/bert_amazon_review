@@ -1,0 +1,13 @@
+I like the nice glass look and some of the new features, but overall it is not a product I would use. I've used various versions of Office for Windows, OpenOffice.org, and Office 2004/2008 for Mac, as well as iWork 06 and iWork 08. I prefer iWork 08 the best, and while Office 2008 is pretty nice, there are some issues I have with it which keep it from being my product of choice.
+
+*Performance: Office programs typically take a few seconds longer to open than iWork programs do. It takes up more ram and makes the whole computer run more slowly than an iWork program does.
+
+*Cost: What is Microsoft thinking? Charging hundreds of dollars for productivity programs (depending on the version), when OpenOffice.org (however ugly-looking and special-feature-lacking it is) is free, and when iWork, a superior product, is well under a hundred dollars.
+
+*Size: The size of all the programs and files in Office 2008 Home & Student is over 900 mb, bigger than it needs to be. iWork+iCal+Mail is less than 700 mb. And Office also has tons of visible files in the Office folder, all of which are executable and pose potential security risks.
+
+*Compatibility: Here's a funny one. I opened a Word document I made in Office 2003 (for Windows, .doc format) in both Pages (from iWork) and Word (from Office). The formatting (paragraph size, margins, etc.) was nearly identical to the original when viewed in Pages, but when viewed in Word 2008, formatting was different! This isn't always the case, though. There was a document I made in Office 2007 (.docx) and formatting was closer to the original when viewed in Office 2008 than when viewed in Pages. But still, Microsoft made Office 2003 and Office 2008, and you'd think they would know how to keep formatting the same better than Apple.
+
+*A bad copy. True to Microsoft's past, they just copied features found in iWork 08 and mushed them into Office 2008, only they didn't do a good job. Like 3D slide transitions really look 3D in Keynote, but they are almost a joke in Office. Or the thing in PowerPoint to help position graphics: it doesn't work with as many items as it does in Keynote. Or controlling PowerPoint with the Apple Remote doesn't work as well, and you can't start a presentation with the remote either.
+
+*Not intuitive. Toolbars are a thing of the past, and you have to keep a side window open for formatting and such. However, if you're viewing the formatting for, say, a chart, you will have no access to basic font formatting at that time.

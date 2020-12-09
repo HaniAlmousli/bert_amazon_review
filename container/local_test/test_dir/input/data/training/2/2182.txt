@@ -1,0 +1,40 @@
+These comments focus primarily on Word and Excel, which are the applications I use. I have a 2.2 Ghz Core Duo 2 MacBook Pro with 4 gigs of RAM, so this is a very fast computer by most measures. Keep this in mind while reading my comments.
+
+Pros:
+1. The toolbars are better integrated into the workspace.
+2. The graphics look a lot better.
+3. File sizes are smaller in the new native format.
+
+Problems:
+1. Resizing a window is incredibly slow and takes 100% of the available computer power. It feels like you're using a computer from years ago.
+edit: much better now, but still slower
+
+2. The first launch of an office program after a restart takes a very, very long time - at least twice as long as a Office 2004 program.
+* edit: improved by a noticeable amount
+
+3. You can't edit equations from the Windows document format of Office 2007.
+**edit this is fixed.
+
+4. Any equations you make in Microsoft Word print fuzzy unless you reopen each one prior to printing. For a long document, this process sometimes takes me about 10 minutes just to print a document I created years ago and resaved in the new format.
+** edit: this is fixed
+
+5. Excel crashes about twice per day, even when working on new documents with just a few cells.
+**edit: this is fixed
+
+6. Documents created in the new native format take much, much, much longer to open than the exact same documents in the old format.
+** edit: better, but still true.
+
+7. Compared to Office 2008, Office 2004 is amazingly fast and is much more stable.
+** edit: Office 2004 is still better, but not by much
+
+8. The overall program is buggy. Things like adjusting or removing tabs don't work correctly - generally, it only registers something after a long delay.
+** edit: much improved
+
+9. Every document I create double-spaces between paragraphs. I can turn this feature off for a given document, but I can't save a default. Every time I save the default document template, it ignores this setting for some reason.
+**edit this is STILL not fixed, although you can change it if you follow a very complicated procedure.
+
+In short, this is stunningly poor software, with a new challenging annoyance around every corner I've turned. I'm continually surprised by how unresponsive and slow the software is, and compatibility with older versions of Office is fairly bad. I would recommend staying with Office 2004 or buying it instead of Office 2008.
+
+March 24, 2008: I deleted Office 2008 from my system and reinstalled Office 2004. I'm much happier, and things work again!
+
+March 31, 2009: I'm still not impressed with this software, but it's now acceptable.

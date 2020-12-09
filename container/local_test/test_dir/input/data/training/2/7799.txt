@@ -1,0 +1,9 @@
+My HP came with Norton antivirus trial, and I installed McAfee 2013, which seems to have worked.  Norton still had residual components, but I can't recall whether this is due to Norton or McAfee removal processes.  When I tried to update to McAfee 2014, I expected to simply enter in a new code-- maybe 5 minutes.  Instead, the process turned in 70 minutes.
+
+My McAfee 2013 ran for an entire year, and now this 2014 update needs to remove Norton residual components?
+
+20 minutes wasted.  Then I contacted McAfee, who wasted another 25 minutes before their asking for a fee for removing Norton.  Huh?  I thought this issue was resolved in 2013.  Furthermore, I expected McAfee would just advise me how to remove Norton, if not remove it for me.
+
+So, I searched Norton and found a removal tool.
+
+Wasted 70 minutes roughly.  I thought McAfee should have sent me a link where the Norton removal tool was located, insted of wasting 70 minutes of my time.

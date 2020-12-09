@@ -1,0 +1,17 @@
+Before I get into a review, let me state that I have ALWAYS been pro-Microsoft.  Despite all the monopolizing and heavy-handedness and rushed updates, I have always felt they did more good than harm.  I have yet to find a Microsoft product I didn't like... until now.
+
+In a word, Microsoft Money 2005 is "horrible".  I only gave it 2 stars because it still beats paper and pen :)
+
+Now, if you're a new user, you probably won't notice anything bad about it and will continue on your merry way.  Bravo for you (just don't do anything online until they release the second patch (yes, there's already one out) since 2005 is apparently quite broken with respect to about 50% of the institutions it claims to support).
+
+If you're a previous Money user, pocket your $30 and invest it, using your old version to track the savings.  I was terribly disappointed in 2005.  To begin with, helpful features such as Bill Minder, "dual category lists", "in-register" spending forecast and upcoming bills, are gone.  What have they been replaced with?  I have no clue.  As far as I can tell, they've replaced them with a HUGE toolbar (a la MSN Explorer but without the option to resize) and a LOT of white space (the register displays about 30 lines max (on "compressed" view) and runs literally down to the bottom of the screen.)
+
+The home page actually displays less information (though it is prettier in a way) and the settings "menu" is a fiasco (again, much like MSN Explorer) with numerous hyperlinks that are not necessarily intuitive.
+
+From what I could tell, reconciliation seemed to work as expected, but seemed to offer less information than 2003 did.  I did not even take the time to get into investing since I uninstalled 2005 within 24 hours (and I am, without doubt, a "give it time" kind of person).  I honestly felt like I had less control over my finances (or at least less information with which to make informed decisions) and didn't want to risk botching up my portfolio.
+
+That's about it.  I know it's a short review and probably leaves many questions unanswered, but I had only invested 24 hors in 2005 so a "roll back" to 2003 was fairly straightforward (and evidently necessary).  To take more time would have meant a more difficult reversal.  Again, I normally like MS products, but I can promise you this one will be going back to Redmond at their expense (30-day Money Back Guarantee).
+
+I would STRONGLY recommend against buying Money 2005.  It just isn't worth the money (I honestly wouldn't even take it free now).  I can see no enhanced functionality and it actually appears reduced in places.  The interface has been radically changed and, aside from being pretty, actually reduced my sense of "control" over my finances.  Again, if you're brand new to Microsoft Money, I think you'll be satisfied.  However, if you're a previous user... well... you've been warned...
+
+PS Did I tell you that Money automatically (read: "Did not ask") reorganized my categories?  It decided to treat "Dining out" as its own primary category instead of as a subcategory of "Food", effectively reorganizing over 100 transactions.  This might have been OK if Money had asked, but it didn't.  Makes me wonder what else was changed without my approval...

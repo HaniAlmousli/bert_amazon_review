@@ -1,0 +1,5 @@
+As the title of this review states, a lot has changed in Windows since the XP/Vista days. It would seem Microsoft is only building the OS for tablets and touch devices however this design logic falls badly on a classic desktop or laptop. If you have a Windows 8 phone you'll probably be at home.. but if you fear or dislike change i'd wait this one out. To date I haven't seen any applications forcing Windows 8 for support (it'd be crazy if they did). I continued to use Windows 8 on a dedicated PC and installed on a Mac (via Bootcamp) with hopes i'd see some element of why Microsoft went in this direction and all i've come up with is the phone designers helped with this OS.
+
+Now, the reason I gave this product 3 stars instead of 1 is because some elements of Windows 8 are useful. Those would include impressive performance improvements, full screen applications, advanced task manager for power users and anti-virus built in. Sadly though these improvements are greatly overshadowed by the design decisions made in Win 8.
+
+Personally, i'd skip this one and continue with Win 7.

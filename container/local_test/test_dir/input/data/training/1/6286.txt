@@ -1,0 +1,9 @@
+There are better utilities out there that perhaps don't promise as much (Norton) but do deliver on their promises.
+
+Cons:
+
+-Lengthy installation
+-machine crashes increase after installing
+-major headache to remove
+
+Three days on luckily a secondary machine with Fix-It that I can never recover...

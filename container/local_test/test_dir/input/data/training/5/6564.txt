@@ -1,0 +1,13 @@
+Other than the start button, It runs better than Windows 7, and Windows 7 ran real good.
+I got the start button added back in thru a computer utility "Advanced system care 6" free edition. I use the start button only because of habit and I do find it a bit faster than the tiles in 8's start screen.  I am sure at some point I will outgrow it.
+
+I did the upgrade option this time (from 7) and not a clean install as I usually have done.  I was surprised that it went very smooth and lost no data.  I did back up everything prior to the install. Only one program had to be reinstalled because of functioning. Saved a ton of time on reinstalling everything. The upgrade will even leave your desktop as you have it in 7.
+Microsoft just keeps getting better at Windows upgrade process. This one is down to a science..
+
+Windows 8 also cleaned up a problem I was having with IE 10 on 7 which MS upgraded and then updated. Flash player was not working after the update and print was scrambled on some parts of printed matter. I found the same problem on fire fox.
+
+Boot time seems faster with Windows 8.
+
+If you are hooked on the start button and refuse to upgrade because of this, Upgrade to 8 and install  the utility I mentioned (free edition) and have your "start button" and Windows 8 your way!
+
+Windows 8 is a great upgrade and on the surface it is much the same as Windows 7 once you get the "start" button back in.

@@ -1,0 +1,9 @@
+The last time I got the updated McAfee version, it added onto the previous year's subscription.  This time, it didn't, so I ended up losing a month of my old subscription because I added this code in early.  I guess I could call their service number to fix it, but that's always a pain.  It was so cheap anyway.
+
+McAfee 2016 already found three viruses on my computer for which I'm grateful, but the three stars is for what it did to Windows after it told me I needed something like 30 updates for Windows.  I clicked the box to update everything and then Windows ceased to work.  I was in the middle of a project. It was stressful trying to restore, because the restore wasn't all that smooth.  Windows wouldn't let me back in, I couldn't get to the safe mode, etc.
+
+Finally, I restored and everything is fine, but then McAfee said I needed Windows updates.  This time, I went to Windows to see, and I was completely up to date.  I'm sure updating Windows through McAfee would have put me in the same predicament I was in before. Why the discrepancy between the two?  I don't know, but I'm going to trust Windows on this.
+
+_______________
+
+UPDATE 2/13/14:  Every time this thing run a scan, my computer slows down to being barely usable.

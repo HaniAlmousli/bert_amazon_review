@@ -1,0 +1,26 @@
+It finds the TurboTax 2013 return, and asks if I want to import it. I click yes. It starts, immediately crashes, and exits saying sorry for the inconvenience.  I tried rebooting. Same problem. H&R block program immediately dies.
+
+The HR& site says it can import  TurboTax 2013 returns. It cannot import mine.
+
+I then got in contact with their support person via "chat". Took over an hour waiting for my turn.
+
+He said there is a problem with H&R Block importing on XP, and there is no fix.
+
+I asked for procedure to get a refund. He gave it to me. Apparently if you get the software on a CD and it's from Amazon, you can get a refund.
+
+Each time I submitted the next line of the chat, took a long time for a reply. He must have been talking to multiple people at a time. He offered no suggestions or help.  He just sort of just sat there doing as little as possible. He had others to do the same with, I presume.
+
+I asked if it would import my TurboTax if I installed in on another computer with a different operating system. He said probably.
+
+I asked if I tried to install the same CD and license key on a different operating system, it there would be a problem, since it is already installed on my XP machine. He was unsure, but that he had heard it would work. I tried it, and it did install on a Windows 7 machine.
+
+I asked if I could save the return, and copy that file to my XP machine and continue the return on my XP mahcine. He said yes.
+
+So my take is if you need support from H$& block, they are not interested. If there is a problem, they just say yep it's a problem, and offer no suggestions.
+
+You have to know more then them and know the right leading questions.  If you are clever enough, maybe you can find a work around. But they are not going to suggest it. They are on the line with another person(s) talking to them.
+
+So my rating of 1 star still seems appropriate.  They well knew they could not import TurboTax into XP. But their Web site said nothing about that, other than a flat statement it will import it. Then you have to spend over an hour on hold to find they know it's a problem without a solution.  And then you are pretty much on your own and have to use your wits.
+
+1/26/2015
+I tried to import my Edward Jones 1099 information. H&R Block says it will.  It will not, and least today. I called Edward Jones and they said they were informed by H&R Block that they can't import from Edward Jones. They expect a program release/update on Feb 15, 2015 that should fix the problem. H&R Block (except for Microsoft Money and Quicken) currently only imports file types of .txf. Edward Jones only exports in CSV, Excel and .pdf. Not .txf.  On February 15th, Edward Jones will test the new versions of H&R Block and see if they will import their tax files, and if not, will work with them.

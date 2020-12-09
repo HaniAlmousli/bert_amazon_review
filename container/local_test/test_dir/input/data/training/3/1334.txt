@@ -1,0 +1,15 @@
+The software sets up a virtual operating system (OS) environment (Windows XP, in my case) where it almost always (I'll get to that) seems that you are on a PC.  The problems I've been having is that the virtual environment does not do well with hardware recognition.
+
+For example, Win XP does not recognize that there is a bluetooth card installed on the MacBook.  A bluetooth device will work but when I try to load the software for that device so that I can tweak the way the device operates, the software will say that no bluetooth card is on the computer and will abort its setup.  The bluetooth device software is checking the device file of XP and the bluetooth card is not found.
+
+When attaching a flash drive into a USB port, XP does not recognize that the device has been attached.  OS X recognizes the device first which may prevent XP in the virtual system from seeing the drive.  However, even after I "eject" the flash drive in OS X, XP still cannot recognize the drive.
+
+Last, the console window has increased in size by a factor of three and I see no way to make it the smaller size it used to be. The console window is a window that is about 1/4 the size of the screen; you can see the XP environment well enough to work in that window and in OS X at the same time (usually one will expand the console so that the XP window is the entire screen, but other times you may want to make the window smaller). It's a nice feature, potentially.
+
+I'm sure all these issues are resolvable (maybe).  However, if you want to call the makers of this software and speak to tech support, it will cost you $29.99!  If you send an e-mail asking the question you will not get a timely response.  I sent an e-mail 1.5 weeks ago and have yet to hear back.  If you go to their website to try to get your question answered, the site has a list of FAQs but no online technical support, such as a knowledge base where one can look for known issues and how to resolve them.
+
+My sense of this company is that it's a group of folks either working in a small rented space or in someone's basement.  One of their requisites for being hired into their company (you can find this on their website) is enjoying drinking beer and shooting pool at the end of the day.  Nice work culture, but it would be even nicer if they had some sort of customer service above the level of none.
+
+Three stars for the software, zero stars for the lack of user support.
+
+*** Follow-up: 1/27/07 -  Another week has gone by with no response after sending yet another e-mail with my questions.

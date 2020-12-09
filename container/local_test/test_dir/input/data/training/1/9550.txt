@@ -1,0 +1,3 @@
+Try to start Quicken this morning, but it insists on downloading a patch that is corrupted.  Then it crashes.  But I need to pay my bills.  It seems this product is way too unstable to be serious.  Of course you can manually download the "mondo" patch for when they screw everything up.  But the mondo patch on their web site is version R5, and Quicken is trying to download R6.  Not only can't I pay my bills, I'm wasting hours of my life.
+
+If it didn't have so many bugs, it wouldn't need so many patches.  Each patch is worse than the previous.  I don't know who they have working on this software, but obviously they completely don't care about their jobs.

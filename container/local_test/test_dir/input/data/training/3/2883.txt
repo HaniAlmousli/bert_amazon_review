@@ -1,0 +1,13 @@
+I have never been especially fond of Outlook, but I was willing to give it another try with this version in the hopes that my previous complaints had been addressed. I can't say I am especially impressed with this version either, though there are some good things I can say about it regardless.
+
+I have been using Outlook in the workplace as a standard for years now. It integrates with MS Office (another standard in the office, though I use something different at home) and it generally gets the job done, though it is slow about it. I have found that Outlook 2007 is no exception in that regard - this is not a nimble application and it takes a lot of memory and resources to run well. If you have a lot of memory and space that's not really a concern, but it is something about which to be aware.
+
+MS has always done a nice job of putting together applications with a pretty front end, and Outlook has almost always led the way in that regard. Though pretty, Outlook suffers from a very confusing layout in terms of where to find various configuration settings. Making a preference change is rarely just a couple of clicks away; invariably it either requires knowing up front where things are or it requires a lengthy search for the desired setting.
+
+Outlook 2007 adds RSS feeds, a nice feature for those that use them. To be honest, I have not tried this feature so I cannot comment on it. That said, its availability is a nice thing and is something to consider if this capability is something you need or desire.
+
+I fiddled with the Business Contact Manager portion of the application and to me it feels like a light CRM implementation running on the local box. This is a nice thing to have, but unfortunately it is not something I personally need. For a person who relies on keeping track of contacts, sales and other vitals, I can see this as being a very useful tool.
+
+I do appreciate the fact that Outlook 2007 seems to be more stable than the last version I have used, but I do still get the occasional hang when connecting.
+
+Outlook 2007 is a nice package and with the integrated BCM it is a good tool for people who need to keep close track of their contacts. It still suffers from bloat and a confusing settings layout, though it had a visually appealing interface and a nice feature set.

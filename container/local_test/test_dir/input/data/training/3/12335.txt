@@ -1,0 +1,17 @@
+There's a difference between being smart and being a genius. This software is good, but really does not excel in any specific area.
+I bought my first copy in 2006, and also paid for an upgraded CD back then. I saw no reason to upgrade to version 2, but finally purchased it in December of 2008 when it was bundled with other software. In May of 2009 I got the similar Tech Tool Pro in another bundle. I like it a bit better than Drive Genius and have already posted a review about it.
+
+Drive Genius is a good suite of tools, with the convenience of having everything in a single package. It does not have as many features as Tech Tool Pro, but has some unique tools, such as Repartition. Version 2 added some useless, superfluous animations, as well as a new interface. I prefer a focus on functionality, and their focus on eye-candy still annoys me a little bit.
+
+The tools themselves are useful, but in my experience I prefer other alternatives. The disadvantage is that buying the alternative software ends up being more expensive. The advantage is that you get better tools for the job. For example:
+For optimizing/rebuilding a directory, my choice is DiskWarrior. I think I first used it over 10 years ago, and it included another application called PlusOptimizer. On one occasion the hard drive that came with my G5 failed miserably, and the solution was another application by Prosoft called Data Rescue II. Other than that, my choice is still DiskWarrior.
+
+For partitioning a hard drive iPartition seems to do a better job than DriveGenius. I tried to repartition a hard drive and it was impossible to do it with DriveGenius, even after shifting partitions around and having hundreds of GBs of contiguous free space. iPartition handled the job superbly.
+
+For defragmenting, iDefrag -by the makers of iPartition- is in another league, much better than Tech Tool Pro or Drive Genius' defragmenting features. In contrast to Drive Genius' useless animation while defragmenting, iDefrag presents a visual display that shows the whole partition, fragmentation, type of files, or by selecting different tabs the user can view statistical data (e.g., fragmented files, fragmented space, fragmentation percentage) or specific files (i.e., the user can display his/her most fragmented files, including name, size, number of fragments, etc.). In addition to defragmenting files and free space, iDefrag can also optimally place files in specific sections of the hard drive. This is something that neither Tech Tool nor Drive Genius can do.
+
+The only Drive Genius feature that I may still use is Duplicate, and for that there's the alternative of Carbon Copy Cloner, which is donationware.
+
+In summary, Drive Genius offers a set of useful tools which perform at an adequate level for the average user. Upgrades are relatively expensive, and alternative options can do a better job. As I write this review, version 3 is already available. I have no plans to upgrade.
+
+Every utility of this kind involves a certain risk, even the ones I mentioned as better alternatives. It's always a good idea to have recent backups of your important files.

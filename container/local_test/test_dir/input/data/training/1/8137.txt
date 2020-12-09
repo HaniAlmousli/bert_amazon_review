@@ -1,0 +1,7 @@
+Where do I begin with their lies and deception?
+
+1) Small size on HD! Not true. ALL of the data hides in programdata/WRData and can baloon up to 50, even 100GIGS on your hard drive. Even quickly filling your SSD's.. Webroot takes up the most HD space of any AV.
+2) Small footprint! NOT true. Webroot rides on the SYSTEM process in windows. Often ballooning the system process to 500% over normal. This bogs everything down and is a deception by Webroot who claims it's an 'old bug' (claiming this for 5 years)
+3) Advanced technology! Not true. It's a simple karma/reputation and whitelist/blacklist app. It tosses your unknown stuff in a sandbox monitoring it. This requires constant tickets to support for whitelisting with EVERY new version of EVERY software.
+
+Webroot is a product no serious security/IT person would ever deploy. It's a joke!

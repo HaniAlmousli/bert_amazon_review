@@ -1,0 +1,8 @@
+In brief,
+- the software installed without problem on my Windows Vista 64 laptop,
+- the GPS dongle works as intended, but must be outside to get lock on satellites (as expected)
+- trip plotting is reasonably efficient, but not perfect (I'd like to see an option that minimizes changing freeways as long as it does not add more than a few miles to the overall trip distance, that would be really useful in packed urban areas like Los Angeles with numerous interchanges)
+- works as well as my Garman nuvi 760 with the big exception of the form factor
+
+The bottom line question is ultimately, Is it useful? I have to answer no, not really. I can get maps and trip directions from the internet in most cases for free. For actual, real life driving, a dedicated GPS wins out if for no other reason than that the form factor of carrying a laptop (even the new netbooks) is just too cumbersome for ease of use and safe viewing while driving. This is not to say that the product doesn't work, just that there are better or cheaper solutions on the market to fill the need.
+P-)

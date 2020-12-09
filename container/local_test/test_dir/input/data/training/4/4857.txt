@@ -1,0 +1,9 @@
+I'd really wanted to use this on my Acer Netbook, so I could find a quiet place to compose stories using it.  My big computer is in a noisy part of the house.  It really  needs 2 gigs of memory to function well.  I installed it anyway, though the machine only has 1.5 gigs after the maximum upgrade.
+
+It works fine.  I have a Southern voice and there's an option to start off with a Southern recognition baseline.  The training took me about an hour all total, with an initial session that I did and saved some of the words it had missed.  One thing I like about the software is that it does let you save words that it has trouble with, so in the future it gets them right.  It 'learns.'
+
+Since I didn't have all the memory it wanted, it wouldn't let me use MS Office.  I have to use it in a little pad and then transfer it over to Office.  It's a bit of a bother but not ALL that big of a deal.  It might be in you had a hand issue though.  I don't have any lag or problems with it this way.  I bet it would work, if it would let me try it, but it didn't give me that option, it just informed me that it wouldn't be working with MS Office.  I'd rather have an easy option to override that and see for myself.
+
+One thing that might concern people that are worried about privacy is that it wants to go through your emails and documents - but it DOES give you the option.  This lets the software know more about your vocabulary and the way that you write normally.  There's also a request by the software to let you store these things online! They say it is to improve their software for future editions.
+
+ Think about that.  They say their servers are secure but everyone says that, huh?  Luckily, you CAN opt out.

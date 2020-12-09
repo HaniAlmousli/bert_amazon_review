@@ -1,0 +1,24 @@
+Roxio Creator NXT is a SUITE of tools for (1) creating/copying CDs/DVDs (2) editing Photos (3) editing Videos and (4) editing Music/Sound. I had high hopes that it would be the "one stop shop" for my CD/DVD creation, photo editing, video editing, and music editing needs. However, my experience with this suite is nothing short of disappointing.
+
+The only software I find useful in this suite is its CD/DVD creation tools -- but I already have Cyberlink Power2Go, which is much more intuitive to use. Plus Cyberlink supports Blu-ray copying; Roxio doesn't. The rest of the tools in this suite is really nothing to shout about. I'll provide a brief evaluation of each of the tools:
+
+(1) Creating/Copying CDs/DVDs
+Roxio began as a company that specialized in software for creating CDs and DVDs over a decade ago. I've used many versions of Roxio's optical disk burning software over the years and they've always worked reliably, so I expected the CD/DVD burning software in this suite to work flawlessly -- and It does. It even copies your files to a Blu-ray disk (you would need to have a Blu-ray burner of course). My only gripe is that Blu-ray copying is NOT supported. Roxio does offer support for Blu-ray video creation BUT you would have to BUY an additional PLUGIN to enable this feature. Come on Roxio. Really?? For the price, this software should have included full support for Blu-ray disks.
+
+The plugin can be purchased from the Roxio Website. Just do a Web search for Roxio Creator NXT 4 Blu-ray plugin and the link to purchase it should come right up.
+
+(2) Editing Photos
+I'm a heavy Photoshop and Lightroom user. But there are times I want a quick and easy way to edit my photos without having to go through the fuss of opening up a resource-intensive photo editing program like Photoshop or Lightroom. I had hoped Roxio's Photo Editor would fill this void. But it doesn't unfortunately. Roxio's Photo Editor only provides very basic tools like saturation adjustment, crop, rotate, flip, straighten, sharpness adjustment, exposure adjustment, red-eye reduction, and brightness and contrast adjustments. I have freeware programs (spyware-free I should add) like Faststone and Pixlr (Web-based) that provide these tools and MORE, like healing brush, levels and curves adjustments, and various filters. Roxio does provide "advanced tools" like wrinkle, dust, and scratch removal -- all of which do not work very well in practice. Roxio also has layer masks BUT you're limited to PREDEFINED shapes like circle, triangle, rectangle, etc., which makes it practically useless.
+
+(3) Editing Video
+The video editor is pretty basic. The timeline interface is okay -- nothing remarkable.  I did not like any of the transitions and overlays it comes with. I could not find a way to strip the sound from a clip. It has a Web video capture feature that's supposed to capture ANY video from your browser (YouTube for example) and save it to your disk. But this feature does not work. I followed the instructions to the tee but it simply doesn't do what it promises. I did a Web search to see if I had missed something and found that the consensus among longtime Roxio Creator NXT users seems to be that this feature has been broken since Roxio Creator NXT version 2.
+
+A feature that I DID get to work is screen recording, which records the activity on your computer screen and creates a video of it. The playback is very smooth but there is definitely a slight degradation in the audio quality.
+
+(4) Editing Sound
+Again, I'm not impressed. I much prefer to use the open source software Audacity. Roxio does have one audio capture feature that I was hopeful about but that turned out to be disappointing as well. The audio capture allows you to capture sound/music from any source (YouTube or Pandora for example) and save it to your disk (as a Wav, MP3, or Ogg file for example). However, the captured audio has a VERY noticeably lower fidelity than the source. The quality of the captured audio is poor regardless of the format (e.g wav, 192kbps MP3, Ogg, etc). I have ReplayMusic (paid) for capturing sound and this one faithfully captures the source with no perceivable degradation in audio quality.
+
+Additional Info that might be of interest: I'm using Windows 10, 16 GB RAM, Intel core i3,
+
+---
+If you're looking for a comprehensive all-in-one suite for managing, editing, or creating audio, video, and photos, you will be sorely disappointed with Roxio Creator NXT 4. The only thing it does well is creating/copying DVDs and CDs. And It doesn't fully support Blu-ray. Roxio Creator NXT 4 simply isn't worth the high price.

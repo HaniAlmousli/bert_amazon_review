@@ -1,0 +1,13 @@
+TurboTax Business 2010 has still not fixed bugs that have existed for several years.  In fact, I cannot tell that there is a single improvement over prior editions.  I think Intuit is milking this product for profit rather than investing in it.
+
+For example, for corporations, the Form 1120 defaults to assuming that someone owns 20% or more of the firm, forcing the listing of such people on a form G.  As in years past, you must switch to forms mode, uncheck the box (never offered in the interview) that says someone owns more than 20% of the firm, and then manually delete the G.
+
+The most infuriating thing about the 1120 is that as of yesterday, March 13, you could neither print nor e-file the return - which is due on March 15 (!) - because the TurboTax forms were out of date.  Yet, the iRS released the final 1120 forms on March 1.  How could it possibly take a vastly capitalized corporation like Intuit more than a day to make whatever minor adjustments were in the final forms?  TurboTax did update itself today, March 14, to allow for filing.  Infuriatingly last-minute nonsense.
+
+When e-filing the 1120 today, now that the forms are available, I chose ACH debit (as opposed to EFTPS) to pay the tax due.  On the confirmation screen, TurboTax confirmed that I selected EFTPS (not) with an edit button to change it - clicking the Edit button took me back to the screen showing ACH and the bank routing/account numbers/etc.  Just one of a dozen or more glitchy buggy things.
+
+A cosmetic bug, but one that is disconcerting, is a screen under Federal Review that just says "This is Heading Text / This is a Subheading"  (screenshot posted with product images above).  Clicking the Federal Review tab again gets the correct page, but, really.
+
+For trusts filing 1041, expenses allocated to income are still not allocated, by default, to interest and dividends (etc) by pro-ration, as is done by most tax preparers, not is there a question or checkbox in the interview to allow for that.  As in years past, all expenses are subtracted against interest, fully, first, then dividends/other income.  You have to switch to forms mode and find the checkbox to manually check to do the allocation as desired.  K-1 allocations are also not complete, with Foreign Tax credit not properly allocated to the beneficiary.
+
+These are just a few of the issues in this clunky, never-improved, Intuit cash-cow.  For folks who are not tax nerds, you should have any return that is prepared by this software reviewed by a tax professional.  Foolish me, I keep buying this each year thinking that it will improve.

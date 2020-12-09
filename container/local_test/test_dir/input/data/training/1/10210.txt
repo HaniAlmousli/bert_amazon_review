@@ -1,0 +1,13 @@
+This  review also appears under the 3-license package listing.
+
+I upgraded from the 2014 version to the 2015 release, trusting comments by Acronis representatives on this site that a longstanding problem, known as the "Operations in Progress bug," had finally been resolved. As a retired IT manager, I realize that fixes require time, and I am more patient than most.
+
+The "Operations in Progress" behavior prevents Windows users from properly shutting down their machines. While the Acronis site states that this is short-term, necessary behavior for its application to complete processing, in fact, it will lock the shutdown process indefinitely. For a full description of the problem, and the simple kinds of coding changes Acronis could have made to fix it, go to my review of the 2014 product at http://www.amazon.com/gp/customer-reviews/R1TT0JA4FRFOLM/ref=cm_cr_pr_viewpnt?ie=UTF8&ASIN=B00EFRMBA6#R1TT0JA4FRFOLM.
+
+The software behaved differently for a few months following the 2015 release's installation in November 2014, in that the "Operations in Progress" message usually timed out. But then, it abruptly changed back to the behavior so disliked in the 2014 release, always stopping the shutdown indefinitely. This tells me that not only has the problem not been fixed, but it certainly appears that Acronis altered the software without public notice a few months into this release. Any company that treats its customers with due respect will (a) listen to widespread concerns, and fix them; and (b) not apply updates without the customer's knowledge. However, Acronis projects an impression of corporate stubbornness and arrogance.
+
+For a company that announced a billion-dollar (with a "b") revenue goal in March 2014, there is no excuse. Staffing should not be an issue. And the fixes should take only a few man-hours of coding time (if that), provided the software was written intelligently in the first place. I suspect the staff who reported to me could complete them in less than an hour.
+
+The "Operations in Progress" problem continues to mess up Windows updates, many of which depend upon an orderly shutdown process that is not blocked by a third-party application like Acronis.
+
+I am researching reviews for other backup options. I am impatient to move away from Acronis's products and its disrespect of customers.

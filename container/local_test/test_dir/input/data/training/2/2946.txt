@@ -1,0 +1,9 @@
+If you have used previous versions of this software suite on your Mac before, you will probably notice a lot of differences with this one. Some for the good, some for the bad.
+
+Excel is the component most of us take issue with. Yes, you can make and open larger spreadsheets now, but in dropping the Visual Basic, our previous macros are worthless. It's still slow to open large spreadsheets as well.
+
+It does look a bit spiffier, but I thought Microsoft had learned their lesson with Vista that making things bright and shiny with nothing really under the hood turns more people off than on.
+
+At least you can run it on Intel Macs, and Word, Powerpoint and Entourage will get you where you need to be. Just be sure to have Word save in the good old .doc format, or you won't be able to share with older versions of Word, on PC's or Macs.
+
+If you never have used Office for Mac before, then you probably won't miss the features they dropped, and if you just do basic stuff, not too advanced on any of the components, you'll be ok.

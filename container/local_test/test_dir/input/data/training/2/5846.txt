@@ -1,0 +1,17 @@
+This is an awful product.
+
+When I needed it most, it failed me.
+
+It would not resize automatically the hard drive as the one that I put in to replace the one that busted, was larger.  It would not work.  Problem after problem after problem.
+
+The only way I could get a restore done was through windows.  And then... my machine would drop off of the domain.  Anyone who has a domain knows that when you "join" a domain, Windows resets your profiles... and it takes as much time to set everything back up as it would to just reinstall windows and everything else from scratch.
+
+Acronis support, though, didn't seem to understand this until 4 or 5 emails into the email request for support.
+
+You know, I really love the boot disk that Acronis makes.  I really love that it's easy to use.  But I hate that it's one issue after another and tech support is just not that great.  What I hate most though... is that this software failed me when I needed it most.
+
+It was eventually recommended I use Acronis Workstation... and so we gave that a shot too only because my workstation is technically connected to a domain (even though it's just my own server) but even that did not work well at all.
+
+I really gave Acronis a lot of grief and I do commend them... they maintained their customer service the entire time, over multiple months of trying to work things out.
+
+I would not touch Acronis 2012 with a 10 foot pole!  That is just my opinion though.

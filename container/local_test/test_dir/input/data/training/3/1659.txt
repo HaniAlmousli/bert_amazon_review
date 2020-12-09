@@ -1,0 +1,29 @@
+The good: McAfee Internet Security 2008 covers three PCs for about $50; includes backup and recovery; all of the tools integrate well.
+The bad: Telephone tech support still costs.  With all of its features and protection it will slow down you PCs a bit but that's the price you will have to pay for protection.
+The bottom line: McAfee Internet Security 2008 trounces Norton Internet Security 2008, offering a better designed product with more security tools.
+Specs: License qty: 3 users; License type: Complete package; Min Operating system: Microsoft Windows XP SP1
+
+Firewall:
+The McAfee firewall will keep intruders out and your personal information safe. It monitors your computer's ports and all data that enters or leaves. With one click, you can lock down the firewall, which blocks all network traffic between your computer and the Internet. It also stops remote connections from accessing your computer.
+Setting up custom firewall rules and changing the firewall configuration was difficult if you're not technical. I also had issues with the firewall not opening ports that we had specified within the custom rules.
+Antivirus:
+McAfee is one of the few companies that submitted their software to all three major testing labs, ICSA, Virus Bulletin (VB) and West Coast Labs (W.C.L.), and passed all three tests. The suite offers a variety of virus scanning options. You can scan files on demand, real-time or schedule your system scans.  With scanning real-time, doing a full system scan and scanning incoming/outgoing emails and instant message attachments. It will put some additional overhead on your system.
+
+Antispyware:
+The ISCA also gave their approval for the antispyware function of the McAfee Internet Security Suite. This software will detect spyware of all kinds including adware, keyloggers, Trojans, browser hijackers and more. The scanner did miss many tracking cookies as well as some pre-installed spyware toolbars.
+
+Other Security/Features:
+
+In addition to the main security functions listed above, McAfee will detect problems, filter spam and notify you of potential phishing schemes. Phishing is creating a fraudulent email or website that appears to be a legitimate company, like a bank, credit card company or government agency. The goal is to collect personal information. McAfee also has extensive parental control features that will filter web content by keyword, by using a blacklist or by image analysis. You are able to set up an account and customize web filters for each user.
+We used the "Maintain Computer" function to clean out old and unused files. You can shred the files for privacy purposes if you want. From this screen, you can also reconfigure your PC for optimum performance.
+McAfee's main user interface is well organized so you can quickly access and configure the firewall, antivirus and parental controls. You can also access reports and logs so you can see exactly what functions have taken place and what the results are.
+A large problem with McAfee's security suite is that it slowed down my system considerably while it was installed. At times we were able to type faster than Word could display the letters on screen because of the slowdown.
+
+Ease of Installation/Setup:
+We didn't have any problems while installing this software. The initial setup is simple and the software has default settings so you don't have to do any extensive configuring. McAfee integrates well with other programs like Internet Explorer and Microsoft Outlook.  Uninstalling the MacAfee Internet Security seemed to go well until we searched for things that it might have left behind. Many registry keys as well as several directories were still present after a forced reboot.
+
+Help/Support:
+McAfee provides tutorials, a user manual and FAQs. You can also contact customer support by phone, online chat and email.
+
+Summary:
+McAfee Internet Security Suite provides the security you need to safely navigate the web. It is a little bit anemic in some areas, and has the potential to slow your computer down while the real time scanner is functioning.

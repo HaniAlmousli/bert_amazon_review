@@ -1,0 +1,17 @@
+I've only been using Leopard for a couple days, but so far it's worked perfectly for me -- better, actually, than 10.4.10 was. Here's a short list of the features that I like:
+
+1. Quick View/Finder Icons -- all my documents, PDFs, pictures and Excel files show up as icon previews in the Finder. When I press the space bar, a large version pops up. Now I no longer have to open an application to read over a file quickly. It's also nice for photos
+
+2. Spotlight -- That's the quick find search box in the upper right corner of the screen. It's WAY, WAY, WAY faster than in the previous OS X and can do complex searches if you like. Plus, now when I type a math problem (for example "123-25") in the box, Spotlight shows the result (i.e. "123-25=98"). If I type in a word I don't know, the definition also appears with the other search results.
+
+3. Preview -- Anyone who's ever opened the regular version of Adobe Acrobat knows how dog slow this application is (plus waiting for the updater takes forever). When I open a PDF in a web browser, I have to wait like 10-20 seconds for Acrobat to load. No more. Preview can open PDFs, and now it has lots of controls that make it useable. I can highlight text, write comments, draw shapes on PDFs without opening Acrobat. Yeah!!!
+
+4. Mail -- This is Apple's email client, and it's finally good enough to replace Microsoft Entourage. It's integrated with iCal and Address Book, so everything is connected while still being easy to use. For example, Mail will find stuff that looks like an invitation to do something and offer to put it in your calendar if you hover over that part of the text. By the way, it's also very FAST, especially when showing fancy html messages.
+
+5. Speed -- Overall, this system is just speedier and eliminates a lot of minor inconveniences. By speedier, I don't mean that you really don't need to wait for things to happen. Photoshop opens a lot faster than before, and Safari is also faster.
+
+I noticed that some people are having problems. Of course, you can never predict other people's problems, but here's two tips that may help some people:
+
+1. After you first upgrade, Spotlight needs to create an index of your computer. This can take anywhere from 5 minutes to an hour, but the computer will be slow until it finishes. Don't worry, this only happens once.
+
+2. Make sure you have enough hard drive room on your computer. The operating system takes nearly 9 gigs of space. Keep in mind that you want at least 10 percent of the space free on your hard drive, otherwise it will slow down. Try deleting or backing up unused files (or buy a bigger hard drive).

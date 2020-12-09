@@ -1,0 +1,3 @@
+Installed about a year ago without any problem on Vista certified hardware.  It was running ok with one annoying problem - it was constantly loosing the video settings every time I reboot.  Then these wave of security patch start to roll in.  I only use the PC for watching blu-ray movies and after installing 100+ security patches, the system is so slow that I cannot finish 90 minutes movies without rebooting the operating system.  Microsoft eventually did fix the video resetting problem (one of those 100+ patch fixed it), but OS is pretty much useless for doing what it is design to do.
+
+Now I have to make a decision to add additional memory to satisfy this memory starving OS (I am currently running with 2 GB) or wipe it clean and install Windows XP.

@@ -1,0 +1,9 @@
+I upgraded from Quicken 2009 to 2010 and this one seems to be a little more stable when connecting to financial institutions, but it is still unable to keep balances in sync with banks and brokerage accounts. The user interface is still vast and inconsistent. Finding things is difficult with similar functions scattered in various locations.
+
+I've written financial management software for federal agencies and even I can't figure this thing out sometimes. For example it takes all of my checking expenses OK, but if I also tell it about my credit card, it adds those expenses too including paying my credit card bill from the checking account -- counting the credit card expenses twice. Maybe  there is a "right way" to do this, but how could you ever find it in such a massive program? This program is an example of taking complexity and automation to the point where it becomes unusable.
+
+I can manage my checking and credit cards with the online services of the bank and credit card company. I'm dumping Quicken for 2012 and tracking net worth on a spreadsheet.
+
+Edited to add:
+
+Another nasty appeared. After 2012, the feature to update from your financial institutions stops working. You can't just buy this software and use it; you have to upgrade it or a major feature stops working.

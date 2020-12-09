@@ -1,0 +1,13 @@
+I just finished my federal/state return on TurboTax and the experience motivates me to seek an alternate supplier for my next year's filing.
+
+To my surprise, this year's edition of TurboTax appears to be harder to use, more cumbersome, less trustworthy than the previous year's.
+
+- Entries that I had little difficulty filing last year - local income tax (yes, we have that) paid to the local tax collector but not recorded on the W2 - were buried in a maze of difficult to comprehend options hiding behind the cheerful, 'easy to use' interface.
+- Information, once entered, is sometimes hard to retrieve or readjust. The program creates dozens of worksheets and forms, most of them useless or unneeded and it's not easy to get to the source entry for some specific item of information. It's all in there, mind you, but so is the needle hiding in that proverbial haystack.
+- Attempts to revise or check information force a choice between plunging into the 'user-friendly' and largely redundant branch or the confusing maze of inter-connected forms, schedules and worksheets where it's difficult to impossible to anticipate the consequences of adjusting some specific figure to the return overall.
+- The program seems to be generating its own errors by creating worksheets on its own and then, when error-checking is run, finding that it doesn't have sufficient information to back... nothing. For example, it didn't know how much income did I generate by using my house as a home office, even though I never even HINTED that I did that.
+- The HELP engine that comes with the program is almost completely useless and its online branches are from 'inconsistent' to 'frustrating' to 'maddening'. For example. I was able to find some online discussions on how to enter my local income tax amount but I had to spend some precious time navigating through the HELP maze. In may case, I found another customer's advice but, it turns out, in most cases, you must first crate a UserID on the 'LiveCommunity'. And, of course, for ONLY $29.95 some 'live' adviser would be happily and cheerfully answer any basic question that you may have that the HELP facility should have included to begin with.
+
+I am lucky because my tax return is relatively simple but I can see how much more frustrating the experience could be for those whose tax return needs are more sophisticated than mine.
+
+I've been a TurboTax user for more years than I can remember but it is unlikely that I will be using TurboTax next year.

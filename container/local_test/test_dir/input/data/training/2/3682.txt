@@ -1,0 +1,12 @@
+When I got this software I was anxious to install it. I used to use Norton and hated the fact that upgrades were so painful and sometimes failed completely. I have Trend Micro on my computer now and if there is one thing it does well is RUN seamlessly in the background....Luckily I paused to take a second look at the back of the box. At first it was deceptive because this product was Antivirus PLUS AntiSpyware and that product didn't appear to be listed in the comparison on the box. Then I got it...the Antivirus column was one and the same with this product and it only protected again two things.
+
+PROS: It protects against Viruses and Spyware and prevents unauthorized changes to applications. Cheap price
+
+CONS: Here are the ones that concern me the most.
+
+It does not Block email and image spam.
+It does not stop malicious downloads from websites.
+It does not alert you to unsafe websites or halt their download.
+It does not stop webpages from hyjacking your settings so that the malicious site becomes your home page. This is perhaps the most annoying problem as it has happened to me with pop-ups.
+
+Since you are only as safe as your last update, the above can lead to problems with new and fast spreading virus infections. For $10 dollars more you can buy Trend Micro Internet Security and have these important protections. It doesn't make sense to buy this even at the cheap price.

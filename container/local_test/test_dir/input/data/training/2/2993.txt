@@ -1,0 +1,3 @@
+If Microsoft and Apple are going to force us to buy Word, can't they at least make the program work without being so damn buggy? Word's persistently bossy auto-formating and general kloodgy bugginess has been going on for years and years -- why is this still the case?? These people are making gazillions of dollars off this stuff, so why can't they get the basics right and stop driving customers batty?
+
+Also, this version has too many bells and whistles. If you just want a simple word processing program, the rest of Word's shiny goo-gaws can be really irritating. It should be much easier for users to turn off any unwanted features -- software engineers may be in love with their own designs, but that doesn't mean the average user will be, too.

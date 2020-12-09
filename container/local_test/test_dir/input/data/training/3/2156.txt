@@ -1,0 +1,13 @@
+It's not a one-star product.  It can't be.  The interoperability with Office 2003 and 2007 alone makes it higher than that.  After all, people who get Office 2008 are commonly those who have used the Windows version of Office and need to continue working with those files.  Say what you will about iWork, it's not perfect in that arena.  When dealing with school work and business assignments that call for these features, it's just not acceptable to deal with anything but the best, and in those arenas, Office reigns supreme.
+
+A lot of this is based on my personal experience.  It really boils down to four things.
+
+OFFICE 2008 IS EXTREMELY SLOW.  I don't even mean slightly laggy.  I mean SLOW.  TO the point you wonder if anyone did any QA on it before releasing it.  They're not even bloated apps either, not even Entourage, so it's boggling as to why the apps are as slow as they are.  Excel is by far the worst offender in the bunch.
+
+OFFICE 2008 IS EXTREMELY BUGGY.  I speak more to Word and Excel than Powerpoint or Entourage.  Excel is known to lock up after a fashion.  Word has frozen on me on more than one occasion, the latest being right at the closing stages of a book I'd written (obviously unacceptable).
+
+OFFICE 2008 IS EXTREMELY CONVOLUTED.  If you've used 2003, you know it's a matter of memorizing toolbar and menu positions.  If you've used 2007 you know it's getting familiar with the Ribbon, mostly.  2008, I don't know what they were thinking.  The Toolbox just takes all of the needed features and bulks them under a clunky structure that makes it difficult to get to the simplest of tasks.  I know they plan to fix this with 2011, and I certainly hope they take note of what they did with 2007 and 2010, because 2008 feels archaic even now.
+
+OFFICE 2008 IS EXTREMELY EXPENSIVE.  Given it doesn't include a full flavor of Outlook, and how clunky, buggy, and slow it really is, and given the fact that iWork is significantly lower, it's confusing to me why Microsoft feels the need to price this so high.
+
+IN summary, I recommend it for its interoperability, but ONLY if you need that.  If you're just trying to compile docs for school and your own files, choose iWork instead.  The only thing you lose is mail, but the built in Mail app is more than enough for the majority of applications.  Entourage is a decent mail application - especially for syncing with OWA - but it's no Outlook.

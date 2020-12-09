@@ -1,0 +1,9 @@
+That is a direct quote from the FTM knowledge base AnswerID 1403.
+
+Even more frustrating, printing 8.5 inch x 10 foot charts did work well using my desktop Epson Photo R800 printer with FTM 2011, but ceased working when I upgraded to FTM 2012. In FTM 2011, Page Setup in the Chart Options box correctly read the user defined page size settings entered via Windows and the usual Epson interface. FTM 2012 ignores those settings and defaults to 8-1/2 x 11 even when roll is specified as the printer source.
+
+So I'm uninstalling FTM 2012 and going back to FTM 2011.
+
+By the way, I upgraded mainly to get the new Print Box on chart feature. Let's just say its capabilities are modest compared to similar features in other software. You can specify font, outline box, etc. only once, so there can be no variety in text added to a chart.
+
+And FTM 2012 is definitely slower than FTM 2011 as many have noted.

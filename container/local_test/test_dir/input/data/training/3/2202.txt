@@ -1,0 +1,6 @@
+I own the "regular" version of Microsoft Office 2008 for Mac. (Feel free to track down my review of that.) So reviewing that again isn't going to happen here... except to say:
+If you have to have to open .docx, .xlsx., etcx versions of Office files that others might be creating, you need 2008.  In my opinion, that's the only real reason to upgrade to 2008 from the previous version.  It's become nearly counter-intuitive to navigate around in this latest version of Office.  I learned the tricks pretty quickly, but Microsoft has made some odd user-interface choices and the whole suite seems to be the victim of bloatware.
+
+Anyway, the "Special Media" portion of this software isn't all that special.  In fact, it's redundant. It doesn't appear (to me, anyway) to do anything that the free software on your Mac (like iPhoto and Quicktime) don't already cover.  I could see this addition as being very helpful to Windows users, but on a Mac... meh.  It really doesn't justify any price point increase.
+
+So, Office is fine, but odd to navigate.  Once you get used to it, it's pretty easy. But the Special Media part is an unnecessary addition.

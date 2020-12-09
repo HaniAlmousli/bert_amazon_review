@@ -1,0 +1,12 @@
+Update: I am much more fond of this than when I first tried it. It is definitely a geek tool, but I am, after all, a geek. I have an old copy of Windows 2000 running with SP 6 or so, no antiviral because I don't give it network access. It runs the Windows apps I need, like Microsoft Access. It can't handle the children's games unfortunately, maybe XP would allow a bit better results.
+---
+
+Download the demo version and try it out before you buy. This is not an application for the non-geek. If you're a geek (like me) it's not that hard to install, but the copious documentation is often incorrect. You're better off ignoring the documentation.
+
+It claims to support Win95, 98 etc. I tried Win98 release 2. Don't bother. Seriously. It's a disaster.
+
+XP works far better, but I think the current release has not been fully debugged for the newest Macs. I tried some older children's games -- the older they were the less they worked. They do work on an XP box.
+
+Batteries go fast when running this -- you're best off with a plug.
+
+Remember you need to budget for an XP license, and, if you allow network access, antiviral software.

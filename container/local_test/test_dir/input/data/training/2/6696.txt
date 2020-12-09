@@ -1,0 +1,11 @@
+In all fairness, Intuit has done a good job refining Quicken over the last decade. There is only so many functions you need in a personal finance software. So Intuit is now forcing the users to upgrade by shutting down online feature of the past versions, which I think it's a bad business practice. But I can live with that, if it provides an effortless upgrade. Unfortunately, it doesn't.
+
+Every upgrade is full of problems. The latest episode is upgrading from 2010 to 2013. It won't accept the file password after upgrade. I had to use Quicken password removal tool, by uploading my Quicken file to Intuit server; which has an upload speed of 50kb/sec and download speed is about 30KB/sec. Really Intuit, you can't afford broadband speed?
+
+After an hour of troubleshooting, I was able to open the file with Quicken password removal tool. And all seems to be there...fingers crossed.
+
+***WARNING***
+Quicken password removal tool only supports certain versions. A statement from its website:
+"The Password Removal Tool will only work with data file passwords used in currently supported versions of Quicken for Windows. So, what that means is it will not work on data files for Quicken for Mac (including Quicken Essentials), older versions of Quicken for Windows (Quicken 2008 and older), nor other passwords associated with Quicken such as transaction passwords and your password vault."
+
+Make sure you backup your file BEFORE installing 2013, otherwise you might never be able to open your file again.

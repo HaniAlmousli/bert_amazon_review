@@ -1,0 +1,11 @@
+I use video editing software for home video achieving and for sending videos of my kids to their grandparents who live far away... not exactly 'professional' use, however I do like a video editor with a good interface, solid set of features, and stability. Unfortunately, Pinnacle Studio 19 isn't that editor.
+
+First, as other reviewers have mentioned, you're required to install this program on your boot drive. I have multiple drives which I use for my main drive, app drive, games, etc. Forcing me to install on my boot drive is ridiculous and limiting. I contacted support and this was confirmed...
+
+I normally use CyberLink PowerDirector for my video editing, which, for the most part, has been fine for my needs. Pinnacle Studio's interface is very familiar coming from PowerDirector, so I was able to get editing pretty quickly. I immediately noticed that various features seemed more cumbersome to access. Outside of simply dragging and dropping video clips, it seems all other features require one or two extra clicks compared to PowerDirector, which I found slowed me down considerably.
+
+My biggest complaint would have to be the stability... on the very first project, I spent about 15 minutes putting a video together (about 12gb), saved it, then tried to render it only to have the program crash. I restarted my computer, opened Pinnacle Studio back up, reloaded my project, and again, once I tried rendering, it crashed. I was able to render it only after starting from scratch and doing the exact same thing...
+
+Since then, it's crashed quite a few times, to my frustration, since the crashes seem to corrupt the project I'm working on. I tried using the on my wife's laptop, with the same results.
+
+In the end, after nearly a month of trying to using Pinnacle Studio, I'm back with PowerDirector....

@@ -1,0 +1,13 @@
+You will be sorry.
+
+I downloaded the Windows 8 upgrade Thursday evening into Friday morning.
+Yes, the download took several hours on my 3Mbs DSL line. After the download, it took another 3 hours to install the Windows 8 Pro over my Vista Business OS.
+After that was done, I was faced with a very foreign user interface. There was no help offered to ease the transition. I finally figured out that the Windows key on my keyboard would present me with a desktop. No Start button, just a bunch of new Apps.
+The upgrade did not preserve any of my old apps, so I must reload Office, my scanning software, Adobe Reader and all my other apps.
+The new Internet Explorer won't let me use my old email system. Apparently there are some default browser settings that won't let me open the newer att.net mail, so I am using the old version.
+What's the deal with Windows mail? I tried registering, but it keeps telling me that I am already registered and must use some existing password that it apparently emails to my new Windows email account that I can't log into.
+
+The resemblance to Widows XP, or Vista is lost to me. This new Wibdows 8 more closely resembles Android, except I find Android easier to use. Maybe because my tablet has a touch screen and a voice command interface. I'm told Windows 8 is designed for a touch screen interface, but my PC does not have that. Actually, now that I think of it, I had fewer troubles adapting to Linux and Unix when I first strarted using them.
+
+I suppose I'll get used to it, but for now, I am using my older PC thst still has XP installed. Even though it is an older PC, I can get a lot more done, more quickly.
+I'll turn on my newer PC when I have more time to figure things out. For now, I'll stick with XP.

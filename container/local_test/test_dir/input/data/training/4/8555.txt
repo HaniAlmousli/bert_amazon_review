@@ -1,0 +1,30 @@
+DO YOU NEED TO FILE STATE TAX? Make sure you get a state version if you do, or federal only if you don't.
+
+This review is for TuboTax 2013 Deluxe for Federal Returns. Fortunately I live in Texas and there is no state income tax so I don't have to worry about the state portion.
+
+TurboTax has had its share of issues but I came back to it because it does seem to be the best there is, but I'm knocking off a star because of the history of issues I've had with the program in previous years (like it not calculating tax correctly until I deleted some assets and then re-entered them). However, I was a little shocked to read that it requires 515MB of HD space PLUS up to 1.5GB more if Microsoft .NET 4 if not installed (Mac is only 360MB). Wow! That could be over 2GB of HD to do taxes. How inefficient we have become, bat at least HD space is cheap nowadays.
+
+The system requirements specifically mention Windows XP, Vista, and Windows 7/8 but not Windows 8.1. When I installed it on my Windows 8.1 64-bit machine, installation (mid Jan 2014) seemed to go well without any problems. When it checked for updates, it found 4 updates and they all seemed to install properly... so no major install issues for me (unlike a few years ago).
+
+NOTE: Deluxe will do a Schedule C just fine, but it may not provide as much help as the Home & Business version. If you have been doing taxes yourself for awhile then you might not need to pay the extra money for the additional help.
+
+I will update this review as I continue to use the product.
+
+Pros:
+* Price includes federal E-File
+* Overall, probably the best tax program there is
+* Does not say it works on Windows XP 64-bit (but does with 32-bit XP with SP 3+) (anyone even use XP 64-bit anyway?)
+* Works on 32-bit and 64-bit versions of Vista and Windows 7/8/8.1
+* Deluxe version can do a Schedule C for the self-employed - but it doesn't provide as much guidance as the Home & Business edition
+* Claims that your return will be accurate, guaranteed* (with some fine print)
+
+Cons:
+* Not perfect (but how can US taxes ever be perfect)?
+* Have encountered bugs in previous years that caused me to have to delete and re-enter assets
+* Might take over 2GB of HD space on Windows according to the system requirements
+* I'm not happy with the reports I've read indicating saying that Intuit lobbies Congress to keep taxes overly complicated, presumably so they can make more money from sales of their tax software.
+
+WARNING ABOUT THE ONLINE VERSION (DOES NOT APPLY TO DESKTOP VERSION):
+
+* Intuit has removed the ability to do Schedule D and E in TurboTax Online Deluxe (you need Premier)
+* Intuit has removed the ability to do Schedule C and F in TurboTax Online Deluxe (you need Home & Business)

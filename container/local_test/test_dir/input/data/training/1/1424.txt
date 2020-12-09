@@ -1,0 +1,15 @@
+Twenty minutes ago, a senior engineer with advanced degrees and 18 years experience with Microsoft office came to me and asked, "How do you draw a line in Office 2007?"
+
+This seemed like a strange question, since I knew that this individual had been drawing lines in Office for a decade or more. I went to MIT, and have been using Office since before it was Office, starting with Word in 1986, so I was confident that between the two of us we'd figure it out.
+
+Wrong!
+
+The engineer wanted to draw a line between two objects. He did NOT want this line to snap to one of the connection points on these objects. In other words, he wanted a LINE, not a CONNECTOR in Office 2003 lingo. Connectors are fun little things for drawing org charts, but we wanted a plain old LINE.
+
+We tried every variety of line or arrow we could find. Every one snapped to the connection points. After 10 minutes (at our combined billing rate, more than the cost of Microsoft Office), we resorted to the documentation.
+
+We found the answer! The icon for LINE is not a LINE. It is a blobular shape with a right angle on the bottom and a curvy part on top, called a "Freeform". It turns out that all other line-shaped tools have been promoted to connectors, and Freeform is the only tool you can use to draw a line that is NOT a connector. This is a bit awkward, since a line has two ends, and a freeform has infinite inflection points, so you have to double click at the end of your freeform to indicate that you just want a simple two-point line.
+
+Wow!
+
+I am really not interested in becoming the tech support guy who has to retrain experienced, educated people that "When you want a line, choose the blobular tool called 'freeform' because that's what Bill Gates says you should do." I wonder what Microsoft could have accomplished with their development dollars if they had focused on real enhancements instead of changing lines to blobular freeform thingies. We're loyal Office users, but we won't be buying any new copies this time around. Maybe they'll get it right in Office 2010.

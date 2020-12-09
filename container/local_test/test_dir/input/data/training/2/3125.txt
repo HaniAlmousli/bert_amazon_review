@@ -1,0 +1,9 @@
+I've been a Norton user ever since the olden days of Apple: The Mac Performa was the first color computer I ever toyed with.  I had Norton 6 (I believe) and loved it.  It was small, simple, effective.  I used the full Norton software on later PCs and found them to be bloated and memory hogging.  Not worth the money I paid for them at all.
+
+Enter Norton 360.
+
+I do appreciate the more silent footprint of this new Norton, however, all they did was lessen the GUI's presence.  The bloat is still there, you just don't see it.  Take a simple virus scan for example: I have a dualcore Centrino laptop and just a virus scan brought the poor thing to its knees.  Unacceptable.  Also, the cleanup works TOO well, essentially making Firefox "forget" everything even when you tell it not to.
+
+The straw: the heuristic virus protection.  It blocks websites that are in no way dangers to your computer, and deletes software programs that are just updates or patches (not warez).  It assumes something must be dangerous just because it opens a port to function - guess what?  A lot of software might need to do that, including some of Microsoft's own.  It's no big deal.  IT doesn't even prompt you first, it just takes action.
+
+I don't recommend this.  If you need total protection look into McAfee instead.

@@ -1,0 +1,25 @@
+...especially if you have to pay the full retail price.
+
+Office 2013 does not offer enough improvements to take on the hassle of moving to the new version (which I deliberately did not call "upgrading"). If you are already using the Office 2010 suite, deliberate carefully about both the expense and the subsequent tweaking it will take to get you back to the customization you like.
+
+Two stars if this is an upgrade path from Office 2010; three stars if it's your initial Office installation.
+
+I installed Office 2013 Professional on an Dell XPS420 computer with a recently installed Windows 8 Professional OS, a dual-core 3 GHZ processor and 4 GB RAM (32-bit environment).
+
+At installation, I was promoted to first remove my existing Office 2010 suite. After doing so, installation of Office 2013 took approximately 10 minutes. Although cosmetic changes appear in the user interface (mostly in a "flattening" of controls on the toolbars), the overall presentation will be familiar to users of Office 2010.
+
+Hint: if you have many commands placed in your Office 2010 applications Quick Access Toolbars, export them before you uninstall. You can later import them into the 2013 programs. Why this couldn't be scripted into the 2013 install process (along with removal of the earlier version) is another question.
+
+Microsoft claims an array of new features in Office 2013. The biggest one that is readily apparent is that Microsoft would love for you to join them on the cloud via its online SkyDrive and Office 365 subscription services. Oh please. I already bought the productivity suite, and could have done without the additional marketing. Plus: every single time you look at the Office Ribbon, the big "Sign In" button will be visible on the right side. Bad idea, Office team: please don't add clutter to an already complicated user interface.
+
+Newly installed programs installed in a recently refreshed operating system should work flawlessly. The user experience while working with various Office suite data files (primarily Excel, Word, PowerPoint and Access for me) is basically the same as with 2013. Immediately after installation, every time I closed an application, Office offered a "...(application name) has stopped working" and the usual MS prompt to check for solutions or close the program. Of course it stopped: I just closed it. Online searches, including at Microsoft, have presented nearly a dozen options, most specifically focused on add-ins. I accepted the "search online for solutions" option during a Word shutdown. Apparently Office found one, and the remedy took place across all applications. However, this error was *NOT* part of the user experience in the Office 2010 suite that I uninstalled 10 minutes before the switch to 2013...and users shouldn't expect the latest version to contain more annoyances (which is what this is) than its predecessor. Very unsatisfactory.
+
+Office 2013 claims increased ease of handling graphics and editing .pdf documents. I've experimented with both, and in my opinion, the jury is still out.
+
+I am extremely lucky in being able to obtain this product under an academic license via my employer for fraction of what "civilian" users must play. For the deep discount I enjoyed, this behavior is an annoyance. If I had paid full price for this, "annoyed" would be far too mild a way to describe my reaction.
+
+This is a version suited only for users who insist on having the latest version of anything. If you want to continue to use your productivity applications in way you are accustomed to, I'd stick with 2010.
+
+If I were running a Windows 8 computer with a touch screen, I'd start to consider this worth advancing from Office 2010. Check with your employer, professional organizations, non-profit or educational institution you may be affiliated with; they may have volume licensing arrangements with Microsoft that can make this much more affordable.
+
+And, as always, you may be able to get the vast majority of your Office-like functions completed (including creating and editing Office file types) using the open-source --and *free*-- LibreOffice.

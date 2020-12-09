@@ -1,0 +1,29 @@
+I happen to like Microsoft as a company. I go back to the very beginnings of the "microcomputer" revolution and remember all too well the frustrations of dealing with monstrosities like CP/M, which most computer users today aren't familiar with and may be thankful that they are not.
+
+  Microsoft brought and then forced standardization on the industry and that is a good thing, a very good thing.
+
+  Microsoft's products, however, have ranged from the spectacularly and revolutionary great like Visual Basic to some real dogs. People tend to forget that Microsoft has not - and still does not - dominate every category of softwre.
+
+  Office has, by and large, been pretty good. There have been a couple of releases that were terrible.
+
+  Office 2000 and 2003, I thought, were excellent.
+
+  Office 2007 is, in my opinion, something of a dog.
+
+  Unfortunately, my business requires me to be intimately familiar with all the new releases of major products, so I don't have much of a choice except to use Office 2007 on a daily basis.
+
+  So far my experience of a few days has been largely negative.
+
+  I'm running it under Windows XP SP 2 on a 2.17 Ghz Core 2 Duo computer with 2 GB of fast RAM. Outlook 2007 loads like molasses in a very cold January. The search function in Outlook has been crippled. What used to be a simple search for the literal expression "[Chicago]" is now apparently impossible or I have simply been unable to find directions on how to accomplish. The search function is vastly faster and more flexible, but they seem to have dropped simple capabilities.
+
+  In Word, Excel and Access, the new ribbon tool bar is jarring departure from Office's former GUI. Common functions, such as Undo are no longer immediately apparent. Many common functions, in fact, have been relegated to right-click menus or elsewhere.
+
+  I have no complaints yet about the stability of the programs, but as I said, I've only been using them a few days.
+
+  On the whole, if I didn't have to have total familiarity with Office 2007, I'd strip it off my machine immediately and reinstall Office 2003. Maybe over time, I will come to view the appearance changes as helpful. Right now I don't. Perhaps over time I will stop noticing how slow the programs are in comparison to Office 2000 and 2003 versions. At the moment however, I could read a chapter in a book by the time Outlook opens.
+
+  Speaking of reading, Microsoft has once again changed the online Help format (which you can access if you find a terribly small button way on the right hand side of the window.) Help is less helpful than in previous versions mainly because it is too encompassing.
+
+  Overall I think Microsoft has taken not necessarily a step backwards with Office 2007, but rather a misstep. If you can avoid using Office 2007, I would suggest you do so and wait for the next release, which I suspect will go back to looking more like Office 2003.
+
+Jerry

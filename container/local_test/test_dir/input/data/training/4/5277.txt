@@ -1,0 +1,30 @@
+Office 2010 is a much needed upgrade and package simplification all at the same time. Overall, I'm very pleased with the new offering and some of the key upgrades that are now available; with one minor drawback. For positioning sake let me state first that I'm reviewing the product from a business users standpoint however, all of the key upgrades are advantageous to the home and student user as well.
+
+Overall Thoughts
+
+The Microsoft Office team did a great job of reconfiguring the Office 2010 menu/"ribbon" feature that was introduced with Office 2007. The new ribbon is easier to customize and reduces the need to flip back and forth due to key functions being buried in the ribbon.
+Power Point 2010
+
+For a very long time the one thing that has been missing is the ability to embed video into a slide. Well they finally did it! You can embed video into your presentation if you would like. The thing that makes it a five star feature is that Microsoft has added the ability to edit the embedded video inside of the power point slide with no additional software needed. It's not a professional class video editing software package but it will get the job done and it is intuitive to use.
+
+Another great feature of Power Point 2010 is the addition of a broadcast feature. You can now "broadcast" a presentation to people even if they do not have a copy of Office installed. All they need is a compatible web browser: Internet Explorer, Safari, or Firefox. This feature helps out tremendously with cross-platform compatibility issues.
+
+Excel 2010
+
+I use a lot of graphs in my job and the one thing I hated about Office 2007 was how difficult the ribbon system made making a chart with any customization, such as, layering two sets of data with two different vertical axis's. It was so difficult that it just flat stunk and made me long for Excel 2003. Excel 2010 makes that much easier, not perfect, but easier.
+
+The most significant improvement is the addition of "Spark" lines. These are small "micro" graphs that are contained in a single cell. Each line of data can have its own micrograph and executive summary, very nice feature.
+
+Outlook 2010
+
+The look and feel of Outlook 2010 is more modern and less cluttered than its Office 2007 counter part. The absolute best feature that was added to Outlook 2010 is the preview feature for appointment/meeting requests. The new feature embeds a slice of your calendar into any meeting request and allows you to scroll through your calendar on the requested day and time to see if you wish to accept. No more switch from view to view in order to determine your availability. This has been a huge time saver.
+
+OneNote
+
+Office 2010 now comes standard with OneNote. I have used this product since its initial beta testing and it has become a mainstay for collecting data from meetings and customer research. The must have software group that has been missing for a while.
+
+The one missing piece
+
+I've been using Microsoft's Business Contact Manager for a few years now and I was very disappointed to see that it was not part of the disk version of Office 2010 Pro. In fact, in talking with friends that still work in IT they can't even figure out how to download or get the application off of Microsoft's site. This is after Microsoft made such a big deal out of the new features and how "customizable" the application was for the 2010 release. BCM is a great way for companies or entrepreneurs to have CRM (Customer Relationship Management) tools without spending a fortune on one of the enterprise packages such as [...] or Siebel. It's a big miss for the Office team.
+
+For those that have been putting off upgrading because the value position from 2003 to 2007 was light; now is the time. You will get a much better product with 2010 when compared to Office 2003 or Office 2007.

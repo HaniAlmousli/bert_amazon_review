@@ -1,0 +1,7 @@
+After all these years, the trolls in Redmond still have not learned how to produce user-friendly software. There was no reason to make the changes to Office that they've made; it was simply a way to justify an unnecessary upgrade that has turned out to be a downgrade. Users with a moderate understanding of how Office operated will find themselves flummoxed when attempting to do things they had finally learned how to do in the old version.
+
+The much-vaunted ribbons are confusing and counter-intuitive. Microsoft addresses this problem by offering free self-paced trainng courses, apparently oblivious to the fact that time iS money, unless of course, it's Microsoft's time.
+
+At the very least, one expects backward compatibility, that is unless you're dealing with Mr. Bill's minions. I loaded Word files created with Office XP, only to find the Office 2007 converted them with serious defects, like inserting tabs in all paragraphs whenever you inserted one in a single paragraph. And, of course, if you delete a tab stop from one paragraph, you delete it from all of them.
+
+Useless.

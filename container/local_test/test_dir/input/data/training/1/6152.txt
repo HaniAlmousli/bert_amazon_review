@@ -1,0 +1,18 @@
+If you buy/sell stocks, TT Deluxe is "crippleware" when it comes to calculating capital gains - I want a refund!
+We own a small LLC, so each year we have to buy TT Business at nearly $100 and TT Deluxe @$60, which seems prohibitively expensive. We consider this parceling of the software for a two person LLC to be a rip-off.
+
+But, this year we discovered another rip-off, when we learned that TT Deluxe is "crippleware" when it comes to calculating capital gains from buying and selling stocks. Like a lot of folks, we have an Ameritrade brokerage account, so we can buy and sell a few stocks, which we did this year. Ameritrade likes their customers and provides a great piece of software called GainsKeeper, to calculate the cost basis of each stock transaction.
+
+Now, here's the rub: TT Deluxe is SUPPOSED TO import this data from your Ameritrade or other account. However, this feature does not work properly, ESPECIALLY if you bought a stock, say APPLE, in more than one lot. The import feature only pulls in the basics of the listing for each stock transaction, so you get to RE-ENTER all the data, from Ameritrade, FROM SCRATCH. WHAT A JOY!!!
+
+Meanwhile, the software displays a sales pitch dialog encouraging you to spend another $30 to immediately upgrade to TT PREMIERE!!
+
+What a ripoff! I can't believe how INTUIT is doing this to their customers! I would not have bought TT DELUXE if I knew (which I could not have known) that it would not import my stock purchases correctly. Worse, if you back up and EXPORT the data from Ameritrade in a TTF file, the software will IMPORT the file, but will not RECOGNIZE any of the stock transaction data, which indicates that INTUIT has CRIPPLED TT Deluxe intentionally.
+
+As a former software validation analyst, I have to warn all TT DELUXE consumers that CRIPPLING a piece of software to reap more profits is a HORRIBLE BUSINESS MODEL and a real ripoff to consumers.
+
+We ended up having to edit each and every single stock transaction, one-at-a-time, in order to complete our return. So, I went from being VERY SATISFIED with the software (as we did not find a lot of bugs this year so far, as has been the case in the past) to COMPLETELY DISSATISFIED.
+
+Way to go INTUIT SALES & MARKETING! Next Year, we won't need TT Business or TT Deluxe, as we will have a simpler return and we will be buying H& R Block software instead. We don't tolerate being ripped off by CRIPPLEWARE!
+
+I will also want a full refund for TT Deluxe, because I think this is a misleading and deceptive business practice!

@@ -1,0 +1,3 @@
+The Anime Studio packaging makes one think the product is geared toward children or beginners. As a beginner, I can testify that this is not the case. I'm a software engineer. When I write software and design GUIs (Graphical User Interfaces), every function must be immediately obvious to even the most casual observer or have context sensitive help or both. This software would NOT have made it to production where I work.
+
+I still have not figured much of this out. If I wanted to sit and go through long tutorials and read and study and try things for hours on end, then I could probably be productive with this. However, If you don't want to make a large time investment, this is not for you.

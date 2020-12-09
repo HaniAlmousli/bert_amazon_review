@@ -1,0 +1,7 @@
+Well phooey. I ordered this 2009 version, expecting it to surely work with my pre-release version of Microsoft Windows 7, but that turned out not to be possible. The installation disk did not recognize Windows 7 as a supported version. I then attempted to load the pre-release version available within Windows 7 itself, only to discover that version didn't fully work either, with the vendor's discussion board stating Windows 7 isn't officially supported yet.
+
+I then tried installing the program on a Windows XP machine, only to discover after installation that it is incompatible with the free version of Zone Labs' firewall I've carefully tuned over a period of years.
+
+It's nice such packages are now covering more security bases for users, but I'm a fan of using best-of-breed products, and only wanted this to be an anti-virus, not also a firewall or anti-spam product. At the very least, I'd like to be able to choose at install time which aspects of the program I wish to use.
+
+Next time I need to build an XP PC from scratch, I'll try this again, but for now, much as I looked forward to trying this product, it's shelfware.

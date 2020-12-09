@@ -1,0 +1,5 @@
+I had installed Bitdefender on both my PC and my Mom's PC.  After a few weeks it became clear that something was wrong.  On a reboot, or resume from hibernation, there were occasions when the bitdefender icon in the system tray would be grayed out.  Hovering over it only indicated that the process had failed to start and to reboot the system.  I went into to computer management to check the logs but Vista was not recording anything for this so i had pretty much nothing diagnostically useful.  Rather than struggle I just uninstalled it.  I also read some of the other reviews and I saw that at least two other people have reported this as an issue.  Maybe bitdefender will deal with this in an update.
+
+On the virus detection front this AV is very good.  I'm also a fan of the system scan for programs that need to be updated (even though a lot of other reviewers have complained about that).  This is critically important because many viruses gain access to systems via programs (Adobe Reader, VLC, Flash, Java, etc) that are out of date and need patches to be applied.
+
+I thought the plug-in (IE and Firefox) for scanning websites was primitive and not of much use.

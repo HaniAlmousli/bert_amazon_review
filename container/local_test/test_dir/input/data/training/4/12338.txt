@@ -1,0 +1,15 @@
+Windows Vista has to be one of the most reviled versions of Windows, right up there with Bob and Windows Me.
+
+The first release of Vista probably deserved some of the criticism, but so did those who tried to install it on older machines that just weren't up to the task. Microsoft probably set expectations a little too high, and as what happened with the first Star Wars prequel, the end product was never going to live up to the expectations.
+
+I did not have any experience with Vista until after the release of SP1, so I might have been spared some ugliness that came out of the gates. Since this review is for the SP1 version, I can safely say that you won't experience the pain and agony that was felt by some of those early adopters, IF you install it on decent hardware.
+
+Don't install a current operating system on hardware that was made years before the release of the operating system. Don't install an OS like Vista on a machine that is choked for RAM or hard drive space.
+
+The box says that it recommends a 1 GHz or faster processor, but I wouldn't install it on anything slower than a 3 GHz Pentium 4. It also says that 1GB of RAM is fine. I would say that's a minimum, and anyone doing multiple tasks should be looking at 2GB as a minimum. (You'll need to get the 64-bit version to use anything past 3GB)
+
+Lastly, don't install this OS on a system drive that has meager transfer rates. Something with a minimum average of 50MB/s will probably do just fine, but the faster the better, of course.
+
+You can't buy a Porsche, put no name tires on it, and fill it with 85 octane gas, and expect decent performance. Likewise, don't install a newer operating system on hardware that is years behind the OS in technology. XP is a great OS for older machines. It will run on a P3-450 with a half GB of RAM without any trouble (so long as you're not installing the latest and greatest software that expects more recent hardware).
+
+The bottom line is to use the right tool for the job. Vista SP1 on a decent machine that was new at the time Vista was released is not going to present issues. I wouldn't install it on a low-powered machine, because doing so is just asking for disappointment and frustration.

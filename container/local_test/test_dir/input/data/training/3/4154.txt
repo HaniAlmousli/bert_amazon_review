@@ -1,0 +1,13 @@
+I'm a bit confused as to all the comparisons of Pixelmator to the full version of Photoshop.  Just by looking at the price (hundreds and hundreds of dollars) you'll know the two programs aren't going to have the same features.  The real competition with Pixelmator is Photoshop Elements, a stripped down version of full Photoshop.
+
+As soon as I started the Pixelmator program I knew it wasn't going to be of use to me.  It lacks correction tools and the photo tweaks it does offer I can get in Elements.  I researched multiple pro and non-pro reviews of this program to figure out what I'm missing.  Pixelmator does indeed do things that Elements doesn't or lacks.  It has more filters, according to one source, and handles layers better according to another.  Neither of these are things I need - or at least I don't want them as they're presented in this program.  If you need them and you already have image correction software then perhaps Pixelmator will be a good buy.  It's certainly cheap enough.  While I'm giving this 3 stars, I do want to stress that - this is a bargain if the program gives you what you're looking for.  Essentials is also cheap, but it is about double the price.
+
+Each photographer is different, but here's what I find myself wanting and using:
+
+1. Image correction (red eye, etc.): I use Elements as it's usually the easiest.  I don't really need nor am I interested in the full program.
+
+2. Artistic manipulation:  Corel Painter Essentials.  When you really want to mess with a photo, change it completely, and you want to do it fast and cheap, I've found Corel to be the best choice.  (If you're not on a budget, there are better options.)  It's not very practical, however, as there is such a thing as overkill.
+
+3. Filters with a TRUE photographer's perspective:  Hands down, Tiffen DFX.  Tiffen makes filters for cameras.  For anyone who was shooting photos before digital they'll know the brand and they'll know the approach.  No changing your photo into mosaic tiles or other total manipulation, this program applies filters just like you would out in the field by putting them on your lens.  I don't know why Photoshop hasn't taken this approach which seems more designed by computer geeks than real photographers.  DFX is both a standalone app and a plugin for Photoshop and some other photo editing programs.
+
+It seems like Pixelmator's market is a very small niche.  I know I'm not in their market.  But you might be.  Definitely figure out what you want and need and then decide if it's for you.

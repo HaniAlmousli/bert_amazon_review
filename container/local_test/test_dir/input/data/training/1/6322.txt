@@ -1,0 +1,7 @@
+The Norton Internet Security for Mac states clearly right on the box that it "Includes Norton Internet Security 4 For Mac OS X 10.4.11-10.6.8. I have OS X 10.6.8 and the box says that it includes this software which will work with my version! Great! Only, not so great, because they lied. This software won't work with OS X 10.6.8 at all. The installer says that I didn't have "OS X 10.7 +" so I couldn't install any of the software! Then why do they even state that it contains Internet Security 4 which works with my OS X 10.6.8 if you need 10.7 to install it? This makes no sense to me.
+
+I tried to ask Norton Tech support a simple question and they refused to answer whether it was possible to install Internet Security 4 which requires the OS that I have. All Mustafa did was bombard me with questions on the Instant Messaging Window where I had just typed in what was going on and my question of whether it was even compatible. He refused to address that issue. Instead he asked where I got the program, did I install it, what's the keycode! The "guy" didn't even read what I wrote! I had already told him the software didn't allow me to install it!
+
+This is my last foray into Norton products. I have a few more to try out and review but after that, I will not even bother, because they stink.
+
+Update: Sometime after the above disaster, I received a phone call telling me that the product does have a program that would run on my Mac's OS. Unfortunately, I had already discarded the program in disgust.

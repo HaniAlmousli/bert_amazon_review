@@ -1,0 +1,25 @@
+Update September 2016 Corel ha dropped support for this . It WILL NOT INSTALL as of now .  Requires software that no longer exits as part of the installation process. Upgrading to Windows 10 Update generates error message about re-installing the software. This was a 5 star program . I've changed my rating to 1 star because I can't give it a 0 .
+
+ Pinnacle Studio 16 Ultimate is a full featured video editing suite. It's minimum specs are :
+  * Windows 8, Windows 7, Windows Vista (SP2) (64-bit OS recommended)
+  * Intel Core Duo 1.8 GHz, Core i3 or AMD Athlon 64 X2 3800+2.0 GHz or higher; Intel Core2 Duo 2.66 GHz, Intel Core i5 or i7 1.06 GHz or higher required for AVCHD*, stereoscopic 3D*, and Intel Quick Sync Video support
+  * 2 GB of RAM or higher, min. 4 GB for Windows 64-bit (strongly recommended for stereoscopic 3D)
+  * DirectX 9 (or higher) graphics device with Pixel Shader 3.0 support such as:
+  o NVIDIA GeForce 6 series or higher (CUDA enabled required for CUDA support)
+  o ATI X1000 series or higher
+  o Intel GMA X3000 series or higher
+  * 128 MB VGA VRAM; 256 MB or higher recommended, required for AVCHD*, stereoscopic 3D and CUDA
+  * Display resolution: 1024 x 600 or higher
+  * Windows-compatible sound card (multi-channel output required for surround preview**)
+  * 4.5 GB HDD space for installation
+  * DVD-ROM for installation
+  * Internet connection required for online activation and cloud or online services
+
+* Requires free product activation via the Internet
+
+That said don't expect speed or ease of use at these specifications. If you only meet the minimum requirements you might be better off trying&nbsp;<a data-hook="product-link-linked" class="a-link-normal" href="/VideoStudio-Pro-X5-Ultimate/dp/B007GFNPFY/ref=cm_cr_arp_d_rvw_txt?ie=UTF8">VideoStudio Pro X5 Ultimate</a>&nbsp;or&nbsp;<a data-hook="product-link-linked" class="a-link-normal" href="/Cyberlink-PowerDirector-11-Ultra/dp/B009716GWE/ref=cm_cr_arp_d_rvw_txt?ie=UTF8">Cyberlink PowerDirector 11 Ultra</a>. Of the two I'd recommend&nbsp;<a data-hook="product-link-linked" class="a-link-normal" href="/VideoStudio-Pro-X5-Ultimate/dp/B007GFNPFY/ref=cm_cr_arp_d_rvw_txt?ie=UTF8">VideoStudio Pro X5 Ultimate</a>&nbsp;as the more stable program. Another PC based alternative is&nbsp;<a data-hook="product-link-linked" class="a-link-normal" href="/Sony-Movie-Studio-Platinum-Suite-12/dp/B008MIMIY8/ref=cm_cr_arp_d_rvw_txt?ie=UTF8">Sony Movie Studio Platinum Suite 12</a>.
+ Regardless of the software you choose , keep in mind the more memory , larger the hard drive and your video card will determine performance.
+
+As with all video software there is a learning curve to each of these products and I didn't necessarily find one harder to learn than another.
+
+On the other hand if you need to replace your computer to run this software you might be better served by switching to a Mac and going the Final Cut route to editing.

@@ -1,0 +1,183 @@
+Update 3: 06-04-2010  My xp machine at work was having problems and before I did anything, I UN-installed
+PDF coverter pro 5. [as per Nuance instructions]
+
+I ran a repair on windows and everything was running fine again.
+
+I RE-installed pdf converter pro and crap!  When I went to activate, it said I had activated this copy of pdf converter pro 5 the maximum number of times....blah...blah....blah...
+
+Here we go again.
+
+Then it offered me a button to click on to BUY the program?????
+
+I went over to ebay and picked up NITRO PDF 6, on a charity auction for like $40 (w/free S&H)
+
+I tried a few pdf creations and a few pdf conversions with NITRO PDF 6 and so far it looks to work just as good, or better, than nuance's pdf product.
+
+I'll contact Nuance about the problem by fax (can't seem to reach them any other way without PAYING for assistance. If their !#@!$$#@^%  product wasn't such a PITA, no one would have to contact them).
+
+Needless to say, I downgraded this product's rating to a single star.
+
+Update 2: 04-04-2010. Reinstallation of XP operating system CRIPPLED by nuance trying to revalidate license CONSTANTLY during the reinstall of XP.
+
+My XP MCE 2005 operating system lost access to it's HAL.DLL file, requiring a reinstall of the OS.
+
+This PITA pdf converter lost it's ability to validate it's license and CONSTANTLY preempted my
+XP reinstall attempts.
+Two attempts at removing the pdf converter still did not stop it from trying to validate it's license.
+Even used JVPOWERTOOLS 2009, to remove EVERY registry entry for pdf converter AND nuance; still invaded my reinstall of XP.
+It got so crippling that I simply used a new hard drive, initialized it and did a clean install of XP; then transferred data/user files afterward.
+
+The validation process they use is a real PITA.
+
+I'd gladly pay (...) or even (...) to just get a USB security dongle , so they can get rid of that
+USELESS license verification process, built into their product.
+
+Nuisance (oops, nuance) has NO fallback for those times you must do a clean install on your OS,
+(AND are unable to access your OS in order to UNinstall their product "Prior to" the OS reinstall).
+
+------------------------------------------
+Update 11-01-2009  Be forewarned about activation & loss of product usage.
+
+------------------------------------------
+Attention !!!! WARNING !!!!
+
+Nuance does things a lot different with their product's installation & activation.
+A couple re-installs of your windows operating system due to windows issues; and/or a couple hardware upgrades like new video card or new hard drive, and PDF converter 5 could cease to function.
+
+My installation had this problem recently.
+At almost (...), you expect a program to function 24/7/365.
+When mine stopped working, it really interrupted my work production.
+
+So,
+If you have this software installed and want to upgrade/changed ANY internal PC hardware, you MUST uninstall the pdf converter pro 5 software
+"BEFORE you make ANY hardware changes" !!!
+
+NOTE: UNinstalling the program in effect "DE-activates" your pdf converter pro 5.
+Thus "releaseing" the license key and this doesn't count against your
+"5 license activations", before product QUITS working!
+
+I work with pc hardware and do pc repairs/upgrades 40+ hours a week.
+
+On my work PC, I have upgraded my mobo 3 times this year. My hard drive twice.
+(one of the perks of being the IT helpdesk guy) (last update was to an Intel i7 Core.)
+
+Recently I had lost windows booting abilities, so I installed a newer, larger, hard drive.
+So I installed the brand new hard drive and did a clean XP Pro installation.
+
+As soon as I loaded PDF Converter 5 Pro, it wanted to activate.
+
+Then it went online a few seconds and then an error window popped up saying I had exceeded the 5 activation allowances that Nuance allows.
+
+I emailed Nuance the details.
+I mentioned how I own 4 retail box copies of this s/w.
+
+After going back and forth with support, they re-activated my license number.
+
+But I could not make PDF files or about 2 days.
+
+*****How to prevent this from happening again?****
+
+If you are using PDF converter 5 on your PC, then ALWAYS, ALWAYS, ALWAYS
+do an UNinstall before changing ANY pc hardware.
+
+The activation process takes serial numbers from the internal components and uses them for activation calculations. (probably the serial # of mobo and/or hard drives).
+
+When a serial number changes due to new hardware, the s/w launches another activation attempt.
+Five activations are allowed before the s/w is disabled.
+
+You MUST UNistall the software before doing hardware upgrades, to keep the activation counter from decrementing one of the 5 activation allowances.
+
+This is the sort of thing that should be listed on a neon colored label, on the CD's paper sleeve or jewel case. And/or on the box it comes in.
+I told Nuance this, but I doubt they'll do anything about it.
+
+Unforunately, it is not like there are a lot of choices for the
+combination software of PDF maker with a PDF converters.
+
+You have:
+1. Nuance pdf conveter pro 5
+2. Nitro pdf.
+3. PDF tools [by solid documents]
+
+Adobe's acrobat pdf maker is pricey and has no conversion abilities. It only creates PDFss.
+
+Other single function s/w conveters are:
+
+Able2extract
+Docudesk
+PDF conveter elite
+
+Oh, and as far as product functionality, this software does okay.
+
+PDF to word conversions do okay with text; but sort of crappy with images.
+(But it seems to be this way with all pdf converter applications).
+
+------------------------------------------------------------
+I'm on day 1 of using this software.
+
+Creating a PDF is working fine.
+
+Converting an existing PDF to MS Word is working fine, so far.
+
+Converting an existing PDF with a table inside it; into MS excel is working OK, so far.
+
+Annoyances/problems:
+
+1. After installing software onto my PC, an annoying "activation" NAG screen keeps popping up everytime/anytime I launch the program and/or toggle between CREATING a PDF vs CONVERTING a PDF.
+Plus it decrements from 30 uses to none.
+
+So off I went to ACTIVATE this whiner!
+
+2. Activation:
+
+a. I just went online, registered,  and then activated it, but apparently it requires further  MANUAL intervention by the enduser (lazy programmers at Nuance).
+Because I am still getting the pop-up about not being activated.
+
+b. License key & activation problems:
+The setup/installation onto your PC works just fine with numbers and LOWER case letters . [For entering the alpha-numeric license code during installation of the software onto your PC].
+
+But as soon as you get to Nuance's website and try to activate/register,
+by using their "Paste-serial-number-from-clipboard" button, you get an error!
+These boneheads keep kicking back your serial number as INCORRECT until you make it ONLY numbers and only "UPPER case" letters.
+(why doesn't Nuance spend  a couple bucks on a 5 minute programming "FIX"  and let the stinking webpage AUTO correct a small issue like these)
+
+Next, trying to correct a serial number which was already "pasted" into the Nuance webform box [but contained lower-case letters]. Whenever I'd click my mouse next to a lower case letter and try to CHANGE it to an UPPERcase letter, a wretched pop-up window keeps WHINING about using "The PASTE button function only".
+For every 1 lower-case letter you try to change to upper-case; you have to answer 2 pop-up windows and make them go away.
+[Hey tightwads, fix your website's serial number entry form).
+[Go to Elance and hire a programmer for (...) an hour and FIX the problem with "YOUR" [NUANCE's] website]
+
+I tried to be  nice  and contact Nuisance (whoops, I mean Nuance) about their problem.
+(Starting off an end-user experience like this is NOT going to endear me to rush out and buy any more NUANCE products; especially  if they can't make the registration & activation process easier, functional and more streamlined)
+
+Here's a frustrating experience; Just try contacting these Tight-fisted pukes with a simple FYI, to tell them about a website issue of their's.
+
+These pukes  expect you to shell out (...) per incident  just to contact them.
+Sorry dudes, I'm not paying to fix YOUR website problems.
+
+SUMMARY:
+
+Pros - products looks/acts OK so far.
+  - cheaper than Adobe
+
+Cons - Just hope you NEVER need to contact NUANCE for ANYTHING.
+Or I should say; PLAN to NEVER contact them.
+[you can't even throw them a bone about how to improve their website without getting hit up for (...)]
+ -poor activation web setup
+ - Deceptive/hidden cost details about tech support :
+  - no mention on software box
+  - no mention inside box, nor in User manual
+
+I bought this program for myself.
+Once I test-drove it awhile, I was going to make recommendations to a large client about maybe switching to Nuance (from Adobe).
+I really have my doubts now; especially regarding their "nickel & dime-ing" attitude toward their end-users.
+
+09-24-2008 update:
+
+I tried converting a bunch of pdf's to word, so i can work with the data within the pdf's.
+
+The program goes fairly fast through the conversion process, until you reach 99%. Then it sits there for what seems like an eternity.
+
+My core-2-duo is not pegged for CPU usage (only 25-50%), but the hard disk light is almost solid.
+
+I found that this program really has a hard time with any text within a book's front cover. Mostly comes out as a mangled mess.
+The text pages are decent in the translation.
+But plan to run auto-format within Word, to get things cleaned up.

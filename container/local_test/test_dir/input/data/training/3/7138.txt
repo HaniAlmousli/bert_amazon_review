@@ -1,0 +1,17 @@
+IMPORTANT: This new version of Microsoft Office switched everything to the cloud.  So your files are stored and edited on Microsoft's internet servers.  Because cloud is so new and every week we hear about major software companies (recently Adobe) getting hacked into and because of the NSA spying problems (with Google, Facebook and others giving the gov't private information), I am very cautious about which files I open with any Microsoft products.  Unfortunately this limits my use of many of the programs.  I keep my financial records, spreadsheets, email, and personal information saved on my computer only and accessed with Open Office.
+
+OTHER OPTIONS: Open Office is the free equivalent to Microsoft Office and performs just as good in my opinion.  If you haven't yet tried Open Office and just need basic word processing, spreadsheet and slide program, it is perfect!  For email checking program, I recommend Thunderbird - Mozilla's software (the company that makes FireFox).
+
+So why did I buy Microsoft Office then?  Because I am sharing files with others and using templates that only work on Microsoft Office software.  If I didn't have this requirement, then I would still be 100% Open Office.
+
+If you are thinking of upgrading from an older version of Microsoft Office, know that this new version uses a rather odd menu system.  The age-old (and very good) menu system is gone.  Now we have big button, icons and more difficulty navigating.  No more drop down menus.  No blocks of icons that we can shuffle through.
+
+All-in-all, this is just okay.
+
+1)The software is reliable.  I've never had a crashed program - which happens about once in fifty uses with Open Office.
+
+2) Retrieving files from the cloud greatly extends file loading times and saving times.  Shutting down the Microsoft software requires you to wait while all the files are checked for duplication correctness (a copy is saved on the cloud and on your personal computer).
+
+3) The new menu system takes more time to learn and use.  I don't consider it faster or more intuitive.  I like older menus better.  But Windows is entering a new era of visual design, so the Microsoft Office software has been designed to match it.
+
+3 stars because it's not great, but different.  Nothing new has been added except templates and the cloud file storage.  Because I don't like the requirement to use cloud I deduct some stars.  It limits what files I'm willing to open (no important personal information or financial records).

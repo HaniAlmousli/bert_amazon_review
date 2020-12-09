@@ -1,0 +1,13 @@
+I believe that Apple has made a serious mistake eliminating features from Imovie 08.  I was planning to switch to a Mac in November after OSX 10.5 was released.  I planned to switch for two reasons:
+
+1.  Clean design - eliminate a lot of cables.
+
+2.  Imovie - I currently do quite a bit of video editing for my church on my Dell 4600 using Pinnacle Studio 9.35.  Pinnacle Studio's interface essentially is a knock off of the old imovie 6.  Very easy to use.  However, Pinnacle is buggy and unreliable!
+
+Imovie 6 is about 80% as powerful as Pinnacle Studio. Unfortunately, I wrongly assumed that the next edition of Imovie would be more powerful than Imovie 6.  Therefore, I have been waiting for over six months for the new Imovie to be released before I purchased a new Imac extreme edition.  Now I see that one of the major reasons for purchasing a new Imac has been removed.
+
+Final Cut Express to me is a difficult and frustrating product to use.  (No automatic segmentation of imported video clips, no storyboard mode.)  If I am stuck with Final Cut Express I might as well keep my PC and buy Sony Vegas.  (It does not have a storyboard mode but at least it does segment video clips).
+
+I sincerely hope that Apple reconsiders Imovie 08 and releases a true competitor to Pinnacle Studio or Sony Vegas Movie Studio Platinum.  As of right now the PC has the lead in mid level video editors when it comes to ease of use.  This should not be!
+
+I don't think that Apple understands what a selling point Imovie was.  I have had several clients buy Macs in the last year and almost all of them wanted to play with Imovie.  These clients are not sophisticated users, yet they figured out Imovie in a matter of minutes and have been producing nice movies now for several months.  They have been eagerly awaiting the new Imovie because they were looking for more features.  Sadly they will be disappointed.  Some may be forced to run Pinnacle  Studio within bootcamp.  Not exactly what I or they had in mind!

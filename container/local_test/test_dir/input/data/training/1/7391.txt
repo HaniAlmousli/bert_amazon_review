@@ -1,0 +1,31 @@
+Horrible, and I've only had it for 24 hours.
+
+Summary:
+
+Kaspersky "total" allowed vicious malware from Filezilla, an FTP program that now contains malware which prevents you from using Google!  I spent over an hour online with 3 different support people, and the last one said it would take 24-48 hours to fix it!  Internet research shows this problem has been around for 3 months
+
+Details:
+
+I was setting up a brand new machine from Dell.
+
+In the first day, when I installed FileZilla, from FileZillas site, it puts this evil malware called Vosteran on your machine that takes over as a search engine.  Even if you go into Chrome to remove it, it adds itself back in.  Vosteran is evil, and FIlezilla sold out in Sept of 2014, as Wikipedia shows.
+
+Simple problem, and 3 months old, but Kaspersky didn't stop it.
+
+Even after creating an account at Kaspersky, you cant make comments on their web page (find out later you needed to verify by email, but they don't tell you that up front).
+
+Called Kaspersky, and the woman spoke softly and couldn't understand me due to her accent, so I asked to speak to someone else. She wouldnt let me speak to someone else!
+
+She couldn't fix the problem, and said shed send me an email about how to fix the problem, because for some reason, they don't put the solution online.  Of course, they also allowed the malware onto my machine.
+
+The next person told me that there would be an additional charge if their technical support had to solve the problem (that they originally caused because their Total security didn't stop the malware).  Amazing.
+
+The email didn't arrive, and she hung up on me.
+
+The next guy didn't speak English well either, and said he sent me an email.  By this point, Id gotten about 8 emails from Kaspersky, from their forums that I tried to sign up for which were sending verification emails, which they never said they were sending, which was the reason that they didn't let me make comments, and finally, one from the previous woman, which came about 15 minutes late).
+
+The 2nd guy escalates to a 3rd woman, who says I have to run a program, send them a log file, and then wait 24-48 hours to get a response.
+
+Just got an email  THEY CLOSED MY CASE, and its still not solved.
+
+Total time wasted SO FAR trying to get rid of malware Kaspersky should have prevented in the first place: THREE HOURS

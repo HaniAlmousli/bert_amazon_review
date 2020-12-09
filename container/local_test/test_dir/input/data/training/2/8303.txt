@@ -1,0 +1,9 @@
+I switched to Norton after a decade + with Trend Micro, and I'm not really happy with the switch.
+
+It is, of course, difficult to tell how well any security program is working without intentionally visiting infected sites, which I'm not about to do.  So I'm operating on the assumption that Norton is detecting viruses and spyware as well as Trend, though I have no way of being sure.
+
+My problem with Norton is that it makes everything else run very slowly.  Outlook, in particular, takes forever to open and programs frequently hang.  I have an older PC desktop running Windows 7, but it handles most software without noticeable delay -- or at least, it used to.
+
+Norton also lets a surprising number of pop-ups get through, which Trend never did.  I never realized how many of these Trend actually caught, until it was gone.
+
+All in all, unless someone running tests on Norton verifies that it does a much better job than other programs at catching the nasties, I can't recommend it.

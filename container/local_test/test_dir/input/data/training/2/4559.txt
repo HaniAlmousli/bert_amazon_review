@@ -1,0 +1,7 @@
+Unfortunately, the choice of using Quickbooks is probably not up to you. Most companies are already using it or the people they have are used to it. Or even worse - the accountant that you are using requires you to submit the info in a QB file.
+
+BUT - if this is not the case and you are a small biz that is just starting or is able to switch around - then I highly suggest that you look other places to deal with accounting (like Yodlee). The problem is that Intuit has pretty much garnered a strangle hold on the market and they are acting pretty monopolistic. They require you to upgrade every two years and often times the product is not very good. (See the 2009 version).
+
+There are free tools available for a period of time if you are a small business (Like Microsoft Office Accounting Express 2009) << [...]>> However it looks like MS may not be in the biz of acctg software for much longer. The good news is that it is free and will not fall apart like quickbooks after 2 years.&nbsp;<a data-hook="product-link-linked" class="a-link-normal" href="/Microsoft-Office-Accounting-Professional-2009/dp/B001FOPUZK/ref=cm_cr_arp_d_rvw_txt?ie=UTF8">Microsoft Office Accounting Professional 2009</a>
+
+Anyway - I would look at open source software, older Microsoft (free)products or even online resources from your bank or other financial institution before going down the path of no choice with Quickbooks. I can only see their product deteriorating even faster in the near future. By that time it will cost a whole lot more to switch to something else .....

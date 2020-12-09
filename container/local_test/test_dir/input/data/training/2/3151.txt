@@ -1,0 +1,5 @@
+This `upgrade' will not install on a `clean' hard drive, nor will it `upgrade' XP Pro. There is a work around, but it involves duplicate installs and other technical `workarounds' so if you are not technically savvy, don't get this `upgrade'.
+
+If you do want to consider this `upgrade' be aware that Windows Vista Home Premium does not include FAX capability and needs the Office 2007 suite along with Outlook 2007 (which does not support animated gif's, among other things) for most eMail.
+
+I would not consider Windows Vista Home Premium an `upgrade' as it requires more system memory, is a step backward in features, and more cumbersome to use.

@@ -1,0 +1,1 @@
+WinZip 18 software is excellent for archiving and compressing files. It's still the best around for compressing large files (and the best one to use for zip files). If I was simply needed something to open already zipped files; however, I still prefer open source software like 7-zip for opening already archived files, which I personally find easier to use.

@@ -1,0 +1,50 @@
+Here comes Windows 7, nearly three years after Windows Vista and eight years after Windows XP.  By most accounts, Windows 7 is what Vista should have been.  Do we finally have a worthy successor to XP?
+
+PROS:
+- Fast startup and performance
+- Stable
+- Nice aesthetic and functional changes to the desktop
+- Improved networking, power management & security
+- 32-bit & 64-bit versions included
+- Windows Media Center
+- Windows XP Mode (Professional & Ultimate only)
+
+CONS:
+- User Account Control still annoying
+- Upgrade can be challenging
+- Expensive
+
+There are only two Microsoft operating systems I've personally skipped since DOS 6.x-- Windows ME and Windows Vista.  Windows ME was so terrible that PC World coined it the "Mistake Edition."  Vista, when initially released, was considered to be bloated, relying on higher hardware requirements than XP, while being outperformed by XP on identical hardware.  With Microsoft fast-tracking Windows 7, I decided to skip Vista altogether and upgrade to 7.  This review briefly touches upon some of the key features and enhancements of Microsoft's latest OS.
+
+PERFORMANCE & STABILITY
+One of the welcome enhancements Microsoft made was start-up time.  The shutdown time has been improved as well.  Also, in my non-benchmarked experience, Windows 7 has been at least as fast as XP if not faster.  The kernel changes and ability to run the 64-bit version probably has a lot to do with that.  Most benchmarks from around the Internet seem to support my observations.
+
+64-BIT
+I am elated to finally upgrade to a 64-bit operating system in order to take advantage of more memory support and modern processors.  I have Intel Core 2 Duo processors in both my systems with 4GB of physical RAM but XP only allowed 3.25GB for system use.
+
+DESKTOP
+At first login, you'll notice the changes to the taskbar.  The taskbar is no longer just a place to store quick launch icons and view open windows.  It now provides functionality in the form of Jump Lists, which allow you to select your most frequently opened files or links from the apps you have "pinned" on the taskbar.  The clock and calendar are improved and the Show Desktop icon is now integrated in the far right corner.  Other desktop enhancements include Aero Peek, Aero Shake, Snap, new themes and wallpapers.  You also get gadget support.  All of these features combine to create a much improved and enjoyable desktop experience.
+
+LIBRARIES
+Windows 7 introduces a new feature called libraries.  Previously, your system had shortcuts to My Documents, My Music, My Pictures, etc. which had files residing in only those specific folders.  Files can now reside anywhere on your system and be organized inside libraries.  It's similar to how many music and photo applications organize files.
+
+NETWORKING
+Even as good as XP was, networking was cumbersome.  Windows 7 makes connecting two or more Windows 7 systems together easy, using HomeGroup.  This enables easy sharing of files and devices.  One downside is that HomeGroup is only supported between Windows 7 systems.  File transfer performance between computers has been vastly improved and connecting to a wireless network has never been easier on a Windows machine.
+
+SECURITY
+Security in Windows 7 is good and comes with Windows Firewall and Defender. Still, you'll probably want to invest in a more comprehensive Internet security suite, like&nbsp;<a data-hook="product-link-linked" class="a-link-normal" href="/Norton-Internet-Security-2010/dp/B002L7BR20/ref=cm_cr_arp_d_rvw_txt?ie=UTF8">Norton Internet Security 2010</a>&nbsp;or&nbsp;<a data-hook="product-link-linked" class="a-link-normal" href="/Kaspersky-Internet-Security/dp/B002I0HJRM/ref=cm_cr_arp_d_rvw_txt?ie=UTF8">Kaspersky Internet Security</a>. User Account Control (UAC) has been tweaked in order to give user accounts more flexibility in controlling their own security as well as providing more detailed information so the user can make better decisions about whether to allow certain actions. Coming from XP however, it is still annoying and I choose to turn it off. Also, in Windows 7 Ultimate, you can encrypt entire hard drives as well as external portable storage devices, like USB thumb drives. Though this is a welcome integrated feature, much of the functionality can be found in a popular open-source program called TrueCrypt. If you want encryption but not multi-language support, you could just get Windows 7 Home Premium and use TrueCrypt.
+
+POWER MANAGEMENT
+Power management has been improved overall and you should be able to squeeze more battery life out of your laptop, even when using your DVD drive.  Sleep and resume has also been improved.  XP wasn't always consistent when entering or resuming from sleep mode, but Windows 7 has been perfect.
+
+WINDOWS MEDIA CENTER
+I've only briefly played around with WMC but it looks promising.  It has some fun options for media, especially when you're connected to the Internet.  It may even be an adequate replacement for component DVR's should you choose to use it as the centerpiece to your entertainment center.  The biggest advantage for me is that Windows 7 now includes a DVD decoder.  This means that I can now watch DVD's natively.  WMC is available in all Windows 7 editions except Starter.
+
+WINDOWS XP MODE
+For applications that ran in XP, but won't on 7, there is now XP Mode.  It isn't perfect and your system has to have virtualization support and turned on.  Go to your system BIOS to check.  If supported, then install Windows Virtual PC and Windows XP Mode.  Check your hardware if you intend to use XP Mode.  XP Mode is only available in&nbsp;<a data-hook="product-link-linked" class="a-link-normal" href="/Windows-7-Professional/dp/B002DHLVII/ref=cm_cr_arp_d_rvw_txt?ie=UTF8">Windows 7 Professional</a>&nbsp;and&nbsp;<a data-hook="product-link-linked" class="a-link-normal" href="/Windows-7-Ultimate/dp/B002DHGMVY/ref=cm_cr_arp_d_rvw_txt?ie=UTF8">Windows 7 Ultimate</a>&nbsp;editions.
+
+RECOMMENDATIONS
+If you're an XP holdout, like I was, I recommend upgrading. Vista SP2 users may have less reason to upgrade but might want to just for the changes to the taskbar and the UAC improvements. For users who don't need to use their computers in a corporate environment, then Windows 7 Home Premium edition is a good choice. I'm guessing most power users will choose Professional, which adds XP Mode and Domain Join. Ultimate also adds drive encryption and multi-language support. I suggest a clean install for best results. If you're a Mac OS X user, there is probably nothing in Windows 7 compelling enough for you to consider switching.
+
+SUMMARY
+Windows 7 is the premium Microsoft OS that Windows users have been waiting for.  It's fast, secure, stable, visually appealing and fun to use.  Windows 7 will make your old system feel fresh and new again.  New system owners with Windows 7 pre-loaded can feel confident that they're getting the best Windows OS ever produced.

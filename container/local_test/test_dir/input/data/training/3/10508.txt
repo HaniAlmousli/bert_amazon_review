@@ -1,0 +1,13 @@
+I was able to use this software to successfully prepare some business tax filings. I felt it was important to explain the ins and outs of this software.
+
+1. I don't think it's the greatest idea to use this software to e-file. When you purchase this software, you have to agree to their Privacy Policy before you can use it. E-filing causes the return to be delivered to IRS through H&R Block's servers, and H&R Block has the right to use your data, to include financial and healthcare information, and more. I'm sure this is the legalese that H&R's lawyers placed in order to protect the company, but still it's pretty chilling to read that privacy policy.
+
+2. I don't think it's a good idea to populate one year's return with info from prior year's return, for the reason cited in number one above.
+
+3. You'll end up printing more schedules than needed, if your experience is like mine, so you have to see the IRS instructions to know how to assemble your return. H&R does a good job including what is needed, and it may include more than needed.
+
+4. The error messages at the end of the return can be both helpful and confusing. Some errors are just informational, not actual errors. Overrides are listed with errors, and it seems this is a way for H&R to make itself not liable for any issues that may arise. That makes sense, although I think the user would have a better experience if instead of color coating errors, the program listed real errors from informational points.
+
+5. I found that one has to depend on the IRS instructions, and I stopped trying to use H&R's built-in help menu, as that last one really wasn't helpful to me.
+
+Conclusion: There aren't many vendors to choose from at the small-time retail user level. TurboTax had a big issue this year; hopefully that will be resolved next year.

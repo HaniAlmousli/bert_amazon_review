@@ -1,0 +1,3 @@
+Mac version is a shadow of the PC iteration.  The "One Step Update" basically doesn;t exist since the Mac version requires a more advanced sync system on he bank side than the PC version.  This is NOT worth the Amazon price in the least.  If it ws 20-30 less, maybe.  For now, stick with Boot Camp or a separate PC and run that version.
+
+PS The Mac and PC versions are incompatible, so even the migration is a royal pain...

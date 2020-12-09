@@ -1,0 +1,36 @@
+Another update 1/2/16:  I downloaded and installed an update to this software, thinking maybe they had worked out the bugs  I went to create a video off of eight HD files that we shot on a recent vacation trip, intending to burn it onto a Blue-ray disk.  After about three hours of rendering, once again, the software became unresponsive and froze up.  My one-star review stands....avoid this one, unless you want to spend your money on nothing but frustration.
+
+After writing the review below, I tried two things.  First, I tried to go back and produce the same video via the Easy Editor option that I had tried the first time to no avail.  Once again, the program started rendering the file and it took hours...and it finally froze my computer...so it failed for me twice.
+
+Second, I tried to play the disk that I had finally produced as mentioned below, and my DVD player simply stated "disk not recognized."  So, even the DVD I did finally manage to create is unplayable.
+
+I really can't recommend this software....I suggest you try one of the Corel products instead.  I seriously question whether or not Cyberlink runs beta tests on products like this prior to releasing them to the market.  This ended up being nothing but a time wasting, frustrating experience for me.
+
+Original review here:
+Let me say first of all that I am not a professional video producer by any means.  Im just a dad who likes to catch home movies of family vacations, birthdays, graduations, etc. on video and then transfer them over to a disk, either through Blue-ray or through AVCHD formats.  I like to put a snazzy title at the beginning, put some subtitles in along the way that explains where we were and when, and chop out those moments when I forgot to turn off the camcorder and we get to see what footwear everyone was wearing that day.
+
+The best software I have found so far has been Corel VideoStudio Pro X7.  It allows me to do all of the above very easily.
+
+I took about 90 minutes of HD video that I have on an SD card and gave this PowerDirector 14 software from Cyberlink a shot.  It proved to be fairly frustrating for me, far more so that what I have experienced with the Corel software.
+
+When you open the software for the first time, you have to put in your key code, which I found odd because this is usually requested when you load the software onto your computer, not when you first open it.  Anyway, once that was done, a screen come up that gives you five choices: 1) Full Feature Editor, 2) Easy Editor, 3) Express Project, 4) Theme Designer, and 5) Slide Show Creator.  The second and third choices are supposedly easier to navigate...created for novices like me, allowing you to progress upward at your own pace to do more things, and arguably more complicated things, with your video production.
+
+I chose Easy Editor.  First I had to load my files, and I did this by either importing a file or a folder, which was fairly straight forward, and took a few minutes because I had around 280 HD files.  It would pop up occasionally telling me that an error had occurred, which was actually images it was trying to load that I had embedded into my video files (my camcorder automatically takes photos when it sees a smiling face).
+
+It then moves to a Style section that gives you a choice, albeit rather limited, of title frames to put on your video.  After this, you go to an Adjustment section where you can add music, and then you click on a Preview section where you get Magic Style is analyzing your movieplease wait.
+
+This is where things fell apart for me.  I waited.and waited.and waitedand after several hours the little bar that indicates its progress got to about 59%, and then the software became unresponsive.  By this time it was 10:00 at night (and I had started the process that afternoon), so I finally just shut the project down and called it a day.
+
+Not one to give up, the next day I tried Express Project, and struggled for a while to figure out how to capture the files from my SD card.  I finally ended up dragging the files to the timeline.  This time the choices for the title frame were even sparser for some reason, but I picked one and off I went.  The entire process this time took me about two hours.
+
+At the end, when you are about to burn to disk, you have a myriad of choices for file sizes and formats for the burnjust make sure you have the right media to accommodate this.  At first I tried to use a DVD+R DL disk, but no matter what format I selected, the disk was too small for the size of the project.  I finally ended up burning a Blue-ray disk.
+
+Its also worth noting that I have a fairly powerful PCwith an Intel Core i7 processor and 12GB of RAM.  I suggest you make sure you have some fairly serious horsepower for this software if you elect to purchase it.  For HD editing, they recommend 6GB of memory for a 64 bit OS (which I have) and for 4K editing.
+
+Although my first attempt to use this software was met with frustration, I am sure things will improve as I use it more and I learn its unique features.  It has MANY great capabilities, including editing and producing 4K video, which is the main reason I wanted it.  I have a 4K television, and plan to get a 4K camcorder soon.
+
+However, to be quite honest here, if you are just a family video guy like me and don't really need all the whistles and bells, I suggest you go with something a bit more basic, like the VideoStudio Pro X7 I mentioned early.
+
+But, if you think you might want to get into the video production world a bit heavier and have software that is future proofed to at least some degree, this option from CyberLink is definitely a great choice.  Just be prepared to put some time in to learn all of its features.they are substantial.  I plan to stick with it and try to learn as many as I can, time permitting.  In the time it has taken me to render on DVD with PowerDirector, I could have produced three or four with VideoStudio.
+
+I hope my experience has helped you to some degree.  If you have any questions feel free to ask, and as I use it more, should things change, I will update the review.  Thanks for reading!

@@ -1,0 +1,19 @@
+The software is good for novice to medium-experience computer users.  On my PC (WIN 8.1), the software runs silently which is great.  I originally installed all of the options (there are a bunch) but ended up disabling everything except antivirus and firewall.
+
+There are a lot of other bells and whistles that I either don't need/want or they didn't work well enough to keep.  For example, the feature which helps users know if a website is safe (site advisor) actually caused major instability and sluggishness with my browser (Firefox), so I disabled that option.  The software comes with a free mobile app which I tried but uninstalled.  I have an Android phone and I was not happy with the mobile app, because it was a resource hog and kind of annoying.
+
+For just antivirus and firewall protection, this product is great, a 4 star.  All of the other features might be great for somebody who needs them, but not for me.  Given I was not that impressed with the mobile app and the site advisor features, I am lowering my overall rating to 3 stars.
+
+Installation notes
+ Surprisingly easy to install and use
+ No installation CD, just download the software from the website and enter the code found on the card which comes with the product.
+ Log-in or register with McAfee
+ Enter the serial number
+ Download the installer
+ Launch the installer
+ Pick which components youd like to install (I picked everything)
+ Download software from site (automatically)
+ 141 MB size.  Could take a while on slow computers
+ VERY fast installation.  <1 minute.
+ Cool feature: email yourself from McAfee a link to protect other computers; simply open the email from other computers and you can easily install the software without entering the serial number.
+ Vulnerability scanner is useful.  Hard to keep up with updates, so this does it for you.

@@ -1,0 +1,51 @@
+I got this product for a netbook that later died, but I owned it long enough to know I wish I had not sent it off with the netbook that needed repairs. This product (I bought it in April of 2010, while it still was the non-SP1 version) was an answer to prayer because it removed all the OEM bloatware-bloating from a netbook running Windows 7 Starter, and it's transferrable should the netbook die but you hold onto the software.
+
+Windows 8 doesn't seem magical or revolutionary to me, and the iPad lost it's magical and revolutionary feeling when I had to either upgrade it or give up on the whole idea. So that brought me back to Windows 7, and even though I lost my copy of Windows 7 of this product type, it was worth every penny and I don't know how much more.
+
+I am most likely going to buy another one to replace the one I lost, because this operating system is (to this humble reviewer) the as perfect as possible version of Vista, which while I sympathize with those who spent heavily on the Vista idea only to have them fix and replace it for nearly the same price, I can honestly say that I had no hardware that could run Vista until late 2008,whereas with Windows 7's lighter touch I had three systems from the get-go that could run that OS choice.
+
+If you have a multitude of PCs and can get it legal, I would recommend the Family Pack, but if you can't, I recommend this product as a backup option, even if you have to buy 5 or 6 copies of it.
+
+This is simply something that will most likely never come again. Grab it while you can.
+
+Update 1/15/2013: I did indeed buy another copy of it, this one with SP1 from the get go, and counting my Windows 7 Home Premium Famuly Pack Upgrade, I can now have Windows 7 on up to 7 PCs of the 2007 to 2011 stripes, and life is great for me. I know this is expensive, but Windows 7 makes your computer life easier compared to Windows 8, unless of course you love Windows 8-in which case I don't want to deny you your choice.
+
+I just know that I can have 7 computers all on one HomeGroup, have a Start menu that isn't a world unto itself, have a browser that isn't broken by a feature Microsoft intended to make up for the increasing Orwelliam aspects of Windows 8 but that websites don't want to work with because the ads that make the Internet free depend on that feature being unavailable or at worst ineffective. Google "Do Not Track in Internet Explorer 10" to find out more.
+
+Update 1-17-2013: I will be updating all of the reviews for all of the Windows 7 installers I have on tap to reflect a certain difference betweem me and the average reviewer:
+
+I to date have done all of my installs (whether of Ultimate Full Purchase Product, Ultimate Upgrade, Professional Upgrade through the Windows 7 Student Offer, Home Premium Upgrade, or Home Premium Upgrade Family Pack) through the clean install method and it never fails to grab all of the updates, update to SP1, and then grab the missing post-SP1 updates.
+
+I therefore believe that the people who can't fully update Windows didn't do the clean install method, and while I don't blame them, I don't have the time personally for a system that behaves strangely because Windows Vista was trying to be transmuted into Windows 7, when it's hard enough for one service pack of Windows 7 to be successfully transmuted into another.
+
+I hope that if you are blaming Windows 7 for your issues when upgrading from Vista, that this advice can be of use.
+
+Update 1/22/2013:
+
+Here it is, 3 years and 3 months exactly to the day that Windows 7 was released, and since I didn't want to experience the stress of putting an old MacBook from 2007 through Vista (but I DID own a legal copy of it, which covers my you-know-what if Microsoft later tries to say I upgraded illegally) I did the install Windows 7, play around in it, erase the hard disk, reinstall Windows 7, and it activated perfectly. Of course, since I was doing the clean install thing, I had to re-import my programs, files, and settings from other computers on my HomeGroup, but I have done all that and it went smooth as silk.
+
+Unlike with Windows 8, I do not feel like I wasted my money on any of my 7 copies of Windows 7, regardless of the limitations Home Premium may have compared to Professional or Ultimate. (Of course it helps when 3 PCs were upgraded using the Windows 7 Family Pack, but that is something else entirely.
+
+As to the disappointment some people voiced in libraries versus a concrete storage location, I think that you should have the libraries but have all the folders in a library be physically anchored within the library structure so that files are not being copied from mysterious library locations but instead are being copied from whatever physical folder is the part of the library from which the file you eant to copy to the destination PC is located in.
+
+Update 2-3-2014:
+
+Windows 7 is a good OS for those people who don't want a Mac but don't want Windows 8 either. It does do Classic appearance differently from Windows Vista and earlier, instead using the square buttons even in Classic appearance, but that's OK, because I dreamed of an OS with this functionality in the taskbar since Windows 95. And the redesigned taskbar is even in Windows 7 Home Premium. Sure you may lose some of the features in the Ultimate Edition, but you get everything you absolutely have to have-although Windows 7 Anytime Upgrade is no longer available to Windows 7 users, so buying the right edition of Windows 7 is extra-crucial. If you buy Windows 7 Home Premium and later find out you need XP Mode, you're going to have to sell your copy of Home Premium (assuming you're using the retail copy) and replace it with a retail copy of Ultimate or Professional.
+
+Windows XP may have been great in 2001, but Windows 7 is as close to XP as you can make Vista-and has proven worthwhile ever since 2009.
+
+For further proof, look at how Microsoft released Internet Explorer 10 and 11 for Windows 7, they sure didn't have to do that. But they realized Windows 7 was still popular (so popular I have 7 copies of it, including a Family Pack of Home Premium) and so they released as many of their updated components as they could for Windows 7 without totally making Windows 8/8.1 a non-issue.
+
+Update 9-16-2013 (Critical Windows 9 Status Update):
+
+Well, consider what I uncovered about the supposedly awesome Windows 9, that's supposed to "replace" 7:
+
+I also heard that Windows 9 may look like Windows 7, but this mini-start menu (based on a Microsoft press photo) has Live Tiles where links to local computer items once stood in 7. Plus Aero is still out for lunch (defenders say skeumorphism is dead, I say long live skeumorphism!), and Microsoft ties your activation to the Windows Store, so that means that they have a much more swift and sure means of sending your computer into reduced functionality mode even if you have a truly legal key!
+
+I want my computer being rendered illegal for a good reason (at least not for something trivial like Windows 9 allows for), not because I didn't buy enough apps from the Windows Store in a given day, week, month, or year. How are you supposed to use the Metro-limited Windows 9 when not using Metro apps early and often could be grounds for your computer to be rendered illegal according to Microsoft? In effect, they've made Metro mandatory and inaccessible, rather than optional (from the ability to legally use Windows point of view, not from the it's in your face while you're using it point of view) and far too readily accessible?
+
+I'd rather have a minor bug, as critical as the bug in question may be to the use of the computer, in the form of bad UI, than a horrible show-stopping bug that makes Windows 8's UI crimes (awful as they might have been) seem minor!
+
+I love that they're bringing back the Start button, but what they really needed to do was scrap the Windows Store and modern apps. Not make your computer depend on them but be unable to use them because it's a desktop (known as Win32) SKU. I'm sticking with Windows 7 and as soon as it's toast no more Internet for me. I would suggest you do the same.
+
+End Update 9-16-2014 (Critical Windows 9 Status Update)

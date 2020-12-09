@@ -1,0 +1,5 @@
+As a avid user of the older paperport 8 product I was hoping that I would love the improvements in paperport 12. Alas, not so much. I didn't have the disabling issues described by so many other reviewers causing big problems immediately. I found it was much slower than the older version and didn't offer any features that were compelling for the upgrade price.
+
+It just seems more difficult to use and less dependable. If I'm doing a sequence of operations where I save something it never remembers the last folder. My scanner internmittently driver hangs with this version, apparently during transfer of the scanned item to paperport. Closing paperport and reopening it seems to resolve this issue until the next time.
+
+For me this wasn't really an upgrade. Since I'm still running XP I probably should have stuck with version 8.

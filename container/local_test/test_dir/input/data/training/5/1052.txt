@@ -1,0 +1,21 @@
+After spending some time with iMovie '08 and writing a series of articles on it, I thought I'd use this week to explore Apple's Numbers '08, the newest addition to Apple's iWork '08 suite of office applications.
+
+Now, I must admit upfront that I have little or no prior experience with spreadsheet applications. My basic numbers calculations have been done in programs like Quicken and the analog pen and paper method. I think in the past I may have opened up Excel or tried to use Apple's AppleWorks spreadsheet program, but not only did the programs look boring, but I had no idea where to begin in using these applications.
+
+Leave it to Apple, however, to create yet another useful production program for the rest of us. That is, a program which is intuitive, practical, and stylish. Numbers '08 is another fine program that can help you transform the analog fashion of pen and paper calculations and create functions that can help you become more efficient with various projects involving money, data gathering and calculations.
+
+Already I see a number of projects that I can create or improve upon using Numbers '08. For example, for the last couple of years I've been keeping a simple photography equipment inventory list in my business binder. When I make a new $[...]+ purchase I make note of it in my list. But with Numbers '08, I can streamline that data and keep a running balance on how much I've spent on equipment. Likewise, I can use the same technique for creating a better marketing plan, an equipment needs budget, a business growth plan, a couple of simple to-do check lists for long terms projects, and a few custom invoices for freelance work I do. In fact, I've already re-designed my wedding client contract using Numbers '08 so that I can use it on my laptop and fill it in right after the close of a sale. This type spread sheet method is more accurate and less time consuming than the paper format.
+
+The templates that come installed with Numbers '08 provide a list of other possibilities that include various financial budgets plans, a home improvement plan, an event planner, grade book, and a science research report.
+
+As with Apple's Pages and Keynote, Numbers '08 is also a graphic design application. It contains tools for adding various font styles, shapes, photos, and other media. In other words, you have the ability to tell a visual story with your facts, figures, and data.
+
+If you have no prior experience with spread sheet creation or if you want to learn the features of Numbers '08, Apple has produced an excellent set of tutorial videos to get you up and running. The 286-page Numbers User Guide is also another useful source for getting started and learning the program.
+
+The most challenging part for those of us new to spreadsheet development is understanding how formulas work in a table setup so that calculations can be made. Numbers '08 comes installed with over 150 formulas that will perform most all the calculations that we'll ever need. But the basic mathematical functions that you learned in high school should be enough to get your started. Basically, a formula simply provides the sum of selected cells in a table. Again, the Apple tutorial or User Guide and the installed templates will show you some really easy steps for basic functions. From there, you can study and create formula functions to fit your individual needs.
+
+Already a third-party website called Numbers Templates has been created to share templates, tips, and tricks for using the Numbers '08 spreadsheet program.
+
+Though I can't compare Numbers '08 with the industry standard program like Excel, Apple's program I think will fit the needs of most home and small business users. No doubt, future versions will include even more advance functions, but as with Apple's other fine programs, Numbers '08 has the simplicity and style that we've all come to expect.
+
+Original posted at [...]

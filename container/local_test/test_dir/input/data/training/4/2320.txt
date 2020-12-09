@@ -1,0 +1,11 @@
+Let me preface this review by noting that I'm running Windows XP, so results with Vista may differ.
+
+Norton 360 seems, in general, to get mediocre reviews in the press as well as from a major consumer publication that I read routinely. As a consumer, I don't have access to--for instance--the kind of virus-catching software that professionals use to test the effectiveness of anti-virus packages. As a result, my review can only really address general performance, the user interface, and convenience.
+
+General Performance. Norton 360 seems fine. It doesn't noticeably slow down my system. I haven't gotten any virus warnings, or in fact ANY kind of warnings. So I can only conclude that the software is either seamlessly protecting me, that no threats are being encountered, or that I'm being infected with all kinds of viruses and other on-line threats. Given the lack of symptoms of any problems and my history of good experiences with Symantec products, I assume all is well.
+
+User Interface. The UI is simple and intuitive, perfect for people (like me) who just want peace of mind without a lot of fiddling. There's an icon in the system tray with a green check, which tells me that all is well. When it changes to a red exclamation point, I know I have to do something, and the interface for correcting the problems is simple. There are four areas of protection: PC Security, Identity Protection, Backup, and PC Tuneup. Each area has a simple and intuitive menu that appears when you hover the mouse pointer over the corresponding icon.
+
+Convenience. For me, it's perfect. Virtually all functions are scheduled and/or occur automatically. Unlike a Trend Micro product I used before, the system doesn't constantly present me with issues and ask me what I want to do about them.
+
+After over a month, I've had no problems. However, given what I've read about Norton 360's performance on catching viruses (on a consumer web-site I trust), I can't in good conscience give this product five stars.

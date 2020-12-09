@@ -1,0 +1,6 @@
+Here we go again folks ,addition by subtraction.
+Takes about 15 minutes to install on a very fast machine and doesn't allow for a custom install.
+
+So if you don't want to clutter up your system with programs (One note Access,Skype OneDrive) and have it on a drive other that C,you're out a luck.
+
+I smell the perfume of Vista in the air.

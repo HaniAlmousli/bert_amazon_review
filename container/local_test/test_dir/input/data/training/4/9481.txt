@@ -1,0 +1,7 @@
+I have used and been a fan of Corel PaintShop Pro since version 7. While keeping the lower cost, PaintShop Pro has been steadily moving toward the full capability of Photoshop. The last couple upgrades, however, seem more like a nod to the nifty automatic tools rather than catching up on the last few things Photoshop does better. X7 is not, in my opinion, worth upgrading from X6. If you're new to image editing, definitely look at Corel PaintShop, but I would recommend spending a bit more and getting the Ultimate version -- the extra tools and textures are worth it.
+
+The learning curve will be fairly steep if this is your first time entering this sort of image editing, but if you poke through the automatic and "magic" tools you will find yourself able to make some quite impressive things happen to your photos easily. The "Adjust" window (of the top tabs: Manage - Adjust - Edit) is your friend for most photo alterations, as you can see a preview of what the tool does.
+
+The one big wish I had for this new version, alas, remains unfulfilled: Right-justified text. PaintShop Pro still doesn't have it, and it's the one function that still sends me back to Photoshop.
+
+Using the 64-bit version on Windows 7, on a quite powerful PC, I have had X7 lock up a number of times. Never had that problem with X6.

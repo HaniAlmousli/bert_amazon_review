@@ -1,0 +1,5 @@
+It may do a good job at detecting viruses, but let's face it, if running an antivirus program throws so much junk on your system and slows it to a halt, how is that much different from just installing a virus?
+
+OK, it isn't quite that bad, and I put it on a 3 year old Vista PC rather than messing with my nice Win 7 PC, but the slowdown over Vipre was very noticeable.  When a scan starts, the computer just stops.  I almost thought it was crashed when this happened.  It didn't catch any security threats, but that's because Vipre had already kept that PC clean in the first place.  I do like the website warnings before you click on the site, but if you have a good AV program running, it will catch the problem in time anyway.
+
+In summary, this program looks nice, but it is way to system heavy!  The addition of add-ons, toolbars, etc. is inexcusable for a security program!

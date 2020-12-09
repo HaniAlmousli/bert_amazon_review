@@ -1,0 +1,3 @@
+This program has problems syncing with mobile devices. Calendar appointments disappear in the transfer. If you do serious business you don't want to depend on this program. Earlier versions worked better. Stay with them. Outlook 2007 works much better.
+
+Update: Found a solution for syncing problem. When you make a recurring appointment limit it to set number of occurances. Do not use "no end date."

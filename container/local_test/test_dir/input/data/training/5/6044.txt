@@ -1,0 +1,1 @@
+Includes a USB drive in case you don't have an optical drive. Installation went smoothly, and allows use of Windows with no problems to date.

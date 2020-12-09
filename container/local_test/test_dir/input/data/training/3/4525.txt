@@ -1,0 +1,13 @@
+I had used Quicken for several years on the Mac, but when I switched to PC I got a free copy of Money 2004 and used that until I purchased this product. My initial reaction to Money 2004 was negative, but I got used to it over time. My new bank only provides downloads to Quicken, which makes sense given Money's extinction, forcing me to migrate back to Quicken. I can't say that I'm very impressed.
+
+The interface is very clunky; I doubt it's improved at all in the five years I've been away. (Even Microsoft Money 2004 had a cleaner interface, and Microsoft undoubtedly improved on it over the years.) There are too many different levels of menus -- top-level, register-level, account-level, and more -- which makes use of the product confusing. The one thing I really appreciated about Quicken in the past is thankfully still there: when you balance an account, you have the option of deselecting all qualifying items and then reselecting them one at a time. (In Money 2004, you would have had to manually deselect all of the items.) This allows you to balance your account by ticking off transactions one-by-one.
+
+The product is for some reason dependent on Internet Explorer; when I wanted to register Quicken and when I wanted to download a program update, I had to make Internet Explorer my default browser (otherwise, it's Mozilla). This is annoying, and I don't recall any other non-Microsoft product having this restriction.
+
+I had difficulty setting up one of my banks for automatic download. This is definitely a result of the way that the bank's security is set up, but Quicken (the program; I haven't contacted technical support) has not been helpful in providing clues about how to resolve the problem. (It did provide an inconvenient workaround, but I would like the problem to be fixed.)
+
+I do not like the way that the program promotes fee-for-service programs like billpay that you can get through Quicken.com. This is only a minor annoyance, but it's built into the program.
+
+In all, Quicken seems like it will do the job I need it to, but it's not elegant or fun. Unfortunately, it's the only game in town.
+
+Note that I have not used any of the features that distinguish Home & Business from its less expensive siblings, so I can't comment on them yet.

@@ -1,0 +1,5 @@
+This isn't just a 5-port metal sheathed battleship of switching goodness, it's also a networking IT guys secret weapon. This Gigabit switch (and it's larger ProSafe Plus kin) has port mirroring and other advanced functions for comprehensive service quality, diagnosing, and monitoring of network traffic on-the-cheap. It's impossible to find this stuff in the average, everyday un-managed switches at the lower end of the price pool where this one also swims.
+
+To get similar functionality, high-end switches are available in the multi-hundred to thousands of dollars apiece range, and single purpose 'Network Tap' devices are close to the same. This little guy offers most of the same capabilities at an incredible $50/60-ish price tag.
+
+Does it work for everyday home and small office users who need to expand but don't need the extras? Absolutely, and it does it very well. It even comes in 8, 16, or 24 port models if needed. This is my second one of these, with the first still happily humming away since day 1, in 2009.

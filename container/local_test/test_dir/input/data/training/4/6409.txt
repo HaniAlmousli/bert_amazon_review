@@ -1,0 +1,25 @@
+Let's just get right to it:
+
+PROS:
+Plays Blu-ray Discs, 3D movies, and DVDs.
+Plays other media from your computer.
+Can display non-3D video and photos in 3D, though your mileage may vary.
+Easy install.
+Comes with a very nice pair of anaglyph 3D glasses.
+
+CONS:
+Bulky and bloated. Takes up a lot of space and loads slowly even on very fast PCs.
+Retail version still has advertisement in the way of little pop-ups that ask you to upgrade.
+Slow reaction when it comes to movie controls, sometimes.
+Accessing additional controls (interlace, subtitles, color, etc.) is more complicated than other options.
+
+THE DETAILS:
+I use PowerDVD 12 for two things: When I want to watch a Blu-ray Disc on my computer, and when I want to watch a normal 2D movie or slideshow in 3D, using PowerDVD's pseudo-3D enhancement. The 3D enhancement really does work, though it is a bit inconsistent and you'll find some things in the background popping out, instead of things in the foreground. It's still a cool effect, and the glasses they include are rather nice for anaglyph 3D glasses; They're plastic, with real hinges on the temples, and of decent build quality.
+
+But when it comes to video playback in 2D, unless it's a Blu-ray Disc, I still prefer to use VLC (VideoLAN) for my movie-watching needs. It's faster, easier to control, and doesn't pester me with pop-ups at startup asking me to look into other upgrades and features. VLC is also free, and gives fine control over the video color, quality, and features in the contextual menu-- Something PowerDVD 12 lacks. You can start the journey toward tweaking controls and appearance in PowerDVD 12's contextual menu, but that just takes you to a large pop-over menu that has limited features.
+
+In short, PowerDVD 12 is made for people who just want to pop in a disc and have it play automatically without any tweaking or customizing. It's not made for people who like to customize their experience. That being said, it's still an excellent way to play Blu-ray Discs on your PC, and the 3D feature is kind of cool for those of us who haven't invested in a 3D HDTV yet.
+
+PowerDVD is well worth having around if you enjoy Blu-ray Discs. If you're looking for something to play video files, photo slideshows, music, and DVDs, though, I'd recommend either VLC or J. River Media Center 16. Both manage these other tasks faster and more efficiently than PowerDVD does, currently, and do it without the nags, retail links, and resource hogging found in PowerDVD 12.
+
+VERDICT:  The best Blu-ray Disc player for Windows, but "average to slow" for other tasks.

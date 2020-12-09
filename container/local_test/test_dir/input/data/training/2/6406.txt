@@ -1,0 +1,7 @@
+I got this because I wanted to be able to watch my Blu-Ray movies on my computer and the feature that allows me to play my media on any device really caught my eyes.
+
+I was highly disappointed after I tried it out. While it can play Blu-Ray movies, it is the other video media that seems to have problems with. There were many videos that I tried to play that were on my computer to my PS3 that it would tell me that it was unsupported data. I also noticed that when I tried to watch things on the PS3, there were a lot of videos missing and I can't figure out what the issue was. They were all .avi or .mkv and yet only some videos show up and others don't and they are all in the exact same folder.
+
+Also, the connection isn't that great. I've used Vuze before as a media server and that one trumps this by far. If you want to fast forward a little, it lagged and got hung up.
+
+While all the features sound good, it just doesn't do what I need it to do.

@@ -1,0 +1,7 @@
+Having used the previous two versions of PowerDirector, I have grown comfortable with the interface and controls. This continues along the same path. Although I have not timed identical sessions, this program really seems to be faster than previous versions. Operation under Windows 7 (i7) and 10 (i5) is fine and I have not encountered any problems.
+
+One nice feature is the automatic split and trim. This seems to automatically trim the repeated scenes around edit splits. At least to me it seemed to intelligently cut sections where I inserted splits. Automatically creating chapters at splits saves a lot of effort. I think these were introduced in version 13 but appear to work well in this version.
+
+I have also downloaded new templates and appreciate how PowerDirector seems to support and encourage user created files. It is a powerful feature that works well and can potentially save a lot of user development. As an example, I found a music theme and it works well for creating recital discs.
+
+The Express Project looks interesting but I have not gone beyond the included sample. Downloading additional projects requires user registration. I have not yet made the switch to 4k or high frame rate video, and it may be a while before I do. I do like that it still supports 3D output. Other editors have dropped 3D support.

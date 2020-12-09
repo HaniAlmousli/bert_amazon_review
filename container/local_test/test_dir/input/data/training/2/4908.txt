@@ -1,0 +1,25 @@
+I think I got my first version of PDF create 2.0 with my first Xerox scanner about 10 years ago. It was very useful and handy, it helped create PDF file from anything that can be printed. Since then, I have accumulated almost every version of PDF create, most of them came with one or the other multifunction machine or Paperport. But PDF Creator version 7.0 is the slowest and the most buggy.
+
+PDF Create produces PDF files in 3 ways.
+
+1). PDF create 7.0 installs itself as a printer on your computer. Let us say you want to create a PDF file from a webpage, you will print the webpage on PDF Create printer, give the file a name, and it will create the PDF file. This is the way I use it most of the time.
+
+2). It also installs a program called PDF Create Assistant on your computer and you can add the files that you want to make PDF from, say a Microsoft Word document, click create the icon Start PDF Creation and it will turn the document into a PDF file. It works but I rarely use this way.
+
+3). The third way to create PDF files with this program is from that PDF create toolbar in Microsoft office.  I found that to be very buggy, and it crashes the Microsoft Word. I had to uninstall that toolbar.
+
+Instead of making the program better with the newer version, Nuance has made it even slower and buggier. Here are the problems I encountered with this program.
+
+1). It installs with Visual C++ 2005, even though my computer as all newer versions of Visual C++ including 2008 and 2010. I think all of those were installed by one of the other Nuance program. These guys at Nuance cannot get their act together, each of their programs installs a different version of Visual C++, without even checking if the newer version is already on the computer.
+
+2). Unless you choose custom install, it will install the PDF create toolbar in Microsoft office, which crashes the Microsoft office. I would also not install any add-ons to PDF Create 7.
+
+3). At the end of installation, it asks you to register the program, and then the registration screen freezes. I had to press Ctrl-Alt-Delete to get out of that.
+
+4). It also installs registration reminder and update program on Windows Startup, which really slows down your computer. Run msconfig and uninstall those startup programs.
+
+5). The program is still named ScanSoft PDF Create! The name of the company now is Nuance. It tells you how much attention to detail Nuance pays.
+
+6). Nuance has Draconian activation policies. They allow only one activation for each program. Tough luck if you need to reinstall the program because you changed hard drive or got a new computer.
+
+Since there is no law to force Nuance to eat its own dogfood before feeding it to the customers, the market should punish the sloppy companies. I would not buy this program, I think there are cheaper and faster alternatives available out there. On one of my computers, I use PDF Xchange 4 to create PDF documents, it is much more versatile, cheaper, and faster. I use it in combination with scan to PDF, which converts scanned documents into PDF files. And you can download a free version of PDF Xchange to try.

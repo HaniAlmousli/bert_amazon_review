@@ -1,0 +1,11 @@
+I've tried quite a few anti-virus programs, and have already been around the block with Kaspersky. The last version I tested, the 2010 version, caused serious slowdowns in my computer (a quad-core intel box with 4 GB of RAM) and I un-installed it forthwith.
+
+With the latest version, though, Kaspersky seems to have made great progress. It has all the standard features (firewall, a/v, anti-spam, URL filtering), so in that sense it's much like other suites on the market. For specific performance in each section, I'd suggest hitting a dedicated test site though: they're set up to perform such comparisons.
+
+As for usability, it's about speed and dependability (after, of course, I've reviewed those results) and this program has been as good as any in those respects. I've gotten no virii since installing (though to be honest I'm pretty careful about how I use my computer) and the ongoing protection seems not to slow anything down. The full scan takes longer than many, but that really doesn't need to take place that often. A secondary scan, the "critical areas" scan is much faster and there's only a very slight performance hit.
+
+One feature I liked that the program offers is what they call a vulnerability scan. In this, the program looks at your third-party programs and reports and known vulnerabilities in THEM - which is a fantastic feature, and allows you to get a leg up on that sort of thing.
+
+All in all, I'm quite content and have no reason to be uninstalling this version any time soon.
+
+Highly recommended.
